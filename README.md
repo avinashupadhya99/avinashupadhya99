@@ -1,10 +1,10 @@
 ### Hi there, I am Avinash 👋
 
-I love anything DevOps and Cloud. Currently learning Cloud Security through [null](http://github.com/null-open-security-community)'s Study Group.
+I love anything DevOps and Cloud. Currently learning k8s through [Civo Academy](https://www.civo.com/academy) and tons of other resources.
 
-I am a senior in college and currently interning at Hashedin by Deloitte. I participate in hackathons over the weekends and love being part of communities.
+I am a senior in college and currently working at Hashedin by Deloitte. I participate in hackathons over the weekends and love being part of communities.
 
-I am also a Postman Student Leader and have hosted a few workshops at hackathons. Currently organising [Def Hacks Worldwide 3.0](https://defhacks.co/hackathons/worldwide_3.0.html)
+I am also a Postman Student Leader and an AngelHack ambassador. Currently organising [Hack The World](https://hacktheworld.online/?1)
 
 <!--
 **avinashupadhya99/avinashupadhya99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
