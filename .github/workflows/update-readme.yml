@@ -1,4 +1,4 @@
-name: read-scribe
+name: update-readme
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
     - cron: "0 */1 * * *"
 
 jobs:
-  markscribe:
+  readme:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
@@ -32,3 +32,7 @@ jobs:
           commit_user_name: readme-scribe 🤖
           commit_user_email: actions@github.com
           commit_author: readme-scribe 🤖 <actions@github.com>
+      
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
