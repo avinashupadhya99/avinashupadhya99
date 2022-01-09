@@ -1,4 +1,4 @@
-name: update-readme
+name: readmescribe
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
     - cron: "0 */1 * * *"
 
 jobs:
-  readme:
+  markscribe:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
@@ -22,10 +22,6 @@ jobs:
         with:
           name: README.md
           path: README.md
-
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
