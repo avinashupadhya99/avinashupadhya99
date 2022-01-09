@@ -36,16 +36,18 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.24.0](https://github.com/kubernetes/minikube/releases/tag/v1.24.0), 2 months ago) - Run Kubernetes locally
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([v2.4.0](https://github.com/kubernetes/dashboard/releases/tag/v2.4.0), 2 months ago) - General-purpose web UI for Kubernetes clusters
 
+#### 🔨 Latest Pull Requests I published
 
+- [Provide address flag for admin dashboard command](https://github.com/argoproj/argo-cd/pull/8095) on [argoproj/argo-cd](https://github.com/argoproj/argo-cd) (4 days ago)
+- [Fix broken formatting for Enterprise Admin API](https://github.com/Kong/docs.konghq.com/pull/3517) on [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) (5 days ago)
+- [Add telepresence login as prerequisuite for intercepts](https://github.com/telepresenceio/docs/pull/51) on [telepresenceio/docs](https://github.com/telepresenceio/docs) (1 week ago)
+- [Fix broken link for telepresence installation in howtos/intercepts](https://github.com/telepresenceio/docs/pull/50) on [telepresenceio/docs](https://github.com/telepresenceio/docs) (1 week ago)
+- [Add avinashupadhya99 challenge submission](https://github.com/do-community/kubernetes-challenge/pull/208) on [do-community/kubernetes-challenge](https://github.com/do-community/kubernetes-challenge) (1 week ago)
 
 #### ⚡ Recent Activity
 
 
-1. 🎉 Merged PR [#26](https://github.com/jamesgeorge007/csstox/pull/26) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
-2. 🎉 Merged PR [#25](https://github.com/jamesgeorge007/csstox/pull/25) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
-3. 🎉 Merged PR [#27](https://github.com/jamesgeorge007/csstox/pull/27) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
-4. 🎉 Merged PR [#28](https://github.com/jamesgeorge007/csstox/pull/28) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
-5. 🎉 Merged PR [#29](https://github.com/jamesgeorge007/csstox/pull/29) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
+
 
     
 
