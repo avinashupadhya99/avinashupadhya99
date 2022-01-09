@@ -15,9 +15,10 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 ### ⚡ GitHub stats
 
-![github-stats](https://github-readme-stats.vercel.app/api?username=avinashupadhya99&show_icons=true&theme=tokyonight)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=avinashupadhya99&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=avinashupadhya99&show_icons=true&theme=tokyonight" alt="GitHub readme stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=avinashupadhya99&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub readme streak stats" />
+</p>
 
 #### 👷 Check out what I'm currently working on
 
