@@ -44,7 +44,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 - [Fix broken link for telepresence installation in howtos/intercepts](https://github.com/telepresenceio/docs/pull/50) on [telepresenceio/docs](https://github.com/telepresenceio/docs) (1 week ago)
 - [Add avinashupadhya99 challenge submission](https://github.com/do-community/kubernetes-challenge/pull/208) on [do-community/kubernetes-challenge](https://github.com/do-community/kubernetes-challenge) (1 week ago)
 
-<!-- #### ⚡ Recent Activity -->
+#### ⚡ Recent Activity
 
 
 
