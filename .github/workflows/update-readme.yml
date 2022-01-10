@@ -33,6 +33,6 @@ jobs:
           commit_user_email: actions@github.com
           commit_author: readme-scribe 🤖 <actions@github.com>
       
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # - uses: jamesgeorge007/github-activity-readme@master
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
