@@ -30,8 +30,8 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
+- [civo/cli](https://github.com/civo/cli) ([v1.0.7](https://github.com/civo/cli/releases/tag/v1.0.7), today) - Our Command Line Interface (CLI) for interacting with your Civo resources
 - [getporter/porter](https://github.com/getporter/porter) ([v1.0.0-alpha.7](https://github.com/getporter/porter/releases/tag/v1.0.0-alpha.7), 1 day ago) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as a versioned bundle that you can distribute, and install with a single command.
-- [civo/cli](https://github.com/civo/cli) ([v1.0.6](https://github.com/civo/cli/releases/tag/v1.0.6), 1 day ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.2](https://github.com/argoproj/argo-cd/releases/tag/v2.2.2), 1 week ago) - Declarative continuous deployment for Kubernetes.
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.23](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.23), 1 month ago) - Kubernetes website and documentation repo: 
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.24.0](https://github.com/kubernetes/minikube/releases/tag/v1.24.0), 2 months ago) - Run Kubernetes locally
