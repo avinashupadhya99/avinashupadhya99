@@ -22,16 +22,16 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes. (6 days ago)
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes. (1 week ago)
 - [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) - 🦍 Source code for docs.konghq.com website (1 week ago)
 - [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen) - A simple API that generates a random k8s keyword. A demo application for learning k8s concepts (1 week ago)
-- [do-community/kubernetes-challenge](https://github.com/do-community/kubernetes-challenge) - A repository of projects from the 2021 DigitalOcean Kubernetes Challenge  (1 week ago)
+- [do-community/kubernetes-challenge](https://github.com/do-community/kubernetes-challenge) - A repository of projects from the 2021 DigitalOcean Kubernetes Challenge  (2 weeks ago)
 - [avinashupadhya99/kubegen-manifests](https://github.com/avinashupadhya99/kubegen-manifests) - Manifest files for https://github.com/avinashupadhya99/kubegen (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [civo/cli](https://github.com/civo/cli) ([v1.0.7](https://github.com/civo/cli/releases/tag/v1.0.7), today) - Our Command Line Interface (CLI) for interacting with your Civo resources
-- [getporter/porter](https://github.com/getporter/porter) ([v1.0.0-alpha.7](https://github.com/getporter/porter/releases/tag/v1.0.0-alpha.7), 1 day ago) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as a versioned bundle that you can distribute, and install with a single command.
+- [civo/cli](https://github.com/civo/cli) ([v1.0.7](https://github.com/civo/cli/releases/tag/v1.0.7), 1 day ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
+- [getporter/porter](https://github.com/getporter/porter) ([v1.0.0-alpha.7](https://github.com/getporter/porter/releases/tag/v1.0.0-alpha.7), 2 days ago) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as a versioned bundle that you can distribute, and install with a single command.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.2](https://github.com/argoproj/argo-cd/releases/tag/v2.2.2), 1 week ago) - Declarative continuous deployment for Kubernetes.
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.23](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.23), 1 month ago) - Kubernetes website and documentation repo: 
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.24.0](https://github.com/kubernetes/minikube/releases/tag/v1.24.0), 2 months ago) - Run Kubernetes locally
@@ -42,7 +42,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 - [Fix broken formatting for Enterprise Admin API](https://github.com/Kong/docs.konghq.com/pull/3517) on [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) (1 week ago)
 - [Add telepresence login as prerequisuite for intercepts](https://github.com/telepresenceio/docs/pull/51) on [telepresenceio/docs](https://github.com/telepresenceio/docs) (1 week ago)
 - [Fix broken link for telepresence installation in howtos/intercepts](https://github.com/telepresenceio/docs/pull/50) on [telepresenceio/docs](https://github.com/telepresenceio/docs) (1 week ago)
-- [Add avinashupadhya99 challenge submission](https://github.com/do-community/kubernetes-challenge/pull/208) on [do-community/kubernetes-challenge](https://github.com/do-community/kubernetes-challenge) (1 week ago)
+- [Add avinashupadhya99 challenge submission](https://github.com/do-community/kubernetes-challenge/pull/208) on [do-community/kubernetes-challenge](https://github.com/do-community/kubernetes-challenge) (2 weeks ago)
 
 #### ⚡ Recent Activity
 
