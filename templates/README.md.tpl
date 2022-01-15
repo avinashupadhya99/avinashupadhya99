@@ -40,7 +40,15 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
-    
+
+---
+
+<div align='center'>
+  
+### 🙇‍♂️ Thanks for visiting!
+### ⚡ Stay awesome!
+  
+</div>
 
 <!--
 **avinashupadhya99/avinashupadhya99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
