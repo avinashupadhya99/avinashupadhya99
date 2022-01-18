@@ -30,7 +30,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [civo/cli](https://github.com/civo/cli) ([v1.0.7](https://github.com/civo/cli/releases/tag/v1.0.7), 5 days ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
+- [civo/cli](https://github.com/civo/cli) ([v1.0.8](https://github.com/civo/cli/releases/tag/v1.0.8), today) - Our Command Line Interface (CLI) for interacting with your Civo resources
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.2](https://github.com/argoproj/argo-cd/releases/tag/v2.2.2), 2 weeks ago) - Declarative continuous deployment for Kubernetes.
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.23](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.23), 1 month ago) - Kubernetes website and documentation repo: 
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.24.0](https://github.com/kubernetes/minikube/releases/tag/v1.24.0), 2 months ago) - Run Kubernetes locally
