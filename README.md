@@ -22,15 +22,15 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
-- [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security) - Discord bot for thenewboston currency security :| (1 day ago)
-- [avinashupadhya99/TNBGem](https://github.com/avinashupadhya99/TNBGem) - Ruby SDK for thenewboston (1 day ago)
+- [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security) - Discord bot for thenewboston currency security :| (2 days ago)
+- [avinashupadhya99/TNBGem](https://github.com/avinashupadhya99/TNBGem) - Ruby SDK for thenewboston (2 days ago)
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes. (1 week ago)
 - [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) - 🦍 Source code for docs.konghq.com website (2 weeks ago)
 - [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen) - A simple API that generates a random k8s keyword. A demo application for learning k8s concepts (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [civo/cli](https://github.com/civo/cli) ([v1.0.7](https://github.com/civo/cli/releases/tag/v1.0.7), 4 days ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
+- [civo/cli](https://github.com/civo/cli) ([v1.0.7](https://github.com/civo/cli/releases/tag/v1.0.7), 5 days ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.2](https://github.com/argoproj/argo-cd/releases/tag/v2.2.2), 2 weeks ago) - Declarative continuous deployment for Kubernetes.
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.23](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.23), 1 month ago) - Kubernetes website and documentation repo: 
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.24.0](https://github.com/kubernetes/minikube/releases/tag/v1.24.0), 2 months ago) - Run Kubernetes locally
@@ -39,7 +39,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### 🔨 Latest Pull Requests I published
 
 - [Provide address flag for admin dashboard command](https://github.com/argoproj/argo-cd/pull/8095) on [argoproj/argo-cd](https://github.com/argoproj/argo-cd) (1 week ago)
-- [Fix broken formatting for Enterprise Admin API](https://github.com/Kong/docs.konghq.com/pull/3517) on [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) (1 week ago)
+- [Fix broken formatting for Enterprise Admin API](https://github.com/Kong/docs.konghq.com/pull/3517) on [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) (2 weeks ago)
 - [Add telepresence login as prerequisuite for intercepts](https://github.com/telepresenceio/docs/pull/51) on [telepresenceio/docs](https://github.com/telepresenceio/docs) (2 weeks ago)
 - [Fix broken link for telepresence installation in howtos/intercepts](https://github.com/telepresenceio/docs/pull/50) on [telepresenceio/docs](https://github.com/telepresenceio/docs) (2 weeks ago)
 - [Add avinashupadhya99 challenge submission](https://github.com/do-community/kubernetes-challenge/pull/208) on [do-community/kubernetes-challenge](https://github.com/do-community/kubernetes-challenge) (2 weeks ago)
