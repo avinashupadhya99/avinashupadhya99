@@ -19,8 +19,8 @@ jobs:
 
       - name: add-comment-script
         run: |
-         chmod +x ./public/scripts/add-comments.sh
-         ./public/scripts/add-comments.sh
+         chmod +x "${GITHUB_WORKSPACE}/.github/public/scripts/add-comments.sh"
+         "${GITHUB_WORKSPACE}/.github/public/scripts/add-comments.sh"
         shell: bash
 
       - uses: actions/upload-artifact@v1
