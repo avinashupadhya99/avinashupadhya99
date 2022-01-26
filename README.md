@@ -22,7 +22,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
-- [avinashupadhya99/TNBGem](https://github.com/avinashupadhya99/TNBGem) - Ruby SDK for thenewboston (2 days ago)
+- [avinashupadhya99/TNBGem](https://github.com/avinashupadhya99/TNBGem) - Ruby SDK for thenewboston (3 days ago)
 - [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) - 🦍 Source code for docs.konghq.com website (1 week ago)
 - [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security) - Discord bot for thenewboston currency security :| (1 week ago)
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes. (2 weeks ago)
@@ -30,7 +30,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.25.1](https://github.com/kubernetes/minikube/releases/tag/v1.25.1), 4 days ago) - Run Kubernetes locally
+- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.25.1](https://github.com/kubernetes/minikube/releases/tag/v1.25.1), 5 days ago) - Run Kubernetes locally
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.3](https://github.com/argoproj/argo-cd/releases/tag/v2.2.3), 1 week ago) - Declarative continuous deployment for Kubernetes.
 - [civo/cli](https://github.com/civo/cli) ([v1.0.10](https://github.com/civo/cli/releases/tag/v1.0.10), 1 week ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.23](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.23), 1 month ago) - Kubernetes website and documentation repo: 
@@ -38,8 +38,8 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add link to API in Kubernetes](https://github.com/cncf/glossary/pull/348) on [cncf/glossary](https://github.com/cncf/glossary) (3 days ago)
-- [Provide address flag for admin dashboard command](https://github.com/argoproj/argo-cd/pull/8095) on [argoproj/argo-cd](https://github.com/argoproj/argo-cd) (2 weeks ago)
+- [Add link to API in Kubernetes](https://github.com/cncf/glossary/pull/348) on [cncf/glossary](https://github.com/cncf/glossary) (4 days ago)
+- [Provide address flag for admin dashboard command](https://github.com/argoproj/argo-cd/pull/8095) on [argoproj/argo-cd](https://github.com/argoproj/argo-cd) (3 weeks ago)
 - [Fix broken formatting for Enterprise Admin API](https://github.com/Kong/docs.konghq.com/pull/3517) on [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) (3 weeks ago)
 - [Add telepresence login as prerequisuite for intercepts](https://github.com/telepresenceio/docs/pull/51) on [telepresenceio/docs](https://github.com/telepresenceio/docs) (3 weeks ago)
 - [Fix broken link for telepresence installation in howtos/intercepts](https://github.com/telepresenceio/docs/pull/50) on [telepresenceio/docs](https://github.com/telepresenceio/docs) (3 weeks ago)
