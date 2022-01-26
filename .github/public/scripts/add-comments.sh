@@ -9,8 +9,8 @@ ln=$((ln + 3))
 # Add the starting comment
 sed -i "${ln} i\<\!--START_SECTION:activity-->" README.md
 
-# Increment line number again by 3
-ln=$((ln + 3))
+# Increment line number again by 12
+ln=$((ln + 12))
 
 # Add the ending comment
 sed -i "${ln} i\<\!--END_SECTION:activity-->" README.md
