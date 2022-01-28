@@ -22,11 +22,11 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
+- [cncf/glossary](https://github.com/cncf/glossary) - Cloud Native Glossary (today)
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Open source Kubernetes troubleshooting and automation platform (1 day ago)
 - [avinashupadhya99/TNBGem](https://github.com/avinashupadhya99/TNBGem) - Ruby SDK for thenewboston (5 days ago)
 - [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) - 🦍 Source code for docs.konghq.com website (1 week ago)
 - [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security) - Discord bot for thenewboston currency security :| (1 week ago)
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes. (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -47,7 +47,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 
-<!--START_SECTION:activity-->
 
 
 
@@ -59,7 +58,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 
 
-<!--END_SECTION:activity-->
 
 
 ---
