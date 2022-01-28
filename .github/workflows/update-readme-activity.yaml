@@ -1,0 +1,36 @@
+name: update-readme-activity
+
+on:
+  schedule:
+    - cron: "30 */1 * * *"
+
+jobs:
+  readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+
+      - name: add-comment-script
+        run: |
+         chmod +x "${GITHUB_WORKSPACE}/.github/public/scripts/add-comments.sh"
+         "${GITHUB_WORKSPACE}/.github/public/scripts/add-comments.sh"
+        shell: bash
+
+      - name: display README.md 1
+        run: |
+         cat README.md
+        shell: bash
+
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: 'Update generated README'
+          MAX_LINES: 5
+
+      - name: display README.md 2
+        run: |
+         cat README.md
+        shell: bash
+      
+      
