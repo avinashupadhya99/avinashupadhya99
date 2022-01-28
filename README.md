@@ -38,16 +38,15 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔨 Latest Pull Requests I published
 
+- [Close profile card in compare view](https://github.com/parca-dev/parca/pull/586) on [parca-dev/parca](https://github.com/parca-dev/parca) (today)
 - [Documentation contribution docs on sphinx](https://github.com/robusta-dev/robusta/pull/182) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (2 days ago)
 - [Instructions for installing robusta in different namespace](https://github.com/robusta-dev/robusta/pull/180) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (2 days ago)
 - [Add link to API in Kubernetes](https://github.com/cncf/glossary/pull/348) on [cncf/glossary](https://github.com/cncf/glossary) (6 days ago)
 - [Provide address flag for admin dashboard command](https://github.com/argoproj/argo-cd/pull/8095) on [argoproj/argo-cd](https://github.com/argoproj/argo-cd) (3 weeks ago)
-- [Fix broken formatting for Enterprise Admin API](https://github.com/Kong/docs.konghq.com/pull/3517) on [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) (3 weeks ago)
 
 #### ⚡ Recent Activity
 
 
-<!--START_SECTION:activity-->
 
 
 
@@ -59,7 +58,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 
 
-<!--END_SECTION:activity-->
 
 
 ---
