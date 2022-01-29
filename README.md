@@ -46,6 +46,8 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### ⚡ Recent Activity
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 
 
