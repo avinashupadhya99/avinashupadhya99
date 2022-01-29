@@ -47,11 +47,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/avinashupadhya99/avinashupadhya99/issues/3) in [avinashupadhya99/avinashupadhya99](https://github.com/avinashupadhya99/avinashupadhya99)
-2. 🗣 Commented on [#3](https://github.com/avinashupadhya99/avinashupadhya99/issues/3) in [avinashupadhya99/avinashupadhya99](https://github.com/avinashupadhya99/avinashupadhya99)
-3. 💪 Opened PR [#586](https://github.com/parca-dev/parca/pull/586) in [parca-dev/parca](https://github.com/parca-dev/parca)
-4. 🗣 Commented on [#211](https://github.com/parca-dev/parca/issues/211) in [parca-dev/parca](https://github.com/parca-dev/parca)
-5. 🗣 Commented on [#211](https://github.com/parca-dev/parca/issues/211) in [parca-dev/parca](https://github.com/parca-dev/parca)
 <!--END_SECTION:activity-->
 
 
