@@ -46,13 +46,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### ⚡ Recent Activity
 
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#586](https://github.com/parca-dev/parca/pull/586) in [parca-dev/parca](https://github.com/parca-dev/parca)
-2. 🗣 Commented on [#211](https://github.com/parca-dev/parca/issues/211) in [parca-dev/parca](https://github.com/parca-dev/parca)
-3. 🗣 Commented on [#211](https://github.com/parca-dev/parca/issues/211) in [parca-dev/parca](https://github.com/parca-dev/parca)
-4. 🗣 Commented on [#211](https://github.com/parca-dev/parca/issues/211) in [parca-dev/parca](https://github.com/parca-dev/parca)
-5. ❗️ Opened issue [#22](https://github.com/Keysign-Wallet/TNB-BOT/issues/22) in [Keysign-Wallet/TNB-BOT](https://github.com/Keysign-Wallet/TNB-BOT)
-<!--END_SECTION:activity-->
 
 
 
