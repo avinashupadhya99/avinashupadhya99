@@ -1,6 +1,8 @@
 <div align='center'>
   
- ## Who am I?🤔
+## Who am I?🤔
+
+<img align="right" width="220" src="https://media.giphy.com/media/YFkpsHWCsNUUo/giphy.gif" alt="Struggling-peter" />
 
 Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently working on improving monitoring and observability for a client at work using Datadog. I like working with Cloud Native tools and practicing Devops techniques. In the past year, I've contributed to Cloud Native projects such as [@Kubernetes](https://github.com/pulls?q=is%3Apr+author%3Aavinashupadhya99+archived%3Afalse+user%3Akubernetes), [@GitLab](https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&state=all&author_username=avinashupadhya99), [@ArgoCD](https://github.com/pulls?q=is%3Apr+author%3Aavinashupadhya99+archived%3Afalse+user%3Aargoproj), [@CivoCloud](https://github.com/pulls?q=is%3Apr+author%3Aavinashupadhya99+archived%3Afalse+user%3Acivo), [@Kong](https://github.com/pulls?q=is%3Apr+author%3Aavinashupadhya99+archived%3Afalse+user%3AKong) at the time of writing this intro. I love participating in hackathons and have [won](https://devpost.com/avinashupadhya99) a few hackathons in the past as well.
 
