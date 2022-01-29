@@ -17,6 +17,12 @@ jobs:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
 
+      - name: add-comment-script
+        run: |
+         chmod +x "${GITHUB_WORKSPACE}/.github/public/scripts/add-comments.sh"
+         "${GITHUB_WORKSPACE}/.github/public/scripts/add-comments.sh"
+        shell: bash
+
       - uses: actions/upload-artifact@v1
         with:
           name: README.md
@@ -31,6 +37,23 @@ jobs:
           commit_user_name: readme-scribe 🤖
           commit_user_email: actions@github.com
           commit_author: readme-scribe 🤖 <actions@github.com>
+
+      - name: display README.md 1
+        run: |
+         cat README.md
+        shell: bash
+
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: 'Update generated README'
+          MAX_LINES: 5
+
+      - name: display README.md 2
+        run: |
+         cat README.md
+        shell: bash
 
       
       
