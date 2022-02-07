@@ -32,11 +32,11 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
+- [getporter/porter](https://github.com/getporter/porter) ([v1.0.0-alpha.9](https://github.com/getporter/porter/releases/tag/v1.0.0-alpha.9), today) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as a versioned bundle that you can distribute, and install with a single command.
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.8.22](https://github.com/robusta-dev/robusta/releases/tag/0.8.22), 1 day ago) - Open source Kubernetes troubleshooting and automation platform
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.5](https://github.com/argoproj/argo-cd/releases/tag/v2.2.5), 2 days ago) - Declarative continuous deployment for Kubernetes.
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([v2.5.0](https://github.com/kubernetes/dashboard/releases/tag/v2.5.0), 4 days ago) - General-purpose web UI for Kubernetes clusters
 - [civo/cli](https://github.com/civo/cli) ([v1.0.13](https://github.com/civo/cli/releases/tag/v1.0.13), 1 week ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
-- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.25.1](https://github.com/kubernetes/minikube/releases/tag/v1.25.1), 2 weeks ago) - Run Kubernetes locally
 
 #### 🔨 Latest Pull Requests I published
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3462](https://github.com/EddieHubCommunity/support/issues/3462) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. ❗️ Closed issue [#1](https://github.com/avinashupadhya99/avinashupadhya99/issues/1) in [avinashupadhya99/avinashupadhya99](https://github.com/avinashupadhya99/avinashupadhya99)
-3. ❗️ Closed issue [#3](https://github.com/avinashupadhya99/avinashupadhya99/issues/3) in [avinashupadhya99/avinashupadhya99](https://github.com/avinashupadhya99/avinashupadhya99)
-4. 🗣 Commented on [#3](https://github.com/avinashupadhya99/avinashupadhya99/issues/3) in [avinashupadhya99/avinashupadhya99](https://github.com/avinashupadhya99/avinashupadhya99)
-5. 💪 Opened PR [#586](https://github.com/parca-dev/parca/pull/586) in [parca-dev/parca](https://github.com/parca-dev/parca)
 <!--END_SECTION:activity-->
 
 
