@@ -32,28 +32,23 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.8.23](https://github.com/robusta-dev/robusta/releases/tag/0.8.23), today) - Open source Kubernetes troubleshooting and automation platform
-- [civo/cli](https://github.com/civo/cli) ([v1.0.14](https://github.com/civo/cli/releases/tag/v1.0.14), 1 day ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.5](https://github.com/argoproj/argo-cd/releases/tag/v2.2.5), 3 days ago) - Declarative continuous deployment for Kubernetes.
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([v2.5.0](https://github.com/kubernetes/dashboard/releases/tag/v2.5.0), 5 days ago) - General-purpose web UI for Kubernetes clusters
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.8.23](https://github.com/robusta-dev/robusta/releases/tag/0.8.23), 1 day ago) - Open source Kubernetes troubleshooting and automation platform
+- [civo/cli](https://github.com/civo/cli) ([v1.0.14](https://github.com/civo/cli/releases/tag/v1.0.14), 2 days ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.5](https://github.com/argoproj/argo-cd/releases/tag/v2.2.5), 4 days ago) - Declarative continuous deployment for Kubernetes.
+- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([v2.5.0](https://github.com/kubernetes/dashboard/releases/tag/v2.5.0), 6 days ago) - General-purpose web UI for Kubernetes clusters
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.25.1](https://github.com/kubernetes/minikube/releases/tag/v1.25.1), 2 weeks ago) - Run Kubernetes locally
 
 #### 🔨 Latest Pull Requests I published
 
 - [Close profile card in compare view](https://github.com/parca-dev/parca/pull/586) on [parca-dev/parca](https://github.com/parca-dev/parca) (1 week ago)
-- [Documentation contribution docs on sphinx](https://github.com/robusta-dev/robusta/pull/182) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (1 week ago)
-- [Instructions for installing robusta in different namespace](https://github.com/robusta-dev/robusta/pull/180) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (1 week ago)
+- [Documentation contribution docs on sphinx](https://github.com/robusta-dev/robusta/pull/182) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (2 weeks ago)
+- [Instructions for installing robusta in different namespace](https://github.com/robusta-dev/robusta/pull/180) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (2 weeks ago)
 - [Add link to API in Kubernetes](https://github.com/cncf/glossary/pull/348) on [cncf/glossary](https://github.com/cncf/glossary) (2 weeks ago)
 - [Provide address flag for admin dashboard command](https://github.com/argoproj/argo-cd/pull/8095) on [argoproj/argo-cd](https://github.com/argoproj/argo-cd) (1 month ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3462](https://github.com/EddieHubCommunity/support/issues/3462) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. ❗️ Closed issue [#1](https://github.com/avinashupadhya99/avinashupadhya99/issues/1) in [avinashupadhya99/avinashupadhya99](https://github.com/avinashupadhya99/avinashupadhya99)
-3. ❗️ Closed issue [#3](https://github.com/avinashupadhya99/avinashupadhya99/issues/3) in [avinashupadhya99/avinashupadhya99](https://github.com/avinashupadhya99/avinashupadhya99)
-4. 🗣 Commented on [#3](https://github.com/avinashupadhya99/avinashupadhya99/issues/3) in [avinashupadhya99/avinashupadhya99](https://github.com/avinashupadhya99/avinashupadhya99)
-5. 💪 Opened PR [#586](https://github.com/parca-dev/parca/pull/586) in [parca-dev/parca](https://github.com/parca-dev/parca)
 <!--END_SECTION:activity-->
 
 
