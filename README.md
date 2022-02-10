@@ -24,11 +24,11 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
+- [avinashupadhya99/datree-tekton](https://github.com/avinashupadhya99/datree-tekton) - Tekton Task for Datree.io (today)
 - [cncf/glossary](https://github.com/cncf/glossary) - Cloud Native Glossary (1 week ago)
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU, memory usage over time, and down to the line number. Saving infrastructure cost, improving performance, and increasing reliability. (2 weeks ago)
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Open source Kubernetes troubleshooting and automation platform (2 weeks ago)
 - [avinashupadhya99/TNBGem](https://github.com/avinashupadhya99/TNBGem) - Ruby SDK for thenewboston (2 weeks ago)
-- [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) - 🦍 Source code for docs.konghq.com website (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#388](https://github.com/datreeio/datree/issues/388) in [datreeio/datree](https://github.com/datreeio/datree)
-2. ❗️ Opened issue [#3462](https://github.com/EddieHubCommunity/support/issues/3462) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. ❗️ Closed issue [#1](https://github.com/avinashupadhya99/avinashupadhya99/issues/1) in [avinashupadhya99/avinashupadhya99](https://github.com/avinashupadhya99/avinashupadhya99)
-4. ❗️ Closed issue [#3](https://github.com/avinashupadhya99/avinashupadhya99/issues/3) in [avinashupadhya99/avinashupadhya99](https://github.com/avinashupadhya99/avinashupadhya99)
-5. 🗣 Commented on [#3](https://github.com/avinashupadhya99/avinashupadhya99/issues/3) in [avinashupadhya99/avinashupadhya99](https://github.com/avinashupadhya99/avinashupadhya99)
 <!--END_SECTION:activity-->
 
 
