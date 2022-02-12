@@ -24,7 +24,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
-- [avinashupadhya99/datree-tekton](https://github.com/avinashupadhya99/datree-tekton) - Tekton Task for Datree.io (1 day ago)
+- [avinashupadhya99/datree-tekton](https://github.com/avinashupadhya99/datree-tekton) - Tekton Task for Datree.io (2 days ago)
 - [cncf/glossary](https://github.com/cncf/glossary) - Cloud Native Glossary (2 weeks ago)
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU, memory usage over time, and down to the line number. Saving infrastructure cost, improving performance, and increasing reliability. (2 weeks ago)
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Open source Kubernetes troubleshooting and automation platform (2 weeks ago)
@@ -32,9 +32,9 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.8.23](https://github.com/robusta-dev/robusta/releases/tag/0.8.23), 3 days ago) - Open source Kubernetes troubleshooting and automation platform
-- [civo/cli](https://github.com/civo/cli) ([v1.0.14](https://github.com/civo/cli/releases/tag/v1.0.14), 4 days ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.5](https://github.com/argoproj/argo-cd/releases/tag/v2.2.5), 6 days ago) - Declarative continuous deployment for Kubernetes.
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.8.23](https://github.com/robusta-dev/robusta/releases/tag/0.8.23), 4 days ago) - Open source Kubernetes troubleshooting and automation platform
+- [civo/cli](https://github.com/civo/cli) ([v1.0.14](https://github.com/civo/cli/releases/tag/v1.0.14), 5 days ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.5](https://github.com/argoproj/argo-cd/releases/tag/v2.2.5), 1 week ago) - Declarative continuous deployment for Kubernetes.
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([v2.5.0](https://github.com/kubernetes/dashboard/releases/tag/v2.5.0), 1 week ago) - General-purpose web UI for Kubernetes clusters
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.25.1](https://github.com/kubernetes/minikube/releases/tag/v1.25.1), 3 weeks ago) - Run Kubernetes locally
 
@@ -43,17 +43,12 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 - [Close profile card in compare view](https://github.com/parca-dev/parca/pull/586) on [parca-dev/parca](https://github.com/parca-dev/parca) (2 weeks ago)
 - [Documentation contribution docs on sphinx](https://github.com/robusta-dev/robusta/pull/182) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (2 weeks ago)
 - [Instructions for installing robusta in different namespace](https://github.com/robusta-dev/robusta/pull/180) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (2 weeks ago)
-- [Add link to API in Kubernetes](https://github.com/cncf/glossary/pull/348) on [cncf/glossary](https://github.com/cncf/glossary) (2 weeks ago)
+- [Add link to API in Kubernetes](https://github.com/cncf/glossary/pull/348) on [cncf/glossary](https://github.com/cncf/glossary) (3 weeks ago)
 - [Provide address flag for admin dashboard command](https://github.com/argoproj/argo-cd/pull/8095) on [argoproj/argo-cd](https://github.com/argoproj/argo-cd) (1 month ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#388](https://github.com/datreeio/datree/issues/388) in [datreeio/datree](https://github.com/datreeio/datree)
-2. 🗣 Commented on [#388](https://github.com/datreeio/datree/issues/388) in [datreeio/datree](https://github.com/datreeio/datree)
-3. ❗️ Opened issue [#3462](https://github.com/EddieHubCommunity/support/issues/3462) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. ❗️ Closed issue [#1](https://github.com/avinashupadhya99/avinashupadhya99/issues/1) in [avinashupadhya99/avinashupadhya99](https://github.com/avinashupadhya99/avinashupadhya99)
-5. ❗️ Closed issue [#3](https://github.com/avinashupadhya99/avinashupadhya99/issues/3) in [avinashupadhya99/avinashupadhya99](https://github.com/avinashupadhya99/avinashupadhya99)
 <!--END_SECTION:activity-->
 
 
