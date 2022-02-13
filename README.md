@@ -49,6 +49,11 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#371](https://github.com/tektoncd/hub/issues/371) in [tektoncd/hub](https://github.com/tektoncd/hub)
+2. 🗣 Commented on [#388](https://github.com/datreeio/datree/issues/388) in [datreeio/datree](https://github.com/datreeio/datree)
+3. 🗣 Commented on [#388](https://github.com/datreeio/datree/issues/388) in [datreeio/datree](https://github.com/datreeio/datree)
+4. ❗️ Opened issue [#3462](https://github.com/EddieHubCommunity/support/issues/3462) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. ❗️ Closed issue [#1](https://github.com/avinashupadhya99/avinashupadhya99/issues/1) in [avinashupadhya99/avinashupadhya99](https://github.com/avinashupadhya99/avinashupadhya99)
 <!--END_SECTION:activity-->
 
 
