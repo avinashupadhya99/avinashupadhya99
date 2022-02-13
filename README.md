@@ -32,7 +32,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.8.23](https://github.com/robusta-dev/robusta/releases/tag/0.8.23), 5 days ago) - Open source Kubernetes troubleshooting and automation platform
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.8.24](https://github.com/robusta-dev/robusta/releases/tag/0.8.24), today) - Open source Kubernetes troubleshooting and automation platform
 - [civo/cli](https://github.com/civo/cli) ([v1.0.14](https://github.com/civo/cli/releases/tag/v1.0.14), 6 days ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.5](https://github.com/argoproj/argo-cd/releases/tag/v2.2.5), 1 week ago) - Declarative continuous deployment for Kubernetes.
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([v2.5.0](https://github.com/kubernetes/dashboard/releases/tag/v2.5.0), 1 week ago) - General-purpose web UI for Kubernetes clusters
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#388](https://github.com/datreeio/datree/issues/388) in [datreeio/datree](https://github.com/datreeio/datree)
-2. 🗣 Commented on [#388](https://github.com/datreeio/datree/issues/388) in [datreeio/datree](https://github.com/datreeio/datree)
-3. ❗️ Opened issue [#3462](https://github.com/EddieHubCommunity/support/issues/3462) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. ❗️ Closed issue [#1](https://github.com/avinashupadhya99/avinashupadhya99/issues/1) in [avinashupadhya99/avinashupadhya99](https://github.com/avinashupadhya99/avinashupadhya99)
-5. ❗️ Closed issue [#3](https://github.com/avinashupadhya99/avinashupadhya99/issues/3) in [avinashupadhya99/avinashupadhya99](https://github.com/avinashupadhya99/avinashupadhya99)
 <!--END_SECTION:activity-->
 
 
