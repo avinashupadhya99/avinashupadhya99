@@ -24,11 +24,11 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
+- [avinashupadhya99/Tracker](https://github.com/avinashupadhya99/Tracker) - React native application for displaying map with cordinates of luggage.  (today)
+- [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen) - A simple API that generates a random k8s keyword. A demo application for learning k8s concepts (today)
 - [avinashupadhya99/tekton-simplified](https://github.com/avinashupadhya99/tekton-simplified) - Tekton resources for the blog post on [Tekton CI Simplified](https://hashnode.com/post/tekton-ci-simplified-ckzleauyw0n6beks1diq6ejvv) (1 day ago)
 - [cncf/glossary](https://github.com/cncf/glossary) - Cloud Native Glossary (2 weeks ago)
-- [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU, memory usage over time, and down to the line number. Saving infrastructure cost, improving performance, and increasing reliability. (2 weeks ago)
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Open source Kubernetes troubleshooting and automation platform (2 weeks ago)
-- [avinashupadhya99/TNBGem](https://github.com/avinashupadhya99/TNBGem) - Ruby SDK for thenewboston (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#388](https://github.com/armosec/kubescape/issues/388) in [armosec/kubescape](https://github.com/armosec/kubescape)
-2. ❗️ Opened issue [#387](https://github.com/armosec/kubescape/issues/387) in [armosec/kubescape](https://github.com/armosec/kubescape)
-3. ❗️ Opened issue [#371](https://github.com/tektoncd/hub/issues/371) in [tektoncd/hub](https://github.com/tektoncd/hub)
-4. 🗣 Commented on [#388](https://github.com/datreeio/datree/issues/388) in [datreeio/datree](https://github.com/datreeio/datree)
-5. 🗣 Commented on [#388](https://github.com/datreeio/datree/issues/388) in [datreeio/datree](https://github.com/datreeio/datree)
 <!--END_SECTION:activity-->
 
 
