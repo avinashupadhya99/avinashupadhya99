@@ -24,7 +24,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
-- [avinashupadhya99/tekton-simplified](https://github.com/avinashupadhya99/tekton-simplified) - Tekton resources for the blog post on [Tekton CI Simplified](https://hashnode.com/post/tekton-ci-simplified-ckzleauyw0n6beks1diq6ejvv) (today)
+- [avinashupadhya99/tekton-simplified](https://github.com/avinashupadhya99/tekton-simplified) - Tekton resources for the blog post on [Tekton CI Simplified](https://hashnode.com/post/tekton-ci-simplified-ckzleauyw0n6beks1diq6ejvv) (1 day ago)
 - [cncf/glossary](https://github.com/cncf/glossary) - Cloud Native Glossary (2 weeks ago)
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU, memory usage over time, and down to the line number. Saving infrastructure cost, improving performance, and increasing reliability. (2 weeks ago)
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Open source Kubernetes troubleshooting and automation platform (2 weeks ago)
@@ -32,7 +32,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.8.24](https://github.com/robusta-dev/robusta/releases/tag/0.8.24), 1 day ago) - Open source Kubernetes troubleshooting and automation platform
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.8.24](https://github.com/robusta-dev/robusta/releases/tag/0.8.24), 2 days ago) - Open source Kubernetes troubleshooting and automation platform
 - [civo/cli](https://github.com/civo/cli) ([v1.0.14](https://github.com/civo/cli/releases/tag/v1.0.14), 1 week ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.5](https://github.com/argoproj/argo-cd/releases/tag/v2.2.5), 1 week ago) - Declarative continuous deployment for Kubernetes.
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([v2.5.0](https://github.com/kubernetes/dashboard/releases/tag/v2.5.0), 1 week ago) - General-purpose web UI for Kubernetes clusters
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#388](https://github.com/armosec/kubescape/issues/388) in [armosec/kubescape](https://github.com/armosec/kubescape)
-2. ❗️ Opened issue [#387](https://github.com/armosec/kubescape/issues/387) in [armosec/kubescape](https://github.com/armosec/kubescape)
-3. ❗️ Opened issue [#371](https://github.com/tektoncd/hub/issues/371) in [tektoncd/hub](https://github.com/tektoncd/hub)
-4. 🗣 Commented on [#388](https://github.com/datreeio/datree/issues/388) in [datreeio/datree](https://github.com/datreeio/datree)
-5. 🗣 Commented on [#388](https://github.com/datreeio/datree/issues/388) in [datreeio/datree](https://github.com/datreeio/datree)
 <!--END_SECTION:activity-->
 
 
