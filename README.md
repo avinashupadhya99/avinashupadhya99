@@ -49,6 +49,11 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#388](https://github.com/armosec/kubescape/issues/388) in [armosec/kubescape](https://github.com/armosec/kubescape)
+2. ❗️ Opened issue [#387](https://github.com/armosec/kubescape/issues/387) in [armosec/kubescape](https://github.com/armosec/kubescape)
+3. ❗️ Opened issue [#371](https://github.com/tektoncd/hub/issues/371) in [tektoncd/hub](https://github.com/tektoncd/hub)
+4. 🗣 Commented on [#388](https://github.com/datreeio/datree/issues/388) in [datreeio/datree](https://github.com/datreeio/datree)
+5. 🗣 Commented on [#388](https://github.com/datreeio/datree/issues/388) in [datreeio/datree](https://github.com/datreeio/datree)
 <!--END_SECTION:activity-->
 
 
