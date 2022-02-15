@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/avinashupadhya99/Tracker/pull/1) in [avinashupadhya99/Tracker](https://github.com/avinashupadhya99/Tracker)
-2. 🎉 Merged PR [#1](https://github.com/avinashupadhya99/kubegen/pull/1) in [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen)
-3. ❗️ Opened issue [#388](https://github.com/armosec/kubescape/issues/388) in [armosec/kubescape](https://github.com/armosec/kubescape)
-4. ❗️ Opened issue [#387](https://github.com/armosec/kubescape/issues/387) in [armosec/kubescape](https://github.com/armosec/kubescape)
-5. ❗️ Opened issue [#371](https://github.com/tektoncd/hub/issues/371) in [tektoncd/hub](https://github.com/tektoncd/hub)
 <!--END_SECTION:activity-->
 
 
