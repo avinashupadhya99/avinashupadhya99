@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/avinashupadhya99/Tracker/pull/5) in [avinashupadhya99/Tracker](https://github.com/avinashupadhya99/Tracker)
-2. 🎉 Merged PR [#7](https://github.com/avinashupadhya99/TNB-Discord-Security/pull/7) in [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security)
-3. 🎉 Merged PR [#4](https://github.com/avinashupadhya99/kubegen/pull/4) in [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen)
-4. 🎉 Merged PR [#3](https://github.com/avinashupadhya99/kubegen/pull/3) in [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen)
-5. 🎉 Merged PR [#11](https://github.com/avinashupadhya99/Store-App/pull/11) in [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App)
 <!--END_SECTION:activity-->
 
 
