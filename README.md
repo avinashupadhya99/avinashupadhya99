@@ -25,10 +25,10 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### 👷 Check out what I'm currently working on
 
 - [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App) - A simple Ruby on Rails application for creating orders and managing the inventory of a store for my University mini-project. (today)
+- [avinashupadhya99/Tracker](https://github.com/avinashupadhya99/Tracker) - React native application for displaying map with cordinates of luggage.  (today)
 - [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security) - Discord bot for thenewboston currency security :| (today)
 - [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen) - A simple API that generates a random k8s keyword. A demo application for learning k8s concepts (today)
 - [avinashupadhya99/Quiz-App](https://github.com/avinashupadhya99/Quiz-App) - A ruby on rails web application which provides both admin and end user functionalities for a quiz application. Admins can manage quizzes and end user can take quizzes. (1 day ago)
-- [avinashupadhya99/Tracker](https://github.com/avinashupadhya99/Tracker) - React native application for displaying map with cordinates of luggage.  (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/avinashupadhya99/TNB-Discord-Security/pull/7) in [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security)
-2. 🎉 Merged PR [#4](https://github.com/avinashupadhya99/kubegen/pull/4) in [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen)
-3. 🎉 Merged PR [#3](https://github.com/avinashupadhya99/kubegen/pull/3) in [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen)
-4. 🎉 Merged PR [#11](https://github.com/avinashupadhya99/Store-App/pull/11) in [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App)
-5. 🎉 Merged PR [#2](https://github.com/avinashupadhya99/kubegen/pull/2) in [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen)
 <!--END_SECTION:activity-->
 
 
