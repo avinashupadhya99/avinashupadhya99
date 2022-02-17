@@ -24,19 +24,19 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
-- [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App) - A simple Ruby on Rails application for creating orders and managing the inventory of a store for my University mini-project. (today)
-- [avinashupadhya99/Tracker](https://github.com/avinashupadhya99/Tracker) - React native application for displaying map with cordinates of luggage.  (today)
-- [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security) - Discord bot for thenewboston currency security :| (today)
-- [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen) - A simple API that generates a random k8s keyword. A demo application for learning k8s concepts (today)
-- [avinashupadhya99/Quiz-App](https://github.com/avinashupadhya99/Quiz-App) - A ruby on rails web application which provides both admin and end user functionalities for a quiz application. Admins can manage quizzes and end user can take quizzes. (1 day ago)
+- [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App) - A simple Ruby on Rails application for creating orders and managing the inventory of a store for my University mini-project. (1 day ago)
+- [avinashupadhya99/Tracker](https://github.com/avinashupadhya99/Tracker) - React native application for displaying map with cordinates of luggage.  (1 day ago)
+- [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security) - Discord bot for thenewboston currency security :| (1 day ago)
+- [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen) - A simple API that generates a random k8s keyword. A demo application for learning k8s concepts (1 day ago)
+- [avinashupadhya99/Quiz-App](https://github.com/avinashupadhya99/Quiz-App) - A ruby on rails web application which provides both admin and end user functionalities for a quiz application. Admins can manage quizzes and end user can take quizzes. (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [getporter/porter](https://github.com/getporter/porter) ([v1.0.0-alpha.10](https://github.com/getporter/porter/releases/tag/v1.0.0-alpha.10), today) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as a versioned bundle that you can distribute, and install with a single command.
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.8.24](https://github.com/robusta-dev/robusta/releases/tag/0.8.24), 3 days ago) - Open source Kubernetes troubleshooting and automation platform
+- [getporter/porter](https://github.com/getporter/porter) ([v1.0.0-alpha.10](https://github.com/getporter/porter/releases/tag/v1.0.0-alpha.10), 1 day ago) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as a versioned bundle that you can distribute, and install with a single command.
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.8.24](https://github.com/robusta-dev/robusta/releases/tag/0.8.24), 4 days ago) - Open source Kubernetes troubleshooting and automation platform
 - [civo/cli](https://github.com/civo/cli) ([v1.0.14](https://github.com/civo/cli/releases/tag/v1.0.14), 1 week ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.5](https://github.com/argoproj/argo-cd/releases/tag/v2.2.5), 1 week ago) - Declarative continuous deployment for Kubernetes.
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([v2.5.0](https://github.com/kubernetes/dashboard/releases/tag/v2.5.0), 1 week ago) - General-purpose web UI for Kubernetes clusters
+- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([v2.5.0](https://github.com/kubernetes/dashboard/releases/tag/v2.5.0), 2 weeks ago) - General-purpose web UI for Kubernetes clusters
 
 #### 🔨 Latest Pull Requests I published
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/avinashupadhya99/Tracker/pull/5) in [avinashupadhya99/Tracker](https://github.com/avinashupadhya99/Tracker)
-2. 🎉 Merged PR [#7](https://github.com/avinashupadhya99/TNB-Discord-Security/pull/7) in [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security)
-3. 🎉 Merged PR [#4](https://github.com/avinashupadhya99/kubegen/pull/4) in [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen)
-4. 🎉 Merged PR [#3](https://github.com/avinashupadhya99/kubegen/pull/3) in [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen)
-5. 🎉 Merged PR [#11](https://github.com/avinashupadhya99/Store-App/pull/11) in [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App)
 <!--END_SECTION:activity-->
 
 
