@@ -33,10 +33,10 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### 🔭 Latest releases I've contributed to
 
 - [civo/cli](https://github.com/civo/cli) ([v1.0.16](https://github.com/civo/cli/releases/tag/v1.0.16), 2 days ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
-- [getporter/porter](https://github.com/getporter/porter) ([v1.0.0-alpha.10](https://github.com/getporter/porter/releases/tag/v1.0.0-alpha.10), 3 days ago) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as a versioned bundle that you can distribute, and install with a single command.
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.8.24](https://github.com/robusta-dev/robusta/releases/tag/0.8.24), 6 days ago) - Open source Kubernetes troubleshooting and automation platform
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.5](https://github.com/argoproj/argo-cd/releases/tag/v2.2.5), 2 weeks ago) - Declarative continuous deployment for Kubernetes.
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([v2.5.0](https://github.com/kubernetes/dashboard/releases/tag/v2.5.0), 2 weeks ago) - General-purpose web UI for Kubernetes clusters
+- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.25.1](https://github.com/kubernetes/minikube/releases/tag/v1.25.1), 4 weeks ago) - Run Kubernetes locally
 
 #### 🔨 Latest Pull Requests I published
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/avinashupadhya99/Tracker/pull/5) in [avinashupadhya99/Tracker](https://github.com/avinashupadhya99/Tracker)
-2. 🎉 Merged PR [#7](https://github.com/avinashupadhya99/TNB-Discord-Security/pull/7) in [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security)
-3. 🎉 Merged PR [#4](https://github.com/avinashupadhya99/kubegen/pull/4) in [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen)
-4. 🎉 Merged PR [#3](https://github.com/avinashupadhya99/kubegen/pull/3) in [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen)
-5. 🎉 Merged PR [#11](https://github.com/avinashupadhya99/Store-App/pull/11) in [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App)
 <!--END_SECTION:activity-->
 
 
