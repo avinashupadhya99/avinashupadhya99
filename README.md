@@ -25,8 +25,8 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### 👷 Check out what I'm currently working on
 
 - [avinashupadhya99/action-playground](https://github.com/avinashupadhya99/action-playground) - Playground for testing GitHub actions (today)
+- [avinashupadhya99/kubescape-action](https://github.com/avinashupadhya99/kubescape-action) - GitHub action to run Kubescape scans (today)
 - [avinashupadhya99/kubegen-manifests](https://github.com/avinashupadhya99/kubegen-manifests) - Manifest files for https://github.com/avinashupadhya99/kubegen (1 day ago)
-- [avinashupadhya99/kubescape-action](https://github.com/avinashupadhya99/kubescape-action) - GitHub action to run Kubescape scans (1 day ago)
 - [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen) - A simple API that generates a random k8s keyword. A demo application for learning k8s concepts (4 days ago)
 - [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App) - A simple Ruby on Rails application for creating orders and managing the inventory of a store for my University mini-project. (4 days ago)
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#398](https://github.com/armosec/kubescape/issues/398) in [armosec/kubescape](https://github.com/armosec/kubescape)
-2. 🗣 Commented on [#398](https://github.com/armosec/kubescape/issues/398) in [armosec/kubescape](https://github.com/armosec/kubescape)
-3. 💪 Opened PR [#399](https://github.com/armosec/kubescape/pull/399) in [armosec/kubescape](https://github.com/armosec/kubescape)
-4. 🗣 Commented on [#398](https://github.com/armosec/kubescape/issues/398) in [armosec/kubescape](https://github.com/armosec/kubescape)
-5. ❗️ Opened issue [#398](https://github.com/armosec/kubescape/issues/398) in [armosec/kubescape](https://github.com/armosec/kubescape)
 <!--END_SECTION:activity-->
 
 
