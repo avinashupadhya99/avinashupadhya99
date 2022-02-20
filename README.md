@@ -26,17 +26,17 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 - [avinashupadhya99/action-playground](https://github.com/avinashupadhya99/action-playground) - Playground for testing GitHub actions (today)
 - [avinashupadhya99/kubescape-action](https://github.com/avinashupadhya99/kubescape-action) - GitHub action to run Kubescape scans (today)
+- [armosec/kubescape](https://github.com/armosec/kubescape) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.  (today)
 - [avinashupadhya99/kubegen-manifests](https://github.com/avinashupadhya99/kubegen-manifests) - Manifest files for https://github.com/avinashupadhya99/kubegen (1 day ago)
-- [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen) - A simple API that generates a random k8s keyword. A demo application for learning k8s concepts (4 days ago)
 - [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security) - Discord bot for thenewboston currency security :| (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [armosec/kubescape](https://github.com/armosec/kubescape) ([v2.0.148](https://github.com/armosec/kubescape/releases/tag/v2.0.148), today) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
 - [civo/cli](https://github.com/civo/cli) ([v1.0.16](https://github.com/civo/cli/releases/tag/v1.0.16), 3 days ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.8.24](https://github.com/robusta-dev/robusta/releases/tag/0.8.24), 1 week ago) - Open source Kubernetes troubleshooting and automation platform
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.5](https://github.com/argoproj/argo-cd/releases/tag/v2.2.5), 2 weeks ago) - Declarative continuous deployment for Kubernetes.
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([v2.5.0](https://github.com/kubernetes/dashboard/releases/tag/v2.5.0), 2 weeks ago) - General-purpose web UI for Kubernetes clusters
-- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.25.1](https://github.com/kubernetes/minikube/releases/tag/v1.25.1), 1 month ago) - Run Kubernetes locally
 
 #### 🔨 Latest Pull Requests I published
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#398](https://github.com/armosec/kubescape/issues/398) in [armosec/kubescape](https://github.com/armosec/kubescape)
-2. 🗣 Commented on [#398](https://github.com/armosec/kubescape/issues/398) in [armosec/kubescape](https://github.com/armosec/kubescape)
-3. 💪 Opened PR [#399](https://github.com/armosec/kubescape/pull/399) in [armosec/kubescape](https://github.com/armosec/kubescape)
-4. 🗣 Commented on [#398](https://github.com/armosec/kubescape/issues/398) in [armosec/kubescape](https://github.com/armosec/kubescape)
-5. ❗️ Opened issue [#398](https://github.com/armosec/kubescape/issues/398) in [armosec/kubescape](https://github.com/armosec/kubescape)
 <!--END_SECTION:activity-->
 
 
