@@ -32,9 +32,9 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.8.25](https://github.com/robusta-dev/robusta/releases/tag/0.8.25), today) - Open source Kubernetes troubleshooting and automation platform
 - [armosec/kubescape](https://github.com/armosec/kubescape) ([v2.0.148](https://github.com/armosec/kubescape/releases/tag/v2.0.148), 1 day ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
 - [civo/cli](https://github.com/civo/cli) ([v1.0.16](https://github.com/civo/cli/releases/tag/v1.0.16), 4 days ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.8.24](https://github.com/robusta-dev/robusta/releases/tag/0.8.24), 1 week ago) - Open source Kubernetes troubleshooting and automation platform
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.5](https://github.com/argoproj/argo-cd/releases/tag/v2.2.5), 2 weeks ago) - Declarative continuous deployment for Kubernetes.
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([v2.5.0](https://github.com/kubernetes/dashboard/releases/tag/v2.5.0), 2 weeks ago) - General-purpose web UI for Kubernetes clusters
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#398](https://github.com/armosec/kubescape/issues/398) in [armosec/kubescape](https://github.com/armosec/kubescape)
-2. 🗣 Commented on [#398](https://github.com/armosec/kubescape/issues/398) in [armosec/kubescape](https://github.com/armosec/kubescape)
-3. 💪 Opened PR [#399](https://github.com/armosec/kubescape/pull/399) in [armosec/kubescape](https://github.com/armosec/kubescape)
-4. 🗣 Commented on [#398](https://github.com/armosec/kubescape/issues/398) in [armosec/kubescape](https://github.com/armosec/kubescape)
-5. ❗️ Opened issue [#398](https://github.com/armosec/kubescape/issues/398) in [armosec/kubescape](https://github.com/armosec/kubescape)
 <!--END_SECTION:activity-->
 
 
