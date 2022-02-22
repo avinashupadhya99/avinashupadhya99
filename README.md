@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#411](https://github.com/armosec/kubescape/issues/411) in [armosec/kubescape](https://github.com/armosec/kubescape)
-2. ❗️ Closed issue [#398](https://github.com/armosec/kubescape/issues/398) in [armosec/kubescape](https://github.com/armosec/kubescape)
-3. 🗣 Commented on [#398](https://github.com/armosec/kubescape/issues/398) in [armosec/kubescape](https://github.com/armosec/kubescape)
-4. 💪 Opened PR [#399](https://github.com/armosec/kubescape/pull/399) in [armosec/kubescape](https://github.com/armosec/kubescape)
-5. 🗣 Commented on [#398](https://github.com/armosec/kubescape/issues/398) in [armosec/kubescape](https://github.com/armosec/kubescape)
 <!--END_SECTION:activity-->
 
 
