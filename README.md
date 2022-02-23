@@ -40,20 +40,15 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔨 Latest Pull Requests I published
 
+- [Fix argument validation for framework/control](https://github.com/armosec/kubescape/pull/413) on [armosec/kubescape](https://github.com/armosec/kubescape) (today)
 - [Fix release version in Dockerfile](https://github.com/armosec/kubescape/pull/399) on [armosec/kubescape](https://github.com/armosec/kubescape) (3 days ago)
 - [Close profile card in compare view](https://github.com/parca-dev/parca/pull/586) on [parca-dev/parca](https://github.com/parca-dev/parca) (3 weeks ago)
 - [Documentation contribution docs on sphinx](https://github.com/robusta-dev/robusta/pull/182) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (4 weeks ago)
 - [Instructions for installing robusta in different namespace](https://github.com/robusta-dev/robusta/pull/180) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (4 weeks ago)
-- [Add link to API in Kubernetes](https://github.com/cncf/glossary/pull/348) on [cncf/glossary](https://github.com/cncf/glossary) (1 month ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#388](https://github.com/armosec/kubescape/issues/388) in [armosec/kubescape](https://github.com/armosec/kubescape)
-2. ❗️ Opened issue [#411](https://github.com/armosec/kubescape/issues/411) in [armosec/kubescape](https://github.com/armosec/kubescape)
-3. ❗️ Closed issue [#398](https://github.com/armosec/kubescape/issues/398) in [armosec/kubescape](https://github.com/armosec/kubescape)
-4. 🗣 Commented on [#398](https://github.com/armosec/kubescape/issues/398) in [armosec/kubescape](https://github.com/armosec/kubescape)
-5. 💪 Opened PR [#399](https://github.com/armosec/kubescape/pull/399) in [armosec/kubescape](https://github.com/armosec/kubescape)
 <!--END_SECTION:activity-->
 
 
