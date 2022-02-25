@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#907](https://github.com/mongodb/mongodb-kubernetes-operator/pull/907) in [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator)
-2. 🗣 Commented on [#1453](https://github.com/mongodb/mongo/issues/1453) in [mongodb/mongo](https://github.com/mongodb/mongo)
-3. ❗️ Closed issue [#243](https://github.com/robusta-dev/robusta/issues/243) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
-4. 🗣 Commented on [#243](https://github.com/robusta-dev/robusta/issues/243) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
-5. ❗️ Opened issue [#243](https://github.com/robusta-dev/robusta/issues/243) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
 <!--END_SECTION:activity-->
 
 
