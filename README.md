@@ -32,9 +32,9 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
+- [civo/cli](https://github.com/civo/cli) ([v1.0.22](https://github.com/civo/cli/releases/tag/v1.0.22), today) - Our Command Line Interface (CLI) for interacting with your Civo resources
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.25.2](https://github.com/kubernetes/minikube/releases/tag/v1.25.2), 1 day ago) - Run Kubernetes locally
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.8.27](https://github.com/robusta-dev/robusta/releases/tag/0.8.27), 1 day ago) - Open source Kubernetes troubleshooting and automation platform
-- [civo/cli](https://github.com/civo/cli) ([v1.0.21](https://github.com/civo/cli/releases/tag/v1.0.21), 1 day ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
 - [parca-dev/parca](https://github.com/parca-dev/parca) ([v0.8.0](https://github.com/parca-dev/parca/releases/tag/v0.8.0), 3 days ago) - Continuous profiling for analysis of CPU, memory usage over time, and down to the line number. Saving infrastructure cost, improving performance, and increasing reliability.
 - [armosec/kubescape](https://github.com/armosec/kubescape) ([v2.0.148](https://github.com/armosec/kubescape/releases/tag/v2.0.148), 5 days ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#907](https://github.com/mongodb/mongodb-kubernetes-operator/pull/907) in [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator)
-2. 🗣 Commented on [#1453](https://github.com/mongodb/mongo/issues/1453) in [mongodb/mongo](https://github.com/mongodb/mongo)
-3. ❗️ Closed issue [#243](https://github.com/robusta-dev/robusta/issues/243) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
-4. 🗣 Commented on [#243](https://github.com/robusta-dev/robusta/issues/243) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
-5. ❗️ Opened issue [#243](https://github.com/robusta-dev/robusta/issues/243) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
 <!--END_SECTION:activity-->
 
 
