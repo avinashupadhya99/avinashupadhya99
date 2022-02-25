@@ -40,20 +40,15 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔨 Latest Pull Requests I published
 
+- [[Snyk] Prevent privilege escalation for container](https://github.com/mongodb/mongodb-kubernetes-operator/pull/907) on [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) (today)
 - [Fix argument validation for framework/control](https://github.com/armosec/kubescape/pull/413) on [armosec/kubescape](https://github.com/armosec/kubescape) (2 days ago)
 - [Fix release version in Dockerfile](https://github.com/armosec/kubescape/pull/399) on [armosec/kubescape](https://github.com/armosec/kubescape) (5 days ago)
 - [Close profile card in compare view](https://github.com/parca-dev/parca/pull/586) on [parca-dev/parca](https://github.com/parca-dev/parca) (4 weeks ago)
 - [Documentation contribution docs on sphinx](https://github.com/robusta-dev/robusta/pull/182) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (1 month ago)
-- [Instructions for installing robusta in different namespace](https://github.com/robusta-dev/robusta/pull/180) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (1 month ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#243](https://github.com/robusta-dev/robusta/issues/243) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
-2. ❗️ Opened issue [#239](https://github.com/robusta-dev/robusta/issues/239) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
-3. ❗️ Opened issue [#238](https://github.com/robusta-dev/robusta/issues/238) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
-4. 🗣 Commented on [#234](https://github.com/robusta-dev/robusta/issues/234) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
-5. 🗣 Commented on [#414](https://github.com/armosec/kubescape/issues/414) in [armosec/kubescape](https://github.com/armosec/kubescape)
 <!--END_SECTION:activity-->
 
 
