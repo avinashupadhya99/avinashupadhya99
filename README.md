@@ -24,36 +24,31 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
-- [avinashupadhya99/kubescape-helm-action](https://github.com/avinashupadhya99/kubescape-helm-action) - GitHub action to run Kubescape scans on helm charts (today)
-- [avinashupadhya99/action-playground](https://github.com/avinashupadhya99/action-playground) - Playground for testing GitHub actions (5 days ago)
-- [armosec/kubescape](https://github.com/armosec/kubescape) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.  (5 days ago)
-- [avinashupadhya99/kubescape-action](https://github.com/avinashupadhya99/kubescape-action) - GitHub action to run Kubescape scans (5 days ago)
-- [avinashupadhya99/kubegen-manifests](https://github.com/avinashupadhya99/kubegen-manifests) - Manifest files for https://github.com/avinashupadhya99/kubegen (6 days ago)
+- [avinashupadhya99/kubescape-helm-action](https://github.com/avinashupadhya99/kubescape-helm-action) - GitHub action to run Kubescape scans on helm charts (1 day ago)
+- [avinashupadhya99/action-playground](https://github.com/avinashupadhya99/action-playground) - Playground for testing GitHub actions (6 days ago)
+- [armosec/kubescape](https://github.com/armosec/kubescape) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.  (6 days ago)
+- [avinashupadhya99/kubescape-action](https://github.com/avinashupadhya99/kubescape-action) - GitHub action to run Kubescape scans (6 days ago)
+- [avinashupadhya99/kubegen-manifests](https://github.com/avinashupadhya99/kubegen-manifests) - Manifest files for https://github.com/avinashupadhya99/kubegen (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [civo/cli](https://github.com/civo/cli) ([v1.0.22](https://github.com/civo/cli/releases/tag/v1.0.22), today) - Our Command Line Interface (CLI) for interacting with your Civo resources
-- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.25.2](https://github.com/kubernetes/minikube/releases/tag/v1.25.2), 1 day ago) - Run Kubernetes locally
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.8.27](https://github.com/robusta-dev/robusta/releases/tag/0.8.27), 1 day ago) - Open source Kubernetes troubleshooting and automation platform
-- [parca-dev/parca](https://github.com/parca-dev/parca) ([v0.8.0](https://github.com/parca-dev/parca/releases/tag/v0.8.0), 3 days ago) - Continuous profiling for analysis of CPU, memory usage over time, and down to the line number. Saving infrastructure cost, improving performance, and increasing reliability.
-- [armosec/kubescape](https://github.com/armosec/kubescape) ([v2.0.148](https://github.com/armosec/kubescape/releases/tag/v2.0.148), 5 days ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
+- [civo/cli](https://github.com/civo/cli) ([v1.0.22](https://github.com/civo/cli/releases/tag/v1.0.22), 1 day ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
+- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.25.2](https://github.com/kubernetes/minikube/releases/tag/v1.25.2), 2 days ago) - Run Kubernetes locally
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.8.27](https://github.com/robusta-dev/robusta/releases/tag/0.8.27), 2 days ago) - Open source Kubernetes troubleshooting and automation platform
+- [parca-dev/parca](https://github.com/parca-dev/parca) ([v0.8.0](https://github.com/parca-dev/parca/releases/tag/v0.8.0), 4 days ago) - Continuous profiling for analysis of CPU, memory usage over time, and down to the line number. Saving infrastructure cost, improving performance, and increasing reliability.
+- [armosec/kubescape](https://github.com/armosec/kubescape) ([v2.0.148](https://github.com/armosec/kubescape/releases/tag/v2.0.148), 6 days ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
 
 #### 🔨 Latest Pull Requests I published
 
-- [[Snyk] Prevent privilege escalation for container](https://github.com/mongodb/mongodb-kubernetes-operator/pull/907) on [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) (today)
-- [Fix argument validation for framework/control](https://github.com/armosec/kubescape/pull/413) on [armosec/kubescape](https://github.com/armosec/kubescape) (2 days ago)
-- [Fix release version in Dockerfile](https://github.com/armosec/kubescape/pull/399) on [armosec/kubescape](https://github.com/armosec/kubescape) (5 days ago)
+- [[Snyk] Prevent privilege escalation for container](https://github.com/mongodb/mongodb-kubernetes-operator/pull/907) on [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) (1 day ago)
+- [Fix argument validation for framework/control](https://github.com/armosec/kubescape/pull/413) on [armosec/kubescape](https://github.com/armosec/kubescape) (3 days ago)
+- [Fix release version in Dockerfile](https://github.com/armosec/kubescape/pull/399) on [armosec/kubescape](https://github.com/armosec/kubescape) (6 days ago)
 - [Close profile card in compare view](https://github.com/parca-dev/parca/pull/586) on [parca-dev/parca](https://github.com/parca-dev/parca) (4 weeks ago)
 - [Documentation contribution docs on sphinx](https://github.com/robusta-dev/robusta/pull/182) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (1 month ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#907](https://github.com/mongodb/mongodb-kubernetes-operator/pull/907) in [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator)
-2. 🗣 Commented on [#1453](https://github.com/mongodb/mongo/issues/1453) in [mongodb/mongo](https://github.com/mongodb/mongo)
-3. ❗️ Closed issue [#243](https://github.com/robusta-dev/robusta/issues/243) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
-4. 🗣 Commented on [#243](https://github.com/robusta-dev/robusta/issues/243) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
-5. ❗️ Opened issue [#243](https://github.com/robusta-dev/robusta/issues/243) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
 <!--END_SECTION:activity-->
 
 
