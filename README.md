@@ -40,20 +40,15 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add datree task](https://github.com/tektoncd/catalog/pull/936) on [tektoncd/catalog](https://github.com/tektoncd/catalog) (today)
 - [Fix list items for add_enrichment in playbook example](https://github.com/robusta-dev/robusta/pull/246) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (today)
 - [[Snyk] Prevent privilege escalation for container](https://github.com/mongodb/mongodb-kubernetes-operator/pull/907) on [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) (1 day ago)
 - [Fix argument validation for framework/control](https://github.com/armosec/kubescape/pull/413) on [armosec/kubescape](https://github.com/armosec/kubescape) (3 days ago)
 - [Fix release version in Dockerfile](https://github.com/armosec/kubescape/pull/399) on [armosec/kubescape](https://github.com/armosec/kubescape) (6 days ago)
-- [Close profile card in compare view](https://github.com/parca-dev/parca/pull/586) on [parca-dev/parca](https://github.com/parca-dev/parca) (4 weeks ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#239](https://github.com/robusta-dev/robusta/issues/239) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
-2. 🗣 Commented on [#400](https://github.com/armosec/kubescape/issues/400) in [armosec/kubescape](https://github.com/armosec/kubescape)
-3. 🗣 Commented on [#417](https://github.com/armosec/kubescape/issues/417) in [armosec/kubescape](https://github.com/armosec/kubescape)
-4. 💪 Opened PR [#246](https://github.com/robusta-dev/robusta/pull/246) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
-5. 💪 Opened PR [#907](https://github.com/mongodb/mongodb-kubernetes-operator/pull/907) in [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator)
 <!--END_SECTION:activity-->
 
 
