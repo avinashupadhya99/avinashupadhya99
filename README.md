@@ -32,9 +32,9 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.8.28](https://github.com/robusta-dev/robusta/releases/tag/0.8.28), today) - Open source Kubernetes troubleshooting and automation platform
 - [civo/cli](https://github.com/civo/cli) ([v1.0.22](https://github.com/civo/cli/releases/tag/v1.0.22), 2 days ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.25.2](https://github.com/kubernetes/minikube/releases/tag/v1.25.2), 3 days ago) - Run Kubernetes locally
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.8.27](https://github.com/robusta-dev/robusta/releases/tag/0.8.27), 3 days ago) - Open source Kubernetes troubleshooting and automation platform
 - [parca-dev/parca](https://github.com/parca-dev/parca) ([v0.8.0](https://github.com/parca-dev/parca/releases/tag/v0.8.0), 5 days ago) - Continuous profiling for analysis of CPU, memory usage over time, and down to the line number. Saving infrastructure cost, improving performance, and increasing reliability.
 - [armosec/kubescape](https://github.com/armosec/kubescape) ([v2.0.148](https://github.com/armosec/kubescape/releases/tag/v2.0.148), 1 week ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#239](https://github.com/robusta-dev/robusta/issues/239) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
-2. 💪 Opened PR [#936](https://github.com/tektoncd/catalog/pull/936) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-3. 🗣 Commented on [#239](https://github.com/robusta-dev/robusta/issues/239) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
-4. 🗣 Commented on [#400](https://github.com/armosec/kubescape/issues/400) in [armosec/kubescape](https://github.com/armosec/kubescape)
-5. 🗣 Commented on [#417](https://github.com/armosec/kubescape/issues/417) in [armosec/kubescape](https://github.com/armosec/kubescape)
 <!--END_SECTION:activity-->
 
 
