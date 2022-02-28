@@ -40,20 +40,15 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔨 Latest Pull Requests I published
 
+- [Prevent python exception for no robusta-runner while fetching logs](https://github.com/robusta-dev/robusta/pull/250) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (today)
 - [Add datree task](https://github.com/tektoncd/catalog/pull/936) on [tektoncd/catalog](https://github.com/tektoncd/catalog) (2 days ago)
 - [Fix list items for add_enrichment in playbook example](https://github.com/robusta-dev/robusta/pull/246) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (2 days ago)
 - [[Snyk] Prevent privilege escalation for container](https://github.com/mongodb/mongodb-kubernetes-operator/pull/907) on [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) (3 days ago)
 - [Fix argument validation for framework/control](https://github.com/armosec/kubescape/pull/413) on [armosec/kubescape](https://github.com/armosec/kubescape) (5 days ago)
-- [Fix release version in Dockerfile](https://github.com/armosec/kubescape/pull/399) on [armosec/kubescape](https://github.com/armosec/kubescape) (1 week ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#239](https://github.com/robusta-dev/robusta/issues/239) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
-2. 💪 Opened PR [#936](https://github.com/tektoncd/catalog/pull/936) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-3. 🗣 Commented on [#239](https://github.com/robusta-dev/robusta/issues/239) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
-4. 🗣 Commented on [#400](https://github.com/armosec/kubescape/issues/400) in [armosec/kubescape](https://github.com/armosec/kubescape)
-5. 🗣 Commented on [#417](https://github.com/armosec/kubescape/issues/417) in [armosec/kubescape](https://github.com/armosec/kubescape)
 <!--END_SECTION:activity-->
 
 
