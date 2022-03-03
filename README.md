@@ -32,7 +32,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.8.29](https://github.com/robusta-dev/robusta/releases/tag/0.8.29), 2 days ago) - Open source Kubernetes troubleshooting and automation platform
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.8.30](https://github.com/robusta-dev/robusta/releases/tag/0.8.30), today) - Open source Kubernetes troubleshooting and automation platform
 - [parca-dev/parca](https://github.com/parca-dev/parca) ([v0.8.1](https://github.com/parca-dev/parca/releases/tag/v0.8.1), 3 days ago) - Continuous profiling for analysis of CPU, memory usage over time, and down to the line number. Saving infrastructure cost, improving performance, and increasing reliability.
 - [getporter/porter](https://github.com/getporter/porter) ([v1.0.0-alpha.11](https://github.com/getporter/porter/releases/tag/v1.0.0-alpha.11), 3 days ago) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as a versioned bundle that you can distribute, and install with a single command.
 - [civo/cli](https://github.com/civo/cli) ([v1.0.22](https://github.com/civo/cli/releases/tag/v1.0.22), 6 days ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#250](https://github.com/robusta-dev/robusta/pull/250) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
-2. 🗣 Commented on [#239](https://github.com/robusta-dev/robusta/issues/239) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
-3. 💪 Opened PR [#936](https://github.com/tektoncd/catalog/pull/936) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-4. 🗣 Commented on [#239](https://github.com/robusta-dev/robusta/issues/239) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
-5. 🗣 Commented on [#400](https://github.com/armosec/kubescape/issues/400) in [armosec/kubescape](https://github.com/armosec/kubescape)
 <!--END_SECTION:activity-->
 
 
