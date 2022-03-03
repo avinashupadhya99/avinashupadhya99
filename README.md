@@ -24,36 +24,31 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
-- [avinashupadhya99/kubescape-action](https://github.com/avinashupadhya99/kubescape-action) - GitHub action to run Kubescape scans (1 day ago)
-- [avinashupadhya99/kubescape-helm-action](https://github.com/avinashupadhya99/kubescape-helm-action) - GitHub action to run Kubescape scans on helm charts (1 day ago)
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Open source Kubernetes troubleshooting and automation platform (2 days ago)
-- [avinashupadhya99/action-playground](https://github.com/avinashupadhya99/action-playground) - Playground for testing GitHub actions (3 days ago)
+- [avinashupadhya99/kubescape-action](https://github.com/avinashupadhya99/kubescape-action) - GitHub action to run Kubescape scans (2 days ago)
+- [avinashupadhya99/kubescape-helm-action](https://github.com/avinashupadhya99/kubescape-helm-action) - GitHub action to run Kubescape scans on helm charts (2 days ago)
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Open source Kubernetes troubleshooting and automation platform (3 days ago)
+- [avinashupadhya99/action-playground](https://github.com/avinashupadhya99/action-playground) - Playground for testing GitHub actions (4 days ago)
 - [armosec/kubescape](https://github.com/armosec/kubescape) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.  (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.8.29](https://github.com/robusta-dev/robusta/releases/tag/0.8.29), 1 day ago) - Open source Kubernetes troubleshooting and automation platform
-- [parca-dev/parca](https://github.com/parca-dev/parca) ([v0.8.1](https://github.com/parca-dev/parca/releases/tag/v0.8.1), 2 days ago) - Continuous profiling for analysis of CPU, memory usage over time, and down to the line number. Saving infrastructure cost, improving performance, and increasing reliability.
-- [getporter/porter](https://github.com/getporter/porter) ([v1.0.0-alpha.11](https://github.com/getporter/porter/releases/tag/v1.0.0-alpha.11), 2 days ago) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as a versioned bundle that you can distribute, and install with a single command.
-- [civo/cli](https://github.com/civo/cli) ([v1.0.22](https://github.com/civo/cli/releases/tag/v1.0.22), 5 days ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
-- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.25.2](https://github.com/kubernetes/minikube/releases/tag/v1.25.2), 6 days ago) - Run Kubernetes locally
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.8.29](https://github.com/robusta-dev/robusta/releases/tag/0.8.29), 2 days ago) - Open source Kubernetes troubleshooting and automation platform
+- [parca-dev/parca](https://github.com/parca-dev/parca) ([v0.8.1](https://github.com/parca-dev/parca/releases/tag/v0.8.1), 3 days ago) - Continuous profiling for analysis of CPU, memory usage over time, and down to the line number. Saving infrastructure cost, improving performance, and increasing reliability.
+- [getporter/porter](https://github.com/getporter/porter) ([v1.0.0-alpha.11](https://github.com/getporter/porter/releases/tag/v1.0.0-alpha.11), 3 days ago) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as a versioned bundle that you can distribute, and install with a single command.
+- [civo/cli](https://github.com/civo/cli) ([v1.0.22](https://github.com/civo/cli/releases/tag/v1.0.22), 6 days ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
+- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.25.2](https://github.com/kubernetes/minikube/releases/tag/v1.25.2), 1 week ago) - Run Kubernetes locally
 
 #### 🔨 Latest Pull Requests I published
 
-- [Prevent python exception for no robusta-runner while fetching logs](https://github.com/robusta-dev/robusta/pull/250) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (2 days ago)
-- [Add datree task](https://github.com/tektoncd/catalog/pull/936) on [tektoncd/catalog](https://github.com/tektoncd/catalog) (4 days ago)
-- [Fix list items for add_enrichment in playbook example](https://github.com/robusta-dev/robusta/pull/246) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (4 days ago)
-- [[Snyk] Prevent privilege escalation for container](https://github.com/mongodb/mongodb-kubernetes-operator/pull/907) on [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) (5 days ago)
+- [Prevent python exception for no robusta-runner while fetching logs](https://github.com/robusta-dev/robusta/pull/250) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (3 days ago)
+- [Add datree task](https://github.com/tektoncd/catalog/pull/936) on [tektoncd/catalog](https://github.com/tektoncd/catalog) (5 days ago)
+- [Fix list items for add_enrichment in playbook example](https://github.com/robusta-dev/robusta/pull/246) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (5 days ago)
+- [[Snyk] Prevent privilege escalation for container](https://github.com/mongodb/mongodb-kubernetes-operator/pull/907) on [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) (6 days ago)
 - [Fix argument validation for framework/control](https://github.com/armosec/kubescape/pull/413) on [armosec/kubescape](https://github.com/armosec/kubescape) (1 week ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#250](https://github.com/robusta-dev/robusta/pull/250) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
-2. 🗣 Commented on [#239](https://github.com/robusta-dev/robusta/issues/239) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
-3. 💪 Opened PR [#936](https://github.com/tektoncd/catalog/pull/936) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-4. 🗣 Commented on [#239](https://github.com/robusta-dev/robusta/issues/239) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
-5. 🗣 Commented on [#400](https://github.com/armosec/kubescape/issues/400) in [armosec/kubescape](https://github.com/armosec/kubescape)
 <!--END_SECTION:activity-->
 
 
