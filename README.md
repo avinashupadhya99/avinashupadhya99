@@ -32,7 +32,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.6](https://github.com/argoproj/argo-cd/releases/tag/v2.2.6), today) - Declarative continuous deployment for Kubernetes.
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.0](https://github.com/argoproj/argo-cd/releases/tag/v2.3.0), today) - Declarative continuous deployment for Kubernetes.
 - [civo/cli](https://github.com/civo/cli) ([v1.0.23](https://github.com/civo/cli/releases/tag/v1.0.23), 1 day ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
 - [getporter/porter](https://github.com/getporter/porter) ([v1.0.0-alpha.13](https://github.com/getporter/porter/releases/tag/v1.0.0-alpha.13), 2 days ago) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as a versioned bundle that you can distribute, and install with a single command.
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.8.30](https://github.com/robusta-dev/robusta/releases/tag/0.8.30), 3 days ago) - Open source Kubernetes troubleshooting and automation platform
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#250](https://github.com/robusta-dev/robusta/pull/250) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
-2. 🗣 Commented on [#239](https://github.com/robusta-dev/robusta/issues/239) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
-3. 💪 Opened PR [#936](https://github.com/tektoncd/catalog/pull/936) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-4. 🗣 Commented on [#239](https://github.com/robusta-dev/robusta/issues/239) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
-5. 🗣 Commented on [#400](https://github.com/armosec/kubescape/issues/400) in [armosec/kubescape](https://github.com/armosec/kubescape)
 <!--END_SECTION:activity-->
 
 
