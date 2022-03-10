@@ -24,11 +24,11 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
+- [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen) - A simple API that generates a random k8s keyword. A demo application for learning k8s concepts (today)
 - [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) - MongoDB Community Kubernetes Operator (today)
 - [avinashupadhya99/kubescape-helm-action](https://github.com/avinashupadhya99/kubescape-helm-action) - GitHub action to run Kubescape scans on helm charts (1 week ago)
 - [avinashupadhya99/kubescape-action](https://github.com/avinashupadhya99/kubescape-action) - GitHub action to run Kubescape scans (1 week ago)
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Open source Kubernetes troubleshooting and automation platform (1 week ago)
-- [avinashupadhya99/action-playground](https://github.com/avinashupadhya99/action-playground) - Playground for testing GitHub actions (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#518](https://github.com/mikepenz/action-junit-report/issues/518) in [mikepenz/action-junit-report](https://github.com/mikepenz/action-junit-report)
-2. 💪 Opened PR [#250](https://github.com/robusta-dev/robusta/pull/250) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
-3. 🗣 Commented on [#239](https://github.com/robusta-dev/robusta/issues/239) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
-4. 💪 Opened PR [#936](https://github.com/tektoncd/catalog/pull/936) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-5. 🗣 Commented on [#239](https://github.com/robusta-dev/robusta/issues/239) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
 <!--END_SECTION:activity-->
 
 
