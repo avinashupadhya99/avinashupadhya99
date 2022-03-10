@@ -32,11 +32,11 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.7](https://github.com/argoproj/argo-cd/releases/tag/v2.2.7), today) - Declarative continuous deployment for Kubernetes.
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.8.31](https://github.com/robusta-dev/robusta/releases/tag/0.8.31), 2 days ago) - Open source Kubernetes troubleshooting and automation platform
-- [armosec/kubescape](https://github.com/armosec/kubescape) ([v2.0.149](https://github.com/armosec/kubescape/releases/tag/v2.0.149), 3 days ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
-- [civo/cli](https://github.com/civo/cli) ([v1.0.23](https://github.com/civo/cli/releases/tag/v1.0.23), 4 days ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
-- [getporter/porter](https://github.com/getporter/porter) ([v1.0.0-alpha.13](https://github.com/getporter/porter/releases/tag/v1.0.0-alpha.13), 5 days ago) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as a versioned bundle that you can distribute, and install with a single command.
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.7](https://github.com/argoproj/argo-cd/releases/tag/v2.2.7), 1 day ago) - Declarative continuous deployment for Kubernetes.
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.8.31](https://github.com/robusta-dev/robusta/releases/tag/0.8.31), 3 days ago) - Open source Kubernetes troubleshooting and automation platform
+- [armosec/kubescape](https://github.com/armosec/kubescape) ([v2.0.149](https://github.com/armosec/kubescape/releases/tag/v2.0.149), 4 days ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
+- [civo/cli](https://github.com/civo/cli) ([v1.0.23](https://github.com/civo/cli/releases/tag/v1.0.23), 5 days ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
+- [getporter/porter](https://github.com/getporter/porter) ([v1.0.0-alpha.13](https://github.com/getporter/porter/releases/tag/v1.0.0-alpha.13), 6 days ago) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as a versioned bundle that you can distribute, and install with a single command.
 
 #### 🔨 Latest Pull Requests I published
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#518](https://github.com/mikepenz/action-junit-report/issues/518) in [mikepenz/action-junit-report](https://github.com/mikepenz/action-junit-report)
-2. 💪 Opened PR [#250](https://github.com/robusta-dev/robusta/pull/250) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
-3. 🗣 Commented on [#239](https://github.com/robusta-dev/robusta/issues/239) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
-4. 💪 Opened PR [#936](https://github.com/tektoncd/catalog/pull/936) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-5. 🗣 Commented on [#239](https://github.com/robusta-dev/robusta/issues/239) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
 <!--END_SECTION:activity-->
 
 
