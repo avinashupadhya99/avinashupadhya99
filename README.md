@@ -24,23 +24,23 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
-- [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) - MongoDB Community Kubernetes Operator (3 days ago)
-- [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen) - A simple API that generates a random k8s keyword. A demo application for learning k8s concepts (3 days ago)
+- [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) - MongoDB Community Kubernetes Operator (4 days ago)
+- [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen) - A simple API that generates a random k8s keyword. A demo application for learning k8s concepts (4 days ago)
 - [avinashupadhya99/kubescape-action](https://github.com/avinashupadhya99/kubescape-action) - GitHub action to run Kubescape scans (1 week ago)
 - [avinashupadhya99/kubescape-helm-action](https://github.com/avinashupadhya99/kubescape-helm-action) - GitHub action to run Kubescape scans on helm charts (1 week ago)
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Open source Kubernetes troubleshooting and automation platform (1 week ago)
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Open source Kubernetes troubleshooting and automation platform (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.1](https://github.com/argoproj/argo-cd/releases/tag/v2.3.1), 2 days ago) - Declarative continuous deployment for Kubernetes.
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([v2.5.1](https://github.com/kubernetes/dashboard/releases/tag/v2.5.1), 3 days ago) - General-purpose web UI for Kubernetes clusters
-- [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) ([v0.7.3](https://github.com/mongodb/mongodb-kubernetes-operator/releases/tag/v0.7.3), 4 days ago) - MongoDB Community Kubernetes Operator
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.8.31](https://github.com/robusta-dev/robusta/releases/tag/0.8.31), 6 days ago) - Open source Kubernetes troubleshooting and automation platform
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.1](https://github.com/argoproj/argo-cd/releases/tag/v2.3.1), 3 days ago) - Declarative continuous deployment for Kubernetes.
+- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([v2.5.1](https://github.com/kubernetes/dashboard/releases/tag/v2.5.1), 4 days ago) - General-purpose web UI for Kubernetes clusters
+- [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) ([v0.7.3](https://github.com/mongodb/mongodb-kubernetes-operator/releases/tag/v0.7.3), 5 days ago) - MongoDB Community Kubernetes Operator
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.8.31](https://github.com/robusta-dev/robusta/releases/tag/0.8.31), 1 week ago) - Open source Kubernetes troubleshooting and automation platform
 - [armosec/kubescape](https://github.com/armosec/kubescape) ([v2.0.149](https://github.com/armosec/kubescape/releases/tag/v2.0.149), 1 week ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
 
 #### 🔨 Latest Pull Requests I published
 
-- [Prevent python exception for no robusta-runner while fetching logs](https://github.com/robusta-dev/robusta/pull/250) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (1 week ago)
+- [Prevent python exception for no robusta-runner while fetching logs](https://github.com/robusta-dev/robusta/pull/250) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (2 weeks ago)
 - [Add datree task](https://github.com/tektoncd/catalog/pull/936) on [tektoncd/catalog](https://github.com/tektoncd/catalog) (2 weeks ago)
 - [Fix list items for add_enrichment in playbook example](https://github.com/robusta-dev/robusta/pull/246) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (2 weeks ago)
 - [[Snyk] Prevent privilege escalation for container](https://github.com/mongodb/mongodb-kubernetes-operator/pull/907) on [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) (2 weeks ago)
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#392](https://github.com/thenewboston-developers/Marketing/issues/392) in [thenewboston-developers/Marketing](https://github.com/thenewboston-developers/Marketing)
-2. 🎉 Merged PR [#5](https://github.com/avinashupadhya99/kubegen/pull/5) in [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen)
-3. 🗣 Commented on [#518](https://github.com/mikepenz/action-junit-report/issues/518) in [mikepenz/action-junit-report](https://github.com/mikepenz/action-junit-report)
-4. 💪 Opened PR [#250](https://github.com/robusta-dev/robusta/pull/250) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
-5. 🗣 Commented on [#239](https://github.com/robusta-dev/robusta/issues/239) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
 <!--END_SECTION:activity-->
 
 
