@@ -32,11 +32,11 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
+- [civo/cli](https://github.com/civo/cli) ([v1.0.24](https://github.com/civo/cli/releases/tag/v1.0.24), today) - Our Command Line Interface (CLI) for interacting with your Civo resources
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.9.0](https://github.com/robusta-dev/robusta/releases/tag/0.9.0), 1 day ago) - Open source Kubernetes troubleshooting and automation platform
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.1](https://github.com/argoproj/argo-cd/releases/tag/v2.3.1), 4 days ago) - Declarative continuous deployment for Kubernetes.
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([v2.5.1](https://github.com/kubernetes/dashboard/releases/tag/v2.5.1), 5 days ago) - General-purpose web UI for Kubernetes clusters
 - [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) ([v0.7.3](https://github.com/mongodb/mongodb-kubernetes-operator/releases/tag/v0.7.3), 6 days ago) - MongoDB Community Kubernetes Operator
-- [armosec/kubescape](https://github.com/armosec/kubescape) ([v2.0.149](https://github.com/armosec/kubescape/releases/tag/v2.0.149), 1 week ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
 
 #### 🔨 Latest Pull Requests I published
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#392](https://github.com/thenewboston-developers/Marketing/issues/392) in [thenewboston-developers/Marketing](https://github.com/thenewboston-developers/Marketing)
-2. 🎉 Merged PR [#5](https://github.com/avinashupadhya99/kubegen/pull/5) in [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen)
-3. 🗣 Commented on [#518](https://github.com/mikepenz/action-junit-report/issues/518) in [mikepenz/action-junit-report](https://github.com/mikepenz/action-junit-report)
-4. 💪 Opened PR [#250](https://github.com/robusta-dev/robusta/pull/250) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
-5. 🗣 Commented on [#239](https://github.com/robusta-dev/robusta/issues/239) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
 <!--END_SECTION:activity-->
 
 
