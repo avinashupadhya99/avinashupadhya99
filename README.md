@@ -24,7 +24,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
-- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (1 day ago)
+- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (2 days ago)
 - [avinashupadhya99/avinashupadhya99.github.io](https://github.com/avinashupadhya99/avinashupadhya99.github.io) - My Portfolio Website (1 week ago)
 - [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen) - A simple API that generates a random k8s keyword. A demo application for learning k8s concepts (1 week ago)
 - [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) - MongoDB Community Kubernetes Operator (1 week ago)
@@ -32,15 +32,15 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.1.13](https://github.com/argoproj/argo-cd/releases/tag/v2.1.13), today) - Declarative continuous deployment for Kubernetes.
-- [getporter/porter](https://github.com/getporter/porter) ([v1.0.0-alpha.14](https://github.com/getporter/porter/releases/tag/v1.0.0-alpha.14), today) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as a versioned bundle that you can distribute, and install with a single command.
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.9.4](https://github.com/robusta-dev/robusta/releases/tag/0.9.4), 1 day ago) - Open source Kubernetes troubleshooting and automation platform
-- [civo/cli](https://github.com/civo/cli) ([v1.0.25](https://github.com/civo/cli/releases/tag/v1.0.25), 6 days ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.8](https://github.com/argoproj/argo-cd/releases/tag/v2.2.8), today) - Declarative continuous deployment for Kubernetes.
+- [getporter/porter](https://github.com/getporter/porter) ([v1.0.0-alpha.14](https://github.com/getporter/porter/releases/tag/v1.0.0-alpha.14), 1 day ago) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as a versioned bundle that you can distribute, and install with a single command.
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.9.4](https://github.com/robusta-dev/robusta/releases/tag/0.9.4), 2 days ago) - Open source Kubernetes troubleshooting and automation platform
+- [civo/cli](https://github.com/civo/cli) ([v1.0.25](https://github.com/civo/cli/releases/tag/v1.0.25), 1 week ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
 - [spf13/cobra](https://github.com/spf13/cobra) ([v1.4.0](https://github.com/spf13/cobra/releases/tag/v1.4.0), 1 week ago) - A Commander for modern Go CLI interactions
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add Kubescape to projects](https://github.com/spf13/cobra/pull/1642) on [spf13/cobra](https://github.com/spf13/cobra) (1 day ago)
+- [Add Kubescape to projects](https://github.com/spf13/cobra/pull/1642) on [spf13/cobra](https://github.com/spf13/cobra) (2 days ago)
 - [Prevent python exception for no robusta-runner while fetching logs](https://github.com/robusta-dev/robusta/pull/250) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (3 weeks ago)
 - [Add datree task](https://github.com/tektoncd/catalog/pull/936) on [tektoncd/catalog](https://github.com/tektoncd/catalog) (3 weeks ago)
 - [Fix list items for add_enrichment in playbook example](https://github.com/robusta-dev/robusta/pull/246) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (3 weeks ago)
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1642](https://github.com/spf13/cobra/pull/1642) in [spf13/cobra](https://github.com/spf13/cobra)
-2. 🗣 Commented on [#392](https://github.com/thenewboston-developers/Marketing/issues/392) in [thenewboston-developers/Marketing](https://github.com/thenewboston-developers/Marketing)
-3. 🎉 Merged PR [#5](https://github.com/avinashupadhya99/kubegen/pull/5) in [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen)
-4. 🗣 Commented on [#518](https://github.com/mikepenz/action-junit-report/issues/518) in [mikepenz/action-junit-report](https://github.com/mikepenz/action-junit-report)
-5. 💪 Opened PR [#250](https://github.com/robusta-dev/robusta/pull/250) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
 <!--END_SECTION:activity-->
 
 
