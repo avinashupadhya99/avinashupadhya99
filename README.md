@@ -25,10 +25,10 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### 👷 Check out what I'm currently working on
 
 - [avinashupadhya99/hello-cli](https://github.com/avinashupadhya99/hello-cli) -  (today)
+- [avinashupadhya99/todo](https://github.com/avinashupadhya99/todo) -  (today)
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (3 days ago)
 - [avinashupadhya99/avinashupadhya99.github.io](https://github.com/avinashupadhya99/avinashupadhya99.github.io) - My Portfolio Website (1 week ago)
 - [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen) - A simple API that generates a random k8s keyword. A demo application for learning k8s concepts (2 weeks ago)
-- [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) - MongoDB Community Kubernetes Operator (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1642](https://github.com/spf13/cobra/pull/1642) in [spf13/cobra](https://github.com/spf13/cobra)
-2. 🗣 Commented on [#392](https://github.com/thenewboston-developers/Marketing/issues/392) in [thenewboston-developers/Marketing](https://github.com/thenewboston-developers/Marketing)
-3. 🎉 Merged PR [#5](https://github.com/avinashupadhya99/kubegen/pull/5) in [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen)
-4. 🗣 Commented on [#518](https://github.com/mikepenz/action-junit-report/issues/518) in [mikepenz/action-junit-report](https://github.com/mikepenz/action-junit-report)
-5. 💪 Opened PR [#250](https://github.com/robusta-dev/robusta/pull/250) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
 <!--END_SECTION:activity-->
 
 
