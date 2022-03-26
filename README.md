@@ -24,19 +24,19 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
+- [avinashupadhya99/todo-cli](https://github.com/avinashupadhya99/todo-cli) -  (today)
 - [avinashupadhya99/todo](https://github.com/avinashupadhya99/todo) -  (1 day ago)
 - [avinashupadhya99/hello-cli](https://github.com/avinashupadhya99/hello-cli) -  (2 days ago)
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (5 days ago)
 - [avinashupadhya99/avinashupadhya99.github.io](https://github.com/avinashupadhya99/avinashupadhya99.github.io) - My Portfolio Website (1 week ago)
-- [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen) - A simple API that generates a random k8s keyword. A demo application for learning k8s concepts (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [avinashupadhya99/todo-cli](https://github.com/avinashupadhya99/todo-cli) ([v0.1](https://github.com/avinashupadhya99/todo-cli/releases/tag/v0.1), today) - 
 - [parca-dev/parca](https://github.com/parca-dev/parca) ([v0.9.0](https://github.com/parca-dev/parca/releases/tag/v0.9.0), 1 day ago) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [avinashupadhya99/hello-cli](https://github.com/avinashupadhya99/hello-cli) ([v0.1](https://github.com/avinashupadhya99/hello-cli/releases/tag/v0.1), 2 days ago) - 
 - [getporter/porter](https://github.com/getporter/porter) ([v1.0.0-alpha.15](https://github.com/getporter/porter/releases/tag/v1.0.0-alpha.15), 3 days ago) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as a versioned bundle that you can distribute, and install with a single command.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.2](https://github.com/argoproj/argo-cd/releases/tag/v2.3.2), 3 days ago) - Declarative continuous deployment for Kubernetes.
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.9.4](https://github.com/robusta-dev/robusta/releases/tag/0.9.4), 5 days ago) - Open source Kubernetes troubleshooting and automation platform
 
 #### 🔨 Latest Pull Requests I published
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1642](https://github.com/spf13/cobra/pull/1642) in [spf13/cobra](https://github.com/spf13/cobra)
-2. 🗣 Commented on [#392](https://github.com/thenewboston-developers/Marketing/issues/392) in [thenewboston-developers/Marketing](https://github.com/thenewboston-developers/Marketing)
-3. 🎉 Merged PR [#5](https://github.com/avinashupadhya99/kubegen/pull/5) in [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen)
-4. 🗣 Commented on [#518](https://github.com/mikepenz/action-junit-report/issues/518) in [mikepenz/action-junit-report](https://github.com/mikepenz/action-junit-report)
-5. 💪 Opened PR [#250](https://github.com/robusta-dev/robusta/pull/250) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
 <!--END_SECTION:activity-->
 
 
