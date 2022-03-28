@@ -24,36 +24,31 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
-- [avinashupadhya99/todo-cli](https://github.com/avinashupadhya99/todo-cli) -  (1 day ago)
-- [avinashupadhya99/todo](https://github.com/avinashupadhya99/todo) -  (2 days ago)
-- [avinashupadhya99/hello-cli](https://github.com/avinashupadhya99/hello-cli) -  (3 days ago)
-- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (6 days ago)
+- [avinashupadhya99/todo-cli](https://github.com/avinashupadhya99/todo-cli) -  (2 days ago)
+- [avinashupadhya99/todo](https://github.com/avinashupadhya99/todo) -  (3 days ago)
+- [avinashupadhya99/hello-cli](https://github.com/avinashupadhya99/hello-cli) -  (4 days ago)
+- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (1 week ago)
 - [avinashupadhya99/avinashupadhya99.github.io](https://github.com/avinashupadhya99/avinashupadhya99.github.io) - My Portfolio Website (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [armosec/kubescape](https://github.com/armosec/kubescape) ([v2.0.150](https://github.com/armosec/kubescape/releases/tag/v2.0.150), today) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
-- [avinashupadhya99/todo-cli](https://github.com/avinashupadhya99/todo-cli) ([v0.1](https://github.com/avinashupadhya99/todo-cli/releases/tag/v0.1), 1 day ago) - 
-- [parca-dev/parca](https://github.com/parca-dev/parca) ([v0.9.0](https://github.com/parca-dev/parca/releases/tag/v0.9.0), 2 days ago) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
-- [avinashupadhya99/hello-cli](https://github.com/avinashupadhya99/hello-cli) ([v0.1](https://github.com/avinashupadhya99/hello-cli/releases/tag/v0.1), 3 days ago) - 
-- [getporter/porter](https://github.com/getporter/porter) ([v1.0.0-alpha.15](https://github.com/getporter/porter/releases/tag/v1.0.0-alpha.15), 4 days ago) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as a versioned bundle that you can distribute, and install with a single command.
+- [armosec/kubescape](https://github.com/armosec/kubescape) ([v2.0.150](https://github.com/armosec/kubescape/releases/tag/v2.0.150), 1 day ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
+- [avinashupadhya99/todo-cli](https://github.com/avinashupadhya99/todo-cli) ([v0.1](https://github.com/avinashupadhya99/todo-cli/releases/tag/v0.1), 2 days ago) - 
+- [parca-dev/parca](https://github.com/parca-dev/parca) ([v0.9.0](https://github.com/parca-dev/parca/releases/tag/v0.9.0), 3 days ago) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
+- [avinashupadhya99/hello-cli](https://github.com/avinashupadhya99/hello-cli) ([v0.1](https://github.com/avinashupadhya99/hello-cli/releases/tag/v0.1), 4 days ago) - 
+- [getporter/porter](https://github.com/getporter/porter) ([v1.0.0-alpha.15](https://github.com/getporter/porter/releases/tag/v1.0.0-alpha.15), 5 days ago) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as a versioned bundle that you can distribute, and install with a single command.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add Kubescape to projects](https://github.com/spf13/cobra/pull/1642) on [spf13/cobra](https://github.com/spf13/cobra) (6 days ago)
-- [Prevent python exception for no robusta-runner while fetching logs](https://github.com/robusta-dev/robusta/pull/250) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (3 weeks ago)
-- [Add datree task](https://github.com/tektoncd/catalog/pull/936) on [tektoncd/catalog](https://github.com/tektoncd/catalog) (4 weeks ago)
-- [Fix list items for add_enrichment in playbook example](https://github.com/robusta-dev/robusta/pull/246) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (4 weeks ago)
+- [Add Kubescape to projects](https://github.com/spf13/cobra/pull/1642) on [spf13/cobra](https://github.com/spf13/cobra) (1 week ago)
+- [Prevent python exception for no robusta-runner while fetching logs](https://github.com/robusta-dev/robusta/pull/250) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (4 weeks ago)
+- [Add datree task](https://github.com/tektoncd/catalog/pull/936) on [tektoncd/catalog](https://github.com/tektoncd/catalog) (1 month ago)
+- [Fix list items for add_enrichment in playbook example](https://github.com/robusta-dev/robusta/pull/246) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (1 month ago)
 - [[Snyk] Prevent privilege escalation for container](https://github.com/mongodb/mongodb-kubernetes-operator/pull/907) on [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) (1 month ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1642](https://github.com/spf13/cobra/pull/1642) in [spf13/cobra](https://github.com/spf13/cobra)
-2. 🗣 Commented on [#392](https://github.com/thenewboston-developers/Marketing/issues/392) in [thenewboston-developers/Marketing](https://github.com/thenewboston-developers/Marketing)
-3. 🎉 Merged PR [#5](https://github.com/avinashupadhya99/kubegen/pull/5) in [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen)
-4. 🗣 Commented on [#518](https://github.com/mikepenz/action-junit-report/issues/518) in [mikepenz/action-junit-report](https://github.com/mikepenz/action-junit-report)
-5. 💪 Opened PR [#250](https://github.com/robusta-dev/robusta/pull/250) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
 <!--END_SECTION:activity-->
 
 
