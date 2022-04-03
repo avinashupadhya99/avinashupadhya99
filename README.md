@@ -25,9 +25,9 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### 👷 Check out what I'm currently working on
 
 - [avinashupadhya99/order-service](https://github.com/avinashupadhya99/order-service) -  (today)
+- [avinashupadhya99/billing-service](https://github.com/avinashupadhya99/billing-service) -  (today)
 - [avinashupadhya99/package-service](https://github.com/avinashupadhya99/package-service) -  (today)
 - [avinashupadhya99/produce-service](https://github.com/avinashupadhya99/produce-service) -  (1 day ago)
-- [avinashupadhya99/kubescape-helm-action](https://github.com/avinashupadhya99/kubescape-helm-action) - GitHub action to run Kubescape scans on helm charts (4 days ago)
 - [avinashupadhya99/kubescape-action](https://github.com/avinashupadhya99/kubescape-action) - GitHub action to run Kubescape scans (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1642](https://github.com/spf13/cobra/pull/1642) in [spf13/cobra](https://github.com/spf13/cobra)
-2. 🗣 Commented on [#392](https://github.com/thenewboston-developers/Marketing/issues/392) in [thenewboston-developers/Marketing](https://github.com/thenewboston-developers/Marketing)
-3. 🎉 Merged PR [#5](https://github.com/avinashupadhya99/kubegen/pull/5) in [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen)
-4. 🗣 Commented on [#518](https://github.com/mikepenz/action-junit-report/issues/518) in [mikepenz/action-junit-report](https://github.com/mikepenz/action-junit-report)
-5. 💪 Opened PR [#250](https://github.com/robusta-dev/robusta/pull/250) in [robusta-dev/robusta](https://github.com/robusta-dev/robusta)
 <!--END_SECTION:activity-->
 
 
