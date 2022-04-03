@@ -24,10 +24,10 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
+- [avinashupadhya99/package-service](https://github.com/avinashupadhya99/package-service) -  (today)
+- [avinashupadhya99/produce-service](https://github.com/avinashupadhya99/produce-service) -  (today)
 - [avinashupadhya99/order-service](https://github.com/avinashupadhya99/order-service) -  (today)
 - [avinashupadhya99/billing-service](https://github.com/avinashupadhya99/billing-service) -  (today)
-- [avinashupadhya99/produce-service](https://github.com/avinashupadhya99/produce-service) -  (today)
-- [avinashupadhya99/package-service](https://github.com/avinashupadhya99/package-service) -  (today)
 - [avinashupadhya99/email-service](https://github.com/avinashupadhya99/email-service) -  (today)
 
 #### 🔭 Latest releases I've contributed to
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9090](https://github.com/gitpod-io/gitpod/issues/9090) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-2. 🗣 Commented on [#9090](https://github.com/gitpod-io/gitpod/issues/9090) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-3. ❗️ Opened issue [#9090](https://github.com/gitpod-io/gitpod/issues/9090) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-4. 💪 Opened PR [#1642](https://github.com/spf13/cobra/pull/1642) in [spf13/cobra](https://github.com/spf13/cobra)
-5. 🗣 Commented on [#392](https://github.com/thenewboston-developers/Marketing/issues/392) in [thenewboston-developers/Marketing](https://github.com/thenewboston-developers/Marketing)
 <!--END_SECTION:activity-->
 
 
