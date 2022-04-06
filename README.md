@@ -24,17 +24,17 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
-- [avinashupadhya99/order-service](https://github.com/avinashupadhya99/order-service) -  (2 days ago)
-- [avinashupadhya99/billing-service](https://github.com/avinashupadhya99/billing-service) -  (2 days ago)
-- [avinashupadhya99/email-service](https://github.com/avinashupadhya99/email-service) -  (2 days ago)
-- [avinashupadhya99/produce-service](https://github.com/avinashupadhya99/produce-service) -  (2 days ago)
-- [avinashupadhya99/package-service](https://github.com/avinashupadhya99/package-service) -  (2 days ago)
+- [avinashupadhya99/order-service](https://github.com/avinashupadhya99/order-service) -  (3 days ago)
+- [avinashupadhya99/billing-service](https://github.com/avinashupadhya99/billing-service) -  (3 days ago)
+- [avinashupadhya99/email-service](https://github.com/avinashupadhya99/email-service) -  (3 days ago)
+- [avinashupadhya99/produce-service](https://github.com/avinashupadhya99/produce-service) -  (3 days ago)
+- [avinashupadhya99/package-service](https://github.com/avinashupadhya99/package-service) -  (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [getporter/porter](https://github.com/getporter/porter) ([v1.0.0-alpha.18](https://github.com/getporter/porter/releases/tag/v1.0.0-alpha.18), today) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as a versioned bundle that you can distribute, and install with a single command.
-- [parca-dev/parca](https://github.com/parca-dev/parca) ([v0.10.0](https://github.com/parca-dev/parca/releases/tag/v0.10.0), 5 days ago) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.3](https://github.com/argoproj/argo-cd/releases/tag/v2.3.3), 6 days ago) - Declarative continuous deployment for Kubernetes.
+- [getporter/porter](https://github.com/getporter/porter) ([v1.0.0-alpha.18](https://github.com/getporter/porter/releases/tag/v1.0.0-alpha.18), 1 day ago) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as a versioned bundle that you can distribute, and install with a single command.
+- [parca-dev/parca](https://github.com/parca-dev/parca) ([v0.10.0](https://github.com/parca-dev/parca/releases/tag/v0.10.0), 6 days ago) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.3](https://github.com/argoproj/argo-cd/releases/tag/v2.3.3), 1 week ago) - Declarative continuous deployment for Kubernetes.
 - [armosec/kubescape](https://github.com/armosec/kubescape) ([v2.0.150](https://github.com/armosec/kubescape/releases/tag/v2.0.150), 1 week ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
 - [avinashupadhya99/todo-cli](https://github.com/avinashupadhya99/todo-cli) ([v0.1](https://github.com/avinashupadhya99/todo-cli/releases/tag/v0.1), 1 week ago) - 
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9090](https://github.com/gitpod-io/gitpod/issues/9090) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-2. 🗣 Commented on [#9090](https://github.com/gitpod-io/gitpod/issues/9090) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-3. ❗️ Opened issue [#9090](https://github.com/gitpod-io/gitpod/issues/9090) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-4. 💪 Opened PR [#1642](https://github.com/spf13/cobra/pull/1642) in [spf13/cobra](https://github.com/spf13/cobra)
-5. 🗣 Commented on [#392](https://github.com/thenewboston-developers/Marketing/issues/392) in [thenewboston-developers/Marketing](https://github.com/thenewboston-developers/Marketing)
 <!--END_SECTION:activity-->
 
 
