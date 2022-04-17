@@ -24,7 +24,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
-- [avinashupadhya99/order-service](https://github.com/avinashupadhya99/order-service) -  (2 weeks ago)
+- [avinashupadhya99/order-service](https://github.com/avinashupadhya99/order-service) -  (today)
 - [avinashupadhya99/billing-service](https://github.com/avinashupadhya99/billing-service) -  (2 weeks ago)
 - [avinashupadhya99/email-service](https://github.com/avinashupadhya99/email-service) -  (2 weeks ago)
 - [avinashupadhya99/produce-service](https://github.com/avinashupadhya99/produce-service) -  (2 weeks ago)
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1380](https://github.com/Azure/application-gateway-kubernetes-ingress/pull/1380) in [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress)
-2. 🗣 Commented on [#9090](https://github.com/gitpod-io/gitpod/issues/9090) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-3. 🗣 Commented on [#9090](https://github.com/gitpod-io/gitpod/issues/9090) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-4. ❗️ Opened issue [#9090](https://github.com/gitpod-io/gitpod/issues/9090) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-5. 💪 Opened PR [#1642](https://github.com/spf13/cobra/pull/1642) in [spf13/cobra](https://github.com/spf13/cobra)
 <!--END_SECTION:activity-->
 
 
