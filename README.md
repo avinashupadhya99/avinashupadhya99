@@ -24,11 +24,11 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
+- [avinashupadhya99/billing-service](https://github.com/avinashupadhya99/billing-service) -  (today)
+- [avinashupadhya99/email-service](https://github.com/avinashupadhya99/email-service) -  (today)
 - [avinashupadhya99/commission-manifests](https://github.com/avinashupadhya99/commission-manifests) - Manifest files for commission application (today)
 - [DataDog/documentation](https://github.com/DataDog/documentation) - The source for Datadog&#39;s documentation site. (2 days ago)
 - [avinashupadhya99/order-service](https://github.com/avinashupadhya99/order-service) -  (6 days ago)
-- [avinashupadhya99/produce-service](https://github.com/avinashupadhya99/produce-service) -  (2 weeks ago)
-- [avinashupadhya99/email-service](https://github.com/avinashupadhya99/email-service) -  (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13774](https://github.com/DataDog/documentation/pull/13774) in [DataDog/documentation](https://github.com/DataDog/documentation)
-2. 💪 Opened PR [#1380](https://github.com/Azure/application-gateway-kubernetes-ingress/pull/1380) in [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress)
-3. 🗣 Commented on [#9090](https://github.com/gitpod-io/gitpod/issues/9090) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-4. 🗣 Commented on [#9090](https://github.com/gitpod-io/gitpod/issues/9090) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-5. ❗️ Opened issue [#9090](https://github.com/gitpod-io/gitpod/issues/9090) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
 <!--END_SECTION:activity-->
 
 
