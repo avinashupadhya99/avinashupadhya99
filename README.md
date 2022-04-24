@@ -40,20 +40,15 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔨 Latest Pull Requests I published
 
+- [Fix hyperlink for running the cluster agent in EKS Fargate](https://github.com/DataDog/integrations-core/pull/11887) on [DataDog/integrations-core](https://github.com/DataDog/integrations-core) (today)
 - [Fix link to span tags in visualizations page](https://github.com/DataDog/documentation/pull/13774) on [DataDog/documentation](https://github.com/DataDog/documentation) (3 days ago)
 - [Fix formatting and typos in annotations docs](https://github.com/Azure/application-gateway-kubernetes-ingress/pull/1380) on [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) (1 week ago)
 - [Add Kubescape to projects](https://github.com/spf13/cobra/pull/1642) on [spf13/cobra](https://github.com/spf13/cobra) (1 month ago)
 - [Prevent python exception for no robusta-runner while fetching logs](https://github.com/robusta-dev/robusta/pull/250) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (1 month ago)
-- [Add datree task](https://github.com/tektoncd/catalog/pull/936) on [tektoncd/catalog](https://github.com/tektoncd/catalog) (1 month ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13774](https://github.com/DataDog/documentation/pull/13774) in [DataDog/documentation](https://github.com/DataDog/documentation)
-2. 💪 Opened PR [#1380](https://github.com/Azure/application-gateway-kubernetes-ingress/pull/1380) in [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress)
-3. 🗣 Commented on [#9090](https://github.com/gitpod-io/gitpod/issues/9090) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-4. 🗣 Commented on [#9090](https://github.com/gitpod-io/gitpod/issues/9090) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-5. ❗️ Opened issue [#9090](https://github.com/gitpod-io/gitpod/issues/9090) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
 <!--END_SECTION:activity-->
 
 
