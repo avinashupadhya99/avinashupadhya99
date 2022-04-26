@@ -25,14 +25,14 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### 👷 Check out what I'm currently working on
 
 - [DataDog/documentation](https://github.com/DataDog/documentation) - The source for Datadog&#39;s documentation site. (today)
-- [avinashupadhya99/package-service](https://github.com/avinashupadhya99/package-service) -  (today)
-- [avinashupadhya99/produce-service](https://github.com/avinashupadhya99/produce-service) -  (today)
-- [avinashupadhya99/billing-service](https://github.com/avinashupadhya99/billing-service) -  (today)
-- [avinashupadhya99/order-service](https://github.com/avinashupadhya99/order-service) -  (today)
+- [avinashupadhya99/package-service](https://github.com/avinashupadhya99/package-service) -  (1 day ago)
+- [avinashupadhya99/produce-service](https://github.com/avinashupadhya99/produce-service) -  (1 day ago)
+- [avinashupadhya99/billing-service](https://github.com/avinashupadhya99/billing-service) -  (1 day ago)
+- [avinashupadhya99/order-service](https://github.com/avinashupadhya99/order-service) -  (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [civo/cli](https://github.com/civo/cli) ([v1.0.26](https://github.com/civo/cli/releases/tag/v1.0.26), 5 days ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
+- [civo/cli](https://github.com/civo/cli) ([v1.0.26](https://github.com/civo/cli/releases/tag/v1.0.26), 6 days ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.9.7](https://github.com/robusta-dev/robusta/releases/tag/0.9.7), 1 week ago) - Open source Kubernetes troubleshooting and automation platform
 - [armosec/kubescape](https://github.com/armosec/kubescape) ([v2.0.152](https://github.com/armosec/kubescape/releases/tag/v2.0.152), 2 weeks ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
 - [parca-dev/parca](https://github.com/parca-dev/parca) ([v0.10.0](https://github.com/parca-dev/parca/releases/tag/v0.10.0), 3 weeks ago) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
@@ -40,20 +40,15 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add missing java imports for custom instrumentation](https://github.com/DataDog/documentation/pull/13814) on [DataDog/documentation](https://github.com/DataDog/documentation) (today)
-- [Fix hyperlink for running the cluster agent in EKS Fargate](https://github.com/DataDog/integrations-core/pull/11887) on [DataDog/integrations-core](https://github.com/DataDog/integrations-core) (1 day ago)
-- [Fix link to span tags in visualizations page](https://github.com/DataDog/documentation/pull/13774) on [DataDog/documentation](https://github.com/DataDog/documentation) (4 days ago)
+- [Add missing java imports for custom instrumentation](https://github.com/DataDog/documentation/pull/13814) on [DataDog/documentation](https://github.com/DataDog/documentation) (1 day ago)
+- [Fix hyperlink for running the cluster agent in EKS Fargate](https://github.com/DataDog/integrations-core/pull/11887) on [DataDog/integrations-core](https://github.com/DataDog/integrations-core) (2 days ago)
+- [Fix link to span tags in visualizations page](https://github.com/DataDog/documentation/pull/13774) on [DataDog/documentation](https://github.com/DataDog/documentation) (5 days ago)
 - [Fix formatting and typos in annotations docs](https://github.com/Azure/application-gateway-kubernetes-ingress/pull/1380) on [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) (1 week ago)
 - [Add Kubescape to projects](https://github.com/spf13/cobra/pull/1642) on [spf13/cobra](https://github.com/spf13/cobra) (1 month ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13814](https://github.com/DataDog/documentation/pull/13814) in [DataDog/documentation](https://github.com/DataDog/documentation)
-2. 💪 Opened PR [#11887](https://github.com/DataDog/integrations-core/pull/11887) in [DataDog/integrations-core](https://github.com/DataDog/integrations-core)
-3. 💪 Opened PR [#13774](https://github.com/DataDog/documentation/pull/13774) in [DataDog/documentation](https://github.com/DataDog/documentation)
-4. 💪 Opened PR [#1380](https://github.com/Azure/application-gateway-kubernetes-ingress/pull/1380) in [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress)
-5. 🗣 Commented on [#9090](https://github.com/gitpod-io/gitpod/issues/9090) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
 <!--END_SECTION:activity-->
 
 
