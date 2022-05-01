@@ -25,10 +25,10 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### 👷 Check out what I'm currently working on
 
 - [avinashupadhya99/package-service](https://github.com/avinashupadhya99/package-service) -  (4 days ago)
-- [avinashupadhya99/billing-service](https://github.com/avinashupadhya99/billing-service) -  (5 days ago)
-- [avinashupadhya99/email-service](https://github.com/avinashupadhya99/email-service) -  (5 days ago)
-- [DataDog/integrations-core](https://github.com/DataDog/integrations-core) - Core integrations of the Datadog Agent (5 days ago)
 - [DataDog/documentation](https://github.com/DataDog/documentation) - The source for Datadog&#39;s documentation site. (5 days ago)
+- [avinashupadhya99/billing-service](https://github.com/avinashupadhya99/billing-service) -  (5 days ago)
+- [DataDog/integrations-core](https://github.com/DataDog/integrations-core) - Core integrations of the Datadog Agent (5 days ago)
+- [avinashupadhya99/email-service](https://github.com/avinashupadhya99/email-service) -  (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#972](https://github.com/tektoncd/catalog/issues/972) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-2. 💪 Opened PR [#972](https://github.com/tektoncd/catalog/pull/972) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-3. 💪 Opened PR [#13814](https://github.com/DataDog/documentation/pull/13814) in [DataDog/documentation](https://github.com/DataDog/documentation)
-4. 💪 Opened PR [#11887](https://github.com/DataDog/integrations-core/pull/11887) in [DataDog/integrations-core](https://github.com/DataDog/integrations-core)
-5. 💪 Opened PR [#13774](https://github.com/DataDog/documentation/pull/13774) in [DataDog/documentation](https://github.com/DataDog/documentation)
 <!--END_SECTION:activity-->
 
 
