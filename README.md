@@ -40,20 +40,15 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔨 Latest Pull Requests I published
 
+- [Fix references to elastic agent path in spring cloud docs](https://github.com/MicrosoftDocs/azure-docs/pull/93254) on [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs) (today)
 - [Remove unused parameter from datree docs](https://github.com/tektoncd/catalog/pull/972) on [tektoncd/catalog](https://github.com/tektoncd/catalog) (3 weeks ago)
 - [Add missing java imports for custom instrumentation](https://github.com/DataDog/documentation/pull/13814) on [DataDog/documentation](https://github.com/DataDog/documentation) (3 weeks ago)
 - [Fix hyperlink for running the cluster agent in EKS Fargate](https://github.com/DataDog/integrations-core/pull/11887) on [DataDog/integrations-core](https://github.com/DataDog/integrations-core) (4 weeks ago)
 - [Fix link to span tags in visualizations page](https://github.com/DataDog/documentation/pull/13774) on [DataDog/documentation](https://github.com/DataDog/documentation) (1 month ago)
-- [Fix formatting and typos in annotations docs](https://github.com/Azure/application-gateway-kubernetes-ingress/pull/1380) on [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) (1 month ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#972](https://github.com/tektoncd/catalog/issues/972) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-2. 💪 Opened PR [#972](https://github.com/tektoncd/catalog/pull/972) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-3. 💪 Opened PR [#13814](https://github.com/DataDog/documentation/pull/13814) in [DataDog/documentation](https://github.com/DataDog/documentation)
-4. 💪 Opened PR [#11887](https://github.com/DataDog/integrations-core/pull/11887) in [DataDog/integrations-core](https://github.com/DataDog/integrations-core)
-5. 💪 Opened PR [#13774](https://github.com/DataDog/documentation/pull/13774) in [DataDog/documentation](https://github.com/DataDog/documentation)
 <!--END_SECTION:activity-->
 
 
