@@ -32,11 +32,11 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
+- [armosec/kubescape](https://github.com/armosec/kubescape) ([v2.0.155](https://github.com/armosec/kubescape/releases/tag/v2.0.155), today) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.1.15](https://github.com/argoproj/argo-cd/releases/tag/v2.1.15), 6 days ago) - Declarative continuous deployment for Kubernetes.
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.26.0-beta.1](https://github.com/kubernetes/minikube/releases/tag/v1.26.0-beta.1), 6 days ago) - Run Kubernetes locally
 - [parca-dev/parca](https://github.com/parca-dev/parca) ([v0.11.1](https://github.com/parca-dev/parca/releases/tag/v0.11.1), 1 week ago) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [civo/cli](https://github.com/civo/cli) ([v1.0.28](https://github.com/civo/cli/releases/tag/v1.0.28), 1 week ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
-- [armosec/kubescape](https://github.com/armosec/kubescape) ([v2.0.154](https://github.com/armosec/kubescape/releases/tag/v2.0.154), 1 week ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
 
 #### 🔨 Latest Pull Requests I published
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#132765](https://github.com/elastic/kibana/issues/132765) in [elastic/kibana](https://github.com/elastic/kibana)
-2. 💪 Opened PR [#132765](https://github.com/elastic/kibana/pull/132765) in [elastic/kibana](https://github.com/elastic/kibana)
-3. 💪 Opened PR [#93254](https://github.com/MicrosoftDocs/azure-docs/pull/93254) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
-4. 🗣 Commented on [#972](https://github.com/tektoncd/catalog/issues/972) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-5. 💪 Opened PR [#972](https://github.com/tektoncd/catalog/pull/972) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
 <!--END_SECTION:activity-->
 
 
