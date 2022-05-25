@@ -24,15 +24,15 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
+- [avinashupadhya99/datadog-scripts](https://github.com/avinashupadhya99/datadog-scripts) - Scripts for automating certain Datadog activities (today)
+- [avinashupadhya99/production-manifests](https://github.com/avinashupadhya99/production-manifests) - Kubernetes manifests for production  component (today)
 - [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs) - Open source documentation of Microsoft Azure (3 days ago)
-- [avinashupadhya99/datadog-scripts](https://github.com/avinashupadhya99/datadog-scripts) - Scripts for automating certain Datadog activities (6 days ago)
 - [tektoncd/catalog](https://github.com/tektoncd/catalog) - Catalog of shared Tasks and Pipelines. (3 weeks ago)
 - [avinashupadhya99/package-service](https://github.com/avinashupadhya99/package-service) -  (4 weeks ago)
-- [DataDog/integrations-core](https://github.com/DataDog/integrations-core) - Core integrations of the Datadog Agent (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.9.12-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.9.12-alpha), 1 day ago) - Open source Kubernetes troubleshooting and automation platform
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.9.12-alpha.1](https://github.com/robusta-dev/robusta/releases/tag/0.9.12-alpha.1), today) - Open source Kubernetes troubleshooting and automation platform
 - [armosec/kubescape](https://github.com/armosec/kubescape) ([v2.0.155](https://github.com/armosec/kubescape/releases/tag/v2.0.155), 1 day ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.1.15](https://github.com/argoproj/argo-cd/releases/tag/v2.1.15), 1 week ago) - Declarative continuous deployment for Kubernetes.
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.26.0-beta.1](https://github.com/kubernetes/minikube/releases/tag/v1.26.0-beta.1), 1 week ago) - Run Kubernetes locally
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#132765](https://github.com/elastic/kibana/issues/132765) in [elastic/kibana](https://github.com/elastic/kibana)
-2. 💪 Opened PR [#132765](https://github.com/elastic/kibana/pull/132765) in [elastic/kibana](https://github.com/elastic/kibana)
-3. 💪 Opened PR [#93254](https://github.com/MicrosoftDocs/azure-docs/pull/93254) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
-4. 🗣 Commented on [#972](https://github.com/tektoncd/catalog/issues/972) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-5. 💪 Opened PR [#972](https://github.com/tektoncd/catalog/pull/972) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
 <!--END_SECTION:activity-->
 
 
