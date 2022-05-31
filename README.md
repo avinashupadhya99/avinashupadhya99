@@ -32,11 +32,11 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([v2.6.0](https://github.com/kubernetes/dashboard/releases/tag/v2.6.0), today) - General-purpose web UI for Kubernetes clusters
 - [getporter/porter](https://github.com/getporter/porter) ([v1.0.0-alpha.20](https://github.com/getporter/porter/releases/tag/v1.0.0-alpha.20), today) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as a versioned bundle that you can distribute, and install with a single command.
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.9.12](https://github.com/robusta-dev/robusta/releases/tag/0.9.12), 2 days ago) - Open source Kubernetes troubleshooting and automation platform
 - [elastic/kibana](https://github.com/elastic/kibana) ([v8.2.2](https://github.com/elastic/kibana/releases/tag/v8.2.2), 5 days ago) - Your window into the Elastic Stack
 - [armosec/kubescape](https://github.com/armosec/kubescape) ([v2.0.156](https://github.com/armosec/kubescape/releases/tag/v2.0.156), 5 days ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.1.15](https://github.com/argoproj/argo-cd/releases/tag/v2.1.15), 1 week ago) - Declarative continuous deployment for Kubernetes.
 
 #### 🔨 Latest Pull Requests I published
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#132765](https://github.com/elastic/kibana/pull/132765) in [elastic/kibana](https://github.com/elastic/kibana)
-2. 🗣 Commented on [#132765](https://github.com/elastic/kibana/issues/132765) in [elastic/kibana](https://github.com/elastic/kibana)
-3. 💪 Opened PR [#132912](https://github.com/elastic/kibana/pull/132912) in [elastic/kibana](https://github.com/elastic/kibana)
-4. 🗣 Commented on [#132765](https://github.com/elastic/kibana/issues/132765) in [elastic/kibana](https://github.com/elastic/kibana)
-5. 🗣 Commented on [#132765](https://github.com/elastic/kibana/issues/132765) in [elastic/kibana](https://github.com/elastic/kibana)
 <!--END_SECTION:activity-->
 
 
