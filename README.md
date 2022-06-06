@@ -40,20 +40,15 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔨 Latest Pull Requests I published
 
+- [Update datree task description](https://github.com/tektoncd/catalog/pull/986) on [tektoncd/catalog](https://github.com/tektoncd/catalog) (today)
 - [Fix link to distributed tracing origins in APM troubleshooting guide](https://github.com/elastic/kibana/pull/132912) on [elastic/kibana](https://github.com/elastic/kibana) (1 week ago)
 - [Fix link to distributed tracing origins in troubleshooting guide](https://github.com/elastic/kibana/pull/132765) on [elastic/kibana](https://github.com/elastic/kibana) (1 week ago)
 - [Fix references to elastic agent path in spring cloud docs](https://github.com/MicrosoftDocs/azure-docs/pull/93254) on [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs) (2 weeks ago)
 - [Remove unused parameter from datree docs](https://github.com/tektoncd/catalog/pull/972) on [tektoncd/catalog](https://github.com/tektoncd/catalog) (1 month ago)
-- [Add missing java imports for custom instrumentation](https://github.com/DataDog/documentation/pull/13814) on [DataDog/documentation](https://github.com/DataDog/documentation) (1 month ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#132765](https://github.com/elastic/kibana/pull/132765) in [elastic/kibana](https://github.com/elastic/kibana)
-2. 🗣 Commented on [#132765](https://github.com/elastic/kibana/issues/132765) in [elastic/kibana](https://github.com/elastic/kibana)
-3. 💪 Opened PR [#132912](https://github.com/elastic/kibana/pull/132912) in [elastic/kibana](https://github.com/elastic/kibana)
-4. 🗣 Commented on [#132765](https://github.com/elastic/kibana/issues/132765) in [elastic/kibana](https://github.com/elastic/kibana)
-5. 🗣 Commented on [#132765](https://github.com/elastic/kibana/issues/132765) in [elastic/kibana](https://github.com/elastic/kibana)
 <!--END_SECTION:activity-->
 
 
