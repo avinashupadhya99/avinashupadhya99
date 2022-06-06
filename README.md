@@ -32,9 +32,9 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.0-rc5](https://github.com/argoproj/argo-cd/releases/tag/v2.4.0-rc5), today) - Declarative continuous deployment for Kubernetes.
 - [armosec/kubescape](https://github.com/armosec/kubescape) ([v2.0.158](https://github.com/armosec/kubescape/releases/tag/v2.0.158), today) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.9.13-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.9.13-alpha), 3 days ago) - Open source Kubernetes troubleshooting and automation platform
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.0-rc4](https://github.com/argoproj/argo-cd/releases/tag/v2.4.0-rc4), 5 days ago) - Declarative continuous deployment for Kubernetes.
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([v2.6.0](https://github.com/kubernetes/dashboard/releases/tag/v2.6.0), 6 days ago) - General-purpose web UI for Kubernetes clusters
 - [elastic/kibana](https://github.com/elastic/kibana) ([v8.2.2](https://github.com/elastic/kibana/releases/tag/v8.2.2), 1 week ago) - Your window into the Elastic Stack
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#986](https://github.com/tektoncd/catalog/pull/986) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-2. ❌ Closed PR [#132765](https://github.com/elastic/kibana/pull/132765) in [elastic/kibana](https://github.com/elastic/kibana)
-3. 🗣 Commented on [#132765](https://github.com/elastic/kibana/issues/132765) in [elastic/kibana](https://github.com/elastic/kibana)
-4. 💪 Opened PR [#132912](https://github.com/elastic/kibana/pull/132912) in [elastic/kibana](https://github.com/elastic/kibana)
-5. 🗣 Commented on [#132765](https://github.com/elastic/kibana/issues/132765) in [elastic/kibana](https://github.com/elastic/kibana)
 <!--END_SECTION:activity-->
 
 
