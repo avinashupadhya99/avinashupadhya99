@@ -24,36 +24,31 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
-- [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) - This is an ingress controller that can be run on Azure Kubernetes Service (AKS) to allow an Azure Application Gateway to act as the ingress for an AKS cluster. (4 days ago)
-- [avinashupadhya99/datadog-scripts](https://github.com/avinashupadhya99/datadog-scripts) - Scripts for automating certain Datadog activities (5 days ago)
+- [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) - This is an ingress controller that can be run on Azure Kubernetes Service (AKS) to allow an Azure Application Gateway to act as the ingress for an AKS cluster. (5 days ago)
+- [avinashupadhya99/datadog-scripts](https://github.com/avinashupadhya99/datadog-scripts) - Scripts for automating certain Datadog activities (6 days ago)
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack (1 week ago)
 - [avinashupadhya99/commission-manifests](https://github.com/avinashupadhya99/commission-manifests) - Manifest files for commission application (1 week ago)
 - [avinashupadhya99/production-manifests](https://github.com/avinashupadhya99/production-manifests) - Kubernetes manifests for production  component (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.0-rc5](https://github.com/argoproj/argo-cd/releases/tag/v2.4.0-rc5), today) - Declarative continuous deployment for Kubernetes.
-- [armosec/kubescape](https://github.com/armosec/kubescape) ([v2.0.158](https://github.com/armosec/kubescape/releases/tag/v2.0.158), today) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.9.13-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.9.13-alpha), 3 days ago) - Open source Kubernetes troubleshooting and automation platform
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([v2.6.0](https://github.com/kubernetes/dashboard/releases/tag/v2.6.0), 6 days ago) - General-purpose web UI for Kubernetes clusters
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.0-rc5](https://github.com/argoproj/argo-cd/releases/tag/v2.4.0-rc5), 1 day ago) - Declarative continuous deployment for Kubernetes.
+- [armosec/kubescape](https://github.com/armosec/kubescape) ([v2.0.158](https://github.com/armosec/kubescape/releases/tag/v2.0.158), 1 day ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.9.13-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.9.13-alpha), 4 days ago) - Open source Kubernetes troubleshooting and automation platform
+- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([v2.6.0](https://github.com/kubernetes/dashboard/releases/tag/v2.6.0), 1 week ago) - General-purpose web UI for Kubernetes clusters
 - [elastic/kibana](https://github.com/elastic/kibana) ([v8.2.2](https://github.com/elastic/kibana/releases/tag/v8.2.2), 1 week ago) - Your window into the Elastic Stack
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update datree task description](https://github.com/tektoncd/catalog/pull/986) on [tektoncd/catalog](https://github.com/tektoncd/catalog) (today)
+- [Update datree task description](https://github.com/tektoncd/catalog/pull/986) on [tektoncd/catalog](https://github.com/tektoncd/catalog) (1 day ago)
 - [Fix link to distributed tracing origins in APM troubleshooting guide](https://github.com/elastic/kibana/pull/132912) on [elastic/kibana](https://github.com/elastic/kibana) (1 week ago)
-- [Fix link to distributed tracing origins in troubleshooting guide](https://github.com/elastic/kibana/pull/132765) on [elastic/kibana](https://github.com/elastic/kibana) (1 week ago)
+- [Fix link to distributed tracing origins in troubleshooting guide](https://github.com/elastic/kibana/pull/132765) on [elastic/kibana](https://github.com/elastic/kibana) (2 weeks ago)
 - [Fix references to elastic agent path in spring cloud docs](https://github.com/MicrosoftDocs/azure-docs/pull/93254) on [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs) (2 weeks ago)
 - [Remove unused parameter from datree docs](https://github.com/tektoncd/catalog/pull/972) on [tektoncd/catalog](https://github.com/tektoncd/catalog) (1 month ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#986](https://github.com/tektoncd/catalog/pull/986) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-2. ❌ Closed PR [#132765](https://github.com/elastic/kibana/pull/132765) in [elastic/kibana](https://github.com/elastic/kibana)
-3. 🗣 Commented on [#132765](https://github.com/elastic/kibana/issues/132765) in [elastic/kibana](https://github.com/elastic/kibana)
-4. 💪 Opened PR [#132912](https://github.com/elastic/kibana/pull/132912) in [elastic/kibana](https://github.com/elastic/kibana)
-5. 🗣 Commented on [#132765](https://github.com/elastic/kibana/issues/132765) in [elastic/kibana](https://github.com/elastic/kibana)
 <!--END_SECTION:activity-->
 
 
