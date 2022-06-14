@@ -32,11 +32,11 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
+- [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) ([v0.7.4](https://github.com/mongodb/mongodb-kubernetes-operator/releases/tag/v0.7.4), today) - MongoDB Community Kubernetes Operator
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.0](https://github.com/argoproj/argo-cd/releases/tag/v2.4.0), 4 days ago) - Declarative continuous deployment for Kubernetes.
 - [getporter/porter](https://github.com/getporter/porter) ([v0.38.12](https://github.com/getporter/porter/releases/tag/v0.38.12), 5 days ago) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
 - [armosec/kubescape](https://github.com/armosec/kubescape) ([v2.0.158](https://github.com/armosec/kubescape/releases/tag/v2.0.158), 1 week ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.9.13-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.9.13-alpha), 1 week ago) - Open source Kubernetes troubleshooting and automation platform
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([v2.6.0](https://github.com/kubernetes/dashboard/releases/tag/v2.6.0), 2 weeks ago) - General-purpose web UI for Kubernetes clusters
 
 #### 🔨 Latest Pull Requests I published
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#986](https://github.com/tektoncd/catalog/pull/986) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-2. ❌ Closed PR [#132765](https://github.com/elastic/kibana/pull/132765) in [elastic/kibana](https://github.com/elastic/kibana)
-3. 🗣 Commented on [#132765](https://github.com/elastic/kibana/issues/132765) in [elastic/kibana](https://github.com/elastic/kibana)
-4. 💪 Opened PR [#132912](https://github.com/elastic/kibana/pull/132912) in [elastic/kibana](https://github.com/elastic/kibana)
-5. 🗣 Commented on [#132765](https://github.com/elastic/kibana/issues/132765) in [elastic/kibana](https://github.com/elastic/kibana)
 <!--END_SECTION:activity-->
 
 
