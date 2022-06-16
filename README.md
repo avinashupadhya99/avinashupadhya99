@@ -32,7 +32,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [getporter/porter](https://github.com/getporter/porter) ([v1.0.0-alpha.21](https://github.com/getporter/porter/releases/tag/v1.0.0-alpha.21), today) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
+- [getporter/porter](https://github.com/getporter/porter) ([v1.0.0-alpha.22](https://github.com/getporter/porter/releases/tag/v1.0.0-alpha.22), today) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.9.13](https://github.com/robusta-dev/robusta/releases/tag/0.9.13), today) - Open source Kubernetes troubleshooting and automation platform
 - [elastic/kibana](https://github.com/elastic/kibana) ([v8.2.3](https://github.com/elastic/kibana/releases/tag/v8.2.3), 2 days ago) - Your window into the Elastic Stack
 - [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) ([v0.7.4](https://github.com/mongodb/mongodb-kubernetes-operator/releases/tag/v0.7.4), 2 days ago) - MongoDB Community Kubernetes Operator
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#986](https://github.com/tektoncd/catalog/pull/986) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-2. ❌ Closed PR [#132765](https://github.com/elastic/kibana/pull/132765) in [elastic/kibana](https://github.com/elastic/kibana)
-3. 🗣 Commented on [#132765](https://github.com/elastic/kibana/issues/132765) in [elastic/kibana](https://github.com/elastic/kibana)
-4. 💪 Opened PR [#132912](https://github.com/elastic/kibana/pull/132912) in [elastic/kibana](https://github.com/elastic/kibana)
-5. 🗣 Commented on [#132765](https://github.com/elastic/kibana/issues/132765) in [elastic/kibana](https://github.com/elastic/kibana)
 <!--END_SECTION:activity-->
 
 
