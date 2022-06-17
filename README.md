@@ -24,19 +24,19 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
-- [avinashupadhya99/datadog-scripts](https://github.com/avinashupadhya99/datadog-scripts) - Scripts for automating certain Datadog activities (4 days ago)
-- [avinashupadhya99/kubegen-manifests](https://github.com/avinashupadhya99/kubegen-manifests) - Manifest files for https://github.com/avinashupadhya99/kubegen (4 days ago)
+- [avinashupadhya99/datadog-scripts](https://github.com/avinashupadhya99/datadog-scripts) - Scripts for automating certain Datadog activities (5 days ago)
+- [avinashupadhya99/kubegen-manifests](https://github.com/avinashupadhya99/kubegen-manifests) - Manifest files for https://github.com/avinashupadhya99/kubegen (5 days ago)
 - [tektoncd/catalog](https://github.com/tektoncd/catalog) - Catalog of shared Tasks and Pipelines. (1 week ago)
 - [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) - This is an ingress controller that can be run on Azure Kubernetes Service (AKS) to allow an Azure Application Gateway to act as the ingress for an AKS cluster. (2 weeks ago)
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [getporter/porter](https://github.com/getporter/porter) ([v1.0.0-alpha.22](https://github.com/getporter/porter/releases/tag/v1.0.0-alpha.22), today) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.9.13](https://github.com/robusta-dev/robusta/releases/tag/0.9.13), today) - Open source Kubernetes troubleshooting and automation platform
-- [elastic/kibana](https://github.com/elastic/kibana) ([v8.2.3](https://github.com/elastic/kibana/releases/tag/v8.2.3), 2 days ago) - Your window into the Elastic Stack
-- [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) ([v0.7.4](https://github.com/mongodb/mongodb-kubernetes-operator/releases/tag/v0.7.4), 2 days ago) - MongoDB Community Kubernetes Operator
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.0](https://github.com/argoproj/argo-cd/releases/tag/v2.4.0), 6 days ago) - Declarative continuous deployment for Kubernetes.
+- [getporter/porter](https://github.com/getporter/porter) ([v1.0.0-alpha.22](https://github.com/getporter/porter/releases/tag/v1.0.0-alpha.22), 1 day ago) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.9.13](https://github.com/robusta-dev/robusta/releases/tag/0.9.13), 1 day ago) - Open source Kubernetes troubleshooting and automation platform
+- [elastic/kibana](https://github.com/elastic/kibana) ([v8.2.3](https://github.com/elastic/kibana/releases/tag/v8.2.3), 3 days ago) - Your window into the Elastic Stack
+- [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) ([v0.7.4](https://github.com/mongodb/mongodb-kubernetes-operator/releases/tag/v0.7.4), 3 days ago) - MongoDB Community Kubernetes Operator
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.0](https://github.com/argoproj/argo-cd/releases/tag/v2.4.0), 1 week ago) - Declarative continuous deployment for Kubernetes.
 
 #### 🔨 Latest Pull Requests I published
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#986](https://github.com/tektoncd/catalog/pull/986) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-2. ❌ Closed PR [#132765](https://github.com/elastic/kibana/pull/132765) in [elastic/kibana](https://github.com/elastic/kibana)
-3. 🗣 Commented on [#132765](https://github.com/elastic/kibana/issues/132765) in [elastic/kibana](https://github.com/elastic/kibana)
-4. 💪 Opened PR [#132912](https://github.com/elastic/kibana/pull/132912) in [elastic/kibana](https://github.com/elastic/kibana)
-5. 🗣 Commented on [#132765](https://github.com/elastic/kibana/issues/132765) in [elastic/kibana](https://github.com/elastic/kibana)
 <!--END_SECTION:activity-->
 
 
