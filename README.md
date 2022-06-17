@@ -24,11 +24,11 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
+- [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) - 🦍 Source code for docs.konghq.com website (today)
 - [avinashupadhya99/datadog-scripts](https://github.com/avinashupadhya99/datadog-scripts) - Scripts for automating certain Datadog activities (5 days ago)
 - [avinashupadhya99/kubegen-manifests](https://github.com/avinashupadhya99/kubegen-manifests) - Manifest files for https://github.com/avinashupadhya99/kubegen (5 days ago)
 - [tektoncd/catalog](https://github.com/tektoncd/catalog) - Catalog of shared Tasks and Pipelines. (1 week ago)
 - [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) - This is an ingress controller that can be run on Azure Kubernetes Service (AKS) to allow an Azure Application Gateway to act as the ingress for an AKS cluster. (2 weeks ago)
-- [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4033](https://github.com/Kong/docs.konghq.com/pull/4033) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
-2. 💪 Opened PR [#986](https://github.com/tektoncd/catalog/pull/986) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-3. ❌ Closed PR [#132765](https://github.com/elastic/kibana/pull/132765) in [elastic/kibana](https://github.com/elastic/kibana)
-4. 🗣 Commented on [#132765](https://github.com/elastic/kibana/issues/132765) in [elastic/kibana](https://github.com/elastic/kibana)
-5. 💪 Opened PR [#132912](https://github.com/elastic/kibana/pull/132912) in [elastic/kibana](https://github.com/elastic/kibana)
 <!--END_SECTION:activity-->
 
 
