@@ -24,7 +24,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
-- [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) - 🦍 Source code for docs.konghq.com website (3 days ago)
+- [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) - 🦍 Source code for docs.konghq.com website (4 days ago)
 - [avinashupadhya99/datadog-scripts](https://github.com/avinashupadhya99/datadog-scripts) - Scripts for automating certain Datadog activities (1 week ago)
 - [avinashupadhya99/kubegen-manifests](https://github.com/avinashupadhya99/kubegen-manifests) - Manifest files for https://github.com/avinashupadhya99/kubegen (1 week ago)
 - [tektoncd/catalog](https://github.com/tektoncd/catalog) - Catalog of shared Tasks and Pipelines. (2 weeks ago)
@@ -32,28 +32,23 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.9.13](https://github.com/robusta-dev/robusta/releases/tag/0.9.13), 4 days ago) - Open source Kubernetes troubleshooting and automation platform
-- [elastic/kibana](https://github.com/elastic/kibana) ([v8.2.3](https://github.com/elastic/kibana/releases/tag/v8.2.3), 6 days ago) - Your window into the Elastic Stack
-- [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) ([v0.7.4](https://github.com/mongodb/mongodb-kubernetes-operator/releases/tag/v0.7.4), 6 days ago) - MongoDB Community Kubernetes Operator
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.9.13](https://github.com/robusta-dev/robusta/releases/tag/0.9.13), 5 days ago) - Open source Kubernetes troubleshooting and automation platform
+- [elastic/kibana](https://github.com/elastic/kibana) ([v8.2.3](https://github.com/elastic/kibana/releases/tag/v8.2.3), 1 week ago) - Your window into the Elastic Stack
+- [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) ([v0.7.4](https://github.com/mongodb/mongodb-kubernetes-operator/releases/tag/v0.7.4), 1 week ago) - MongoDB Community Kubernetes Operator
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.0](https://github.com/argoproj/argo-cd/releases/tag/v2.4.0), 1 week ago) - Declarative continuous deployment for Kubernetes.
 - [armosec/kubescape](https://github.com/armosec/kubescape) ([v2.0.158](https://github.com/armosec/kubescape/releases/tag/v2.0.158), 2 weeks ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix slashes in deploying to Azure command](https://github.com/Kong/docs.konghq.com/pull/4033) on [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) (3 days ago)
+- [Fix slashes in deploying to Azure command](https://github.com/Kong/docs.konghq.com/pull/4033) on [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) (4 days ago)
 - [Update datree task description](https://github.com/tektoncd/catalog/pull/986) on [tektoncd/catalog](https://github.com/tektoncd/catalog) (2 weeks ago)
 - [Fix link to distributed tracing origins in APM troubleshooting guide](https://github.com/elastic/kibana/pull/132912) on [elastic/kibana](https://github.com/elastic/kibana) (3 weeks ago)
-- [Fix link to distributed tracing origins in troubleshooting guide](https://github.com/elastic/kibana/pull/132765) on [elastic/kibana](https://github.com/elastic/kibana) (3 weeks ago)
-- [Fix references to elastic agent path in spring cloud docs](https://github.com/MicrosoftDocs/azure-docs/pull/93254) on [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs) (4 weeks ago)
+- [Fix link to distributed tracing origins in troubleshooting guide](https://github.com/elastic/kibana/pull/132765) on [elastic/kibana](https://github.com/elastic/kibana) (4 weeks ago)
+- [Fix references to elastic agent path in spring cloud docs](https://github.com/MicrosoftDocs/azure-docs/pull/93254) on [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs) (1 month ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4033](https://github.com/Kong/docs.konghq.com/pull/4033) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
-2. 💪 Opened PR [#986](https://github.com/tektoncd/catalog/pull/986) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-3. ❌ Closed PR [#132765](https://github.com/elastic/kibana/pull/132765) in [elastic/kibana](https://github.com/elastic/kibana)
-4. 🗣 Commented on [#132765](https://github.com/elastic/kibana/issues/132765) in [elastic/kibana](https://github.com/elastic/kibana)
-5. 💪 Opened PR [#132912](https://github.com/elastic/kibana/pull/132912) in [elastic/kibana](https://github.com/elastic/kibana)
 <!--END_SECTION:activity-->
 
 
