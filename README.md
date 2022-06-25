@@ -49,6 +49,11 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1005](https://github.com/tektoncd/catalog/pull/1005) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
+2. 💪 Opened PR [#4033](https://github.com/Kong/docs.konghq.com/pull/4033) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
+3. 💪 Opened PR [#986](https://github.com/tektoncd/catalog/pull/986) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
+4. ❌ Closed PR [#132765](https://github.com/elastic/kibana/pull/132765) in [elastic/kibana](https://github.com/elastic/kibana)
+5. 🗣 Commented on [#132765](https://github.com/elastic/kibana/issues/132765) in [elastic/kibana](https://github.com/elastic/kibana)
 <!--END_SECTION:activity-->
 
 
