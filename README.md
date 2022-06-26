@@ -26,8 +26,8 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 - [avinashupadhya99/action-playground](https://github.com/avinashupadhya99/action-playground) - Playground for testing GitHub actions (1 day ago)
 - [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) - 🦍 Source code for docs.konghq.com website (1 week ago)
-- [avinashupadhya99/datadog-scripts](https://github.com/avinashupadhya99/datadog-scripts) - Scripts for automating certain Datadog activities (2 weeks ago)
 - [avinashupadhya99/kubegen-manifests](https://github.com/avinashupadhya99/kubegen-manifests) - Manifest files for https://github.com/avinashupadhya99/kubegen (2 weeks ago)
+- [avinashupadhya99/datadog-scripts](https://github.com/avinashupadhya99/datadog-scripts) - Scripts for automating certain Datadog activities (2 weeks ago)
 - [tektoncd/catalog](https://github.com/tektoncd/catalog) - Catalog of shared Tasks and Pipelines. (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#547](https://github.com/armosec/kubescape/issues/547) in [armosec/kubescape](https://github.com/armosec/kubescape)
-2. 💪 Opened PR [#1005](https://github.com/tektoncd/catalog/pull/1005) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-3. 💪 Opened PR [#4033](https://github.com/Kong/docs.konghq.com/pull/4033) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
-4. 💪 Opened PR [#986](https://github.com/tektoncd/catalog/pull/986) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-5. ❌ Closed PR [#132765](https://github.com/elastic/kibana/pull/132765) in [elastic/kibana](https://github.com/elastic/kibana)
 <!--END_SECTION:activity-->
 
 
