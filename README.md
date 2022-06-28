@@ -32,8 +32,8 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.9.17](https://github.com/robusta-dev/robusta/releases/tag/0.9.17), today) - Open source Kubernetes troubleshooting and automation platform
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.3](https://github.com/argoproj/argo-cd/releases/tag/v2.4.3), 1 day ago) - Declarative continuous deployment for Kubernetes.
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.9.16](https://github.com/robusta-dev/robusta/releases/tag/0.9.16), 1 day ago) - Open source Kubernetes troubleshooting and automation platform
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.26.0](https://github.com/kubernetes/minikube/releases/tag/v1.26.0), 6 days ago) - Run Kubernetes locally
 - [spf13/cobra](https://github.com/spf13/cobra) ([v1.5.0](https://github.com/spf13/cobra/releases/tag/v1.5.0), 1 week ago) - A Commander for modern Go CLI interactions
 - [elastic/kibana](https://github.com/elastic/kibana) ([v8.2.3](https://github.com/elastic/kibana/releases/tag/v8.2.3), 2 weeks ago) - Your window into the Elastic Stack
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#547](https://github.com/armosec/kubescape/issues/547) in [armosec/kubescape](https://github.com/armosec/kubescape)
-2. 💪 Opened PR [#1005](https://github.com/tektoncd/catalog/pull/1005) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-3. 💪 Opened PR [#4033](https://github.com/Kong/docs.konghq.com/pull/4033) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
-4. 💪 Opened PR [#986](https://github.com/tektoncd/catalog/pull/986) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-5. ❌ Closed PR [#132765](https://github.com/elastic/kibana/pull/132765) in [elastic/kibana](https://github.com/elastic/kibana)
 <!--END_SECTION:activity-->
 
 
