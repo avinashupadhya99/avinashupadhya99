@@ -32,8 +32,8 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
+- [elastic/kibana](https://github.com/elastic/kibana) ([v8.3.1](https://github.com/elastic/kibana/releases/tag/v8.3.1), today) - Your window into the Elastic Stack
 - [armosec/kubescape](https://github.com/armosec/kubescape) ([v2.0.159](https://github.com/armosec/kubescape/releases/tag/v2.0.159), today) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
-- [elastic/kibana](https://github.com/elastic/kibana) ([v7.17.5](https://github.com/elastic/kibana/releases/tag/v7.17.5), 2 days ago) - Your window into the Elastic Stack
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.9.17](https://github.com/robusta-dev/robusta/releases/tag/0.9.17), 2 days ago) - Open source Kubernetes troubleshooting and automation platform
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.3](https://github.com/argoproj/argo-cd/releases/tag/v2.4.3), 3 days ago) - Declarative continuous deployment for Kubernetes.
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.26.0](https://github.com/kubernetes/minikube/releases/tag/v1.26.0), 1 week ago) - Run Kubernetes locally
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1005](https://github.com/tektoncd/catalog/issues/1005) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-2. ❗️ Opened issue [#547](https://github.com/armosec/kubescape/issues/547) in [armosec/kubescape](https://github.com/armosec/kubescape)
-3. 💪 Opened PR [#1005](https://github.com/tektoncd/catalog/pull/1005) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-4. 💪 Opened PR [#4033](https://github.com/Kong/docs.konghq.com/pull/4033) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
-5. 💪 Opened PR [#986](https://github.com/tektoncd/catalog/pull/986) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
 <!--END_SECTION:activity-->
 
 
