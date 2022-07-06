@@ -49,6 +49,11 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#20471](https://github.com/Azure/azure-cli/issues/20471) in [Azure/azure-cli](https://github.com/Azure/azure-cli)
+2. 🗣 Commented on [#1005](https://github.com/tektoncd/catalog/issues/1005) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
+3. ❗️ Opened issue [#547](https://github.com/armosec/kubescape/issues/547) in [armosec/kubescape](https://github.com/armosec/kubescape)
+4. 💪 Opened PR [#1005](https://github.com/tektoncd/catalog/pull/1005) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
+5. 💪 Opened PR [#4033](https://github.com/Kong/docs.konghq.com/pull/4033) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
 <!--END_SECTION:activity-->
 
 
