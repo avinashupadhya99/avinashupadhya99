@@ -40,20 +40,15 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add Kong PG SSL for Azure postgres database](https://github.com/Kong/docs.konghq.com/pull/4105) on [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) (today)
 - [[Container] Fix #20280: az container create - allow environment variable interpolation in container group yaml](https://github.com/Azure/azure-cli/pull/23148) on [Azure/azure-cli](https://github.com/Azure/azure-cli) (today)
 - [Add support for helm and kustomize to datree (0.2)](https://github.com/tektoncd/catalog/pull/1005) on [tektoncd/catalog](https://github.com/tektoncd/catalog) (1 week ago)
 - [Fix slashes in deploying to Azure command](https://github.com/Kong/docs.konghq.com/pull/4033) on [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) (3 weeks ago)
 - [Update datree task description](https://github.com/tektoncd/catalog/pull/986) on [tektoncd/catalog](https://github.com/tektoncd/catalog) (1 month ago)
-- [Fix link to distributed tracing origins in APM troubleshooting guide](https://github.com/elastic/kibana/pull/132912) on [elastic/kibana](https://github.com/elastic/kibana) (1 month ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23148](https://github.com/Azure/azure-cli/pull/23148) in [Azure/azure-cli](https://github.com/Azure/azure-cli)
-2. 🗣 Commented on [#20471](https://github.com/Azure/azure-cli/issues/20471) in [Azure/azure-cli](https://github.com/Azure/azure-cli)
-3. 🗣 Commented on [#1005](https://github.com/tektoncd/catalog/issues/1005) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-4. ❗️ Opened issue [#547](https://github.com/armosec/kubescape/issues/547) in [armosec/kubescape](https://github.com/armosec/kubescape)
-5. 💪 Opened PR [#1005](https://github.com/tektoncd/catalog/pull/1005) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
 <!--END_SECTION:activity-->
 
 
