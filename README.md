@@ -26,22 +26,22 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 - [avinashupadhya99/action-playground](https://github.com/avinashupadhya99/action-playground) - Playground for testing GitHub actions (2 weeks ago)
 - [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) - 🦍 Source code for docs.konghq.com website (3 weeks ago)
-- [avinashupadhya99/kubegen-manifests](https://github.com/avinashupadhya99/kubegen-manifests) - Manifest files for https://github.com/avinashupadhya99/kubegen (3 weeks ago)
-- [avinashupadhya99/datadog-scripts](https://github.com/avinashupadhya99/datadog-scripts) - Scripts for automating certain Datadog activities (3 weeks ago)
+- [avinashupadhya99/kubegen-manifests](https://github.com/avinashupadhya99/kubegen-manifests) - Manifest files for https://github.com/avinashupadhya99/kubegen (4 weeks ago)
+- [avinashupadhya99/datadog-scripts](https://github.com/avinashupadhya99/datadog-scripts) - Scripts for automating certain Datadog activities (4 weeks ago)
 - [tektoncd/catalog](https://github.com/tektoncd/catalog) - Catalog of shared Tasks and Pipelines. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [elastic/kibana](https://github.com/elastic/kibana) ([v8.3.2](https://github.com/elastic/kibana/releases/tag/v8.3.2), 2 days ago) - Your window into the Elastic Stack
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.9.18-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.9.18-alpha), 2 days ago) - Open source Kubernetes troubleshooting and automation platform
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.4](https://github.com/argoproj/argo-cd/releases/tag/v2.4.4), 2 days ago) - Declarative continuous deployment for Kubernetes.
-- [armosec/kubescape](https://github.com/armosec/kubescape) ([v2.0.161](https://github.com/armosec/kubescape/releases/tag/v2.0.161), 3 days ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
+- [elastic/kibana](https://github.com/elastic/kibana) ([v8.3.2](https://github.com/elastic/kibana/releases/tag/v8.3.2), 3 days ago) - Your window into the Elastic Stack
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.9.18-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.9.18-alpha), 3 days ago) - Open source Kubernetes troubleshooting and automation platform
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.4](https://github.com/argoproj/argo-cd/releases/tag/v2.4.4), 3 days ago) - Declarative continuous deployment for Kubernetes.
+- [armosec/kubescape](https://github.com/armosec/kubescape) ([v2.0.161](https://github.com/armosec/kubescape/releases/tag/v2.0.161), 4 days ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.26.0](https://github.com/kubernetes/minikube/releases/tag/v1.26.0), 2 weeks ago) - Run Kubernetes locally
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add Kong PG SSL for Azure postgres database](https://github.com/Kong/docs.konghq.com/pull/4105) on [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) (1 day ago)
-- [[Container] Fix #20280: az container create - allow environment variable interpolation in container group yaml](https://github.com/Azure/azure-cli/pull/23148) on [Azure/azure-cli](https://github.com/Azure/azure-cli) (1 day ago)
+- [Add Kong PG SSL for Azure postgres database](https://github.com/Kong/docs.konghq.com/pull/4105) on [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) (2 days ago)
+- [[Container] Fix #20280: az container create - allow environment variable interpolation in container group yaml](https://github.com/Azure/azure-cli/pull/23148) on [Azure/azure-cli](https://github.com/Azure/azure-cli) (2 days ago)
 - [Add support for helm and kustomize to datree (0.2)](https://github.com/tektoncd/catalog/pull/1005) on [tektoncd/catalog](https://github.com/tektoncd/catalog) (2 weeks ago)
 - [Fix slashes in deploying to Azure command](https://github.com/Kong/docs.konghq.com/pull/4033) on [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) (3 weeks ago)
 - [Update datree task description](https://github.com/tektoncd/catalog/pull/986) on [tektoncd/catalog](https://github.com/tektoncd/catalog) (1 month ago)
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4105](https://github.com/Kong/docs.konghq.com/pull/4105) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
-2. 💪 Opened PR [#23148](https://github.com/Azure/azure-cli/pull/23148) in [Azure/azure-cli](https://github.com/Azure/azure-cli)
-3. 🗣 Commented on [#20471](https://github.com/Azure/azure-cli/issues/20471) in [Azure/azure-cli](https://github.com/Azure/azure-cli)
-4. 🗣 Commented on [#1005](https://github.com/tektoncd/catalog/issues/1005) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-5. ❗️ Opened issue [#547](https://github.com/armosec/kubescape/issues/547) in [armosec/kubescape](https://github.com/armosec/kubescape)
 <!--END_SECTION:activity-->
 
 
