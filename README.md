@@ -32,7 +32,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.5](https://github.com/argoproj/argo-cd/releases/tag/v2.4.5), today) - Declarative continuous deployment for Kubernetes.
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.6](https://github.com/argoproj/argo-cd/releases/tag/v2.3.6), today) - Declarative continuous deployment for Kubernetes.
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.9.18-alpha.1](https://github.com/robusta-dev/robusta/releases/tag/0.9.18-alpha.1), 1 day ago) - Open source Kubernetes troubleshooting and automation platform
 - [elastic/kibana](https://github.com/elastic/kibana) ([v8.3.2](https://github.com/elastic/kibana/releases/tag/v8.3.2), 5 days ago) - Your window into the Elastic Stack
 - [armosec/kubescape](https://github.com/armosec/kubescape) ([v2.0.161](https://github.com/armosec/kubescape/releases/tag/v2.0.161), 6 days ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#433](https://github.com/devtron-labs/dashboard/issues/433) in [devtron-labs/dashboard](https://github.com/devtron-labs/dashboard)
-2. 💪 Opened PR [#427](https://github.com/devtron-labs/dashboard/pull/427) in [devtron-labs/dashboard](https://github.com/devtron-labs/dashboard)
-3. 💪 Opened PR [#426](https://github.com/devtron-labs/dashboard/pull/426) in [devtron-labs/dashboard](https://github.com/devtron-labs/dashboard)
-4. 💪 Opened PR [#4105](https://github.com/Kong/docs.konghq.com/pull/4105) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
-5. 💪 Opened PR [#23148](https://github.com/Azure/azure-cli/pull/23148) in [Azure/azure-cli](https://github.com/Azure/azure-cli)
 <!--END_SECTION:activity-->
 
 
