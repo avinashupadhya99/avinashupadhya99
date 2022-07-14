@@ -24,7 +24,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
-- [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) - 🦍 Source code for docs.konghq.com website (2 days ago)
+- [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) - 🦍 Source code for docs.konghq.com website (3 days ago)
 - [avinashupadhya99/action-playground](https://github.com/avinashupadhya99/action-playground) - Playground for testing GitHub actions (2 weeks ago)
 - [avinashupadhya99/kubegen-manifests](https://github.com/avinashupadhya99/kubegen-manifests) - Manifest files for https://github.com/avinashupadhya99/kubegen (1 month ago)
 - [avinashupadhya99/datadog-scripts](https://github.com/avinashupadhya99/datadog-scripts) - Scripts for automating certain Datadog activities (1 month ago)
@@ -32,28 +32,23 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.6](https://github.com/argoproj/argo-cd/releases/tag/v2.4.6), 1 day ago) - Declarative continuous deployment for Kubernetes.
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.9.18-alpha.1](https://github.com/robusta-dev/robusta/releases/tag/0.9.18-alpha.1), 2 days ago) - Open source Kubernetes troubleshooting and automation platform
-- [elastic/kibana](https://github.com/elastic/kibana) ([v8.3.2](https://github.com/elastic/kibana/releases/tag/v8.3.2), 6 days ago) - Your window into the Elastic Stack
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.6](https://github.com/argoproj/argo-cd/releases/tag/v2.4.6), 2 days ago) - Declarative continuous deployment for Kubernetes.
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.9.18-alpha.1](https://github.com/robusta-dev/robusta/releases/tag/0.9.18-alpha.1), 3 days ago) - Open source Kubernetes troubleshooting and automation platform
+- [elastic/kibana](https://github.com/elastic/kibana) ([v8.3.2](https://github.com/elastic/kibana/releases/tag/v8.3.2), 1 week ago) - Your window into the Elastic Stack
 - [armosec/kubescape](https://github.com/armosec/kubescape) ([v2.0.161](https://github.com/armosec/kubescape/releases/tag/v2.0.161), 1 week ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.26.0](https://github.com/kubernetes/minikube/releases/tag/v1.26.0), 3 weeks ago) - Run Kubernetes locally
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix link to git access credential in GitOps config](https://github.com/devtron-labs/dashboard/pull/427) on [devtron-labs/dashboard](https://github.com/devtron-labs/dashboard) (3 days ago)
-- [Fix link to workflow docs in editor](https://github.com/devtron-labs/dashboard/pull/426) on [devtron-labs/dashboard](https://github.com/devtron-labs/dashboard) (3 days ago)
-- [Add Kong PG SSL for Azure postgres database](https://github.com/Kong/docs.konghq.com/pull/4105) on [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) (5 days ago)
-- [[Container] Fix #20280: az container create - allow environment variable interpolation in container group yaml](https://github.com/Azure/azure-cli/pull/23148) on [Azure/azure-cli](https://github.com/Azure/azure-cli) (5 days ago)
+- [Fix link to git access credential in GitOps config](https://github.com/devtron-labs/dashboard/pull/427) on [devtron-labs/dashboard](https://github.com/devtron-labs/dashboard) (4 days ago)
+- [Fix link to workflow docs in editor](https://github.com/devtron-labs/dashboard/pull/426) on [devtron-labs/dashboard](https://github.com/devtron-labs/dashboard) (4 days ago)
+- [Add Kong PG SSL for Azure postgres database](https://github.com/Kong/docs.konghq.com/pull/4105) on [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) (6 days ago)
+- [[Container] Fix #20280: az container create - allow environment variable interpolation in container group yaml](https://github.com/Azure/azure-cli/pull/23148) on [Azure/azure-cli](https://github.com/Azure/azure-cli) (6 days ago)
 - [Add support for helm and kustomize to datree (0.2)](https://github.com/tektoncd/catalog/pull/1005) on [tektoncd/catalog](https://github.com/tektoncd/catalog) (2 weeks ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4524](https://github.com/EddieHubCommunity/support/issues/4524) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. ❗️ Opened issue [#433](https://github.com/devtron-labs/dashboard/issues/433) in [devtron-labs/dashboard](https://github.com/devtron-labs/dashboard)
-3. 💪 Opened PR [#427](https://github.com/devtron-labs/dashboard/pull/427) in [devtron-labs/dashboard](https://github.com/devtron-labs/dashboard)
-4. 💪 Opened PR [#426](https://github.com/devtron-labs/dashboard/pull/426) in [devtron-labs/dashboard](https://github.com/devtron-labs/dashboard)
-5. 💪 Opened PR [#4105](https://github.com/Kong/docs.konghq.com/pull/4105) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
 <!--END_SECTION:activity-->
 
 
