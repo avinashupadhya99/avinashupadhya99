@@ -32,11 +32,11 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
+- [elastic/kibana](https://github.com/elastic/kibana) ([v8.3.3](https://github.com/elastic/kibana/releases/tag/v8.3.3), today) - Your window into the Elastic Stack
 - [armosec/kubescape](https://github.com/armosec/kubescape) ([v2.0.164](https://github.com/armosec/kubescape/releases/tag/v2.0.164), 3 days ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
 - [parca-dev/parca](https://github.com/parca-dev/parca) ([v0.12.0](https://github.com/parca-dev/parca/releases/tag/v0.12.0), 1 week ago) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.0](https://github.com/robusta-dev/robusta/releases/tag/0.10.0), 1 week ago) - Open source Kubernetes troubleshooting and automation platform
 - [civo/cli](https://github.com/civo/cli) ([v1.0.30](https://github.com/civo/cli/releases/tag/v1.0.30), 1 week ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.7](https://github.com/argoproj/argo-cd/releases/tag/v2.4.7), 1 week ago) - Declarative continuous deployment for Kubernetes.
 
 #### 🔨 Latest Pull Requests I published
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4524](https://github.com/EddieHubCommunity/support/issues/4524) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. ❗️ Opened issue [#433](https://github.com/devtron-labs/dashboard/issues/433) in [devtron-labs/dashboard](https://github.com/devtron-labs/dashboard)
-3. 💪 Opened PR [#427](https://github.com/devtron-labs/dashboard/pull/427) in [devtron-labs/dashboard](https://github.com/devtron-labs/dashboard)
-4. 💪 Opened PR [#426](https://github.com/devtron-labs/dashboard/pull/426) in [devtron-labs/dashboard](https://github.com/devtron-labs/dashboard)
-5. 💪 Opened PR [#4105](https://github.com/Kong/docs.konghq.com/pull/4105) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
 <!--END_SECTION:activity-->
 
 
