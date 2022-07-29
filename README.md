@@ -49,6 +49,11 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#579](https://github.com/armosec/kubescape/pull/579) in [armosec/kubescape](https://github.com/armosec/kubescape)
+2. ❗️ Opened issue [#4524](https://github.com/EddieHubCommunity/support/issues/4524) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. ❗️ Opened issue [#433](https://github.com/devtron-labs/dashboard/issues/433) in [devtron-labs/dashboard](https://github.com/devtron-labs/dashboard)
+4. 💪 Opened PR [#427](https://github.com/devtron-labs/dashboard/pull/427) in [devtron-labs/dashboard](https://github.com/devtron-labs/dashboard)
+5. 💪 Opened PR [#426](https://github.com/devtron-labs/dashboard/pull/426) in [devtron-labs/dashboard](https://github.com/devtron-labs/dashboard)
 <!--END_SECTION:activity-->
 
 
