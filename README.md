@@ -24,11 +24,11 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
+- [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore) - All the latest/previous Docker Bangalore Meetup presentations slides, videos and workshops  (today)
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface (3 days ago)
 - [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) - 🦍 Source code for docs.konghq.com website (2 weeks ago)
 - [devtron-labs/dashboard](https://github.com/devtron-labs/dashboard) -  (2 weeks ago)
 - [avinashupadhya99/action-playground](https://github.com/avinashupadhya99/action-playground) - Playground for testing GitHub actions (1 month ago)
-- [avinashupadhya99/datadog-scripts](https://github.com/avinashupadhya99/datadog-scripts) - Scripts for automating certain Datadog activities (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/collabnix/dockerbangalore/pull/36) in [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore)
-2. 💪 Opened PR [#579](https://github.com/armosec/kubescape/pull/579) in [armosec/kubescape](https://github.com/armosec/kubescape)
-3. ❗️ Opened issue [#4524](https://github.com/EddieHubCommunity/support/issues/4524) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. ❗️ Opened issue [#433](https://github.com/devtron-labs/dashboard/issues/433) in [devtron-labs/dashboard](https://github.com/devtron-labs/dashboard)
-5. 💪 Opened PR [#427](https://github.com/devtron-labs/dashboard/pull/427) in [devtron-labs/dashboard](https://github.com/devtron-labs/dashboard)
 <!--END_SECTION:activity-->
 
 
