@@ -40,20 +40,15 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add slides for Kubescape talk-30 July 2022](https://github.com/collabnix/dockerbangalore/pull/36) on [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore) (today)
 - [Update link for playground in Readme](https://github.com/armosec/kubescape/pull/579) on [armosec/kubescape](https://github.com/armosec/kubescape) (1 day ago)
 - [Fix link to git access credential in GitOps config](https://github.com/devtron-labs/dashboard/pull/427) on [devtron-labs/dashboard](https://github.com/devtron-labs/dashboard) (2 weeks ago)
 - [Fix link to workflow docs in editor](https://github.com/devtron-labs/dashboard/pull/426) on [devtron-labs/dashboard](https://github.com/devtron-labs/dashboard) (2 weeks ago)
 - [Add Kong PG SSL for Azure postgres database](https://github.com/Kong/docs.konghq.com/pull/4105) on [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) (3 weeks ago)
-- [[Container] Fix #20280: `az container create`: Allow environment variable interpolation in container group yaml](https://github.com/Azure/azure-cli/pull/23148) on [Azure/azure-cli](https://github.com/Azure/azure-cli) (3 weeks ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#579](https://github.com/armosec/kubescape/pull/579) in [armosec/kubescape](https://github.com/armosec/kubescape)
-2. ❗️ Opened issue [#4524](https://github.com/EddieHubCommunity/support/issues/4524) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. ❗️ Opened issue [#433](https://github.com/devtron-labs/dashboard/issues/433) in [devtron-labs/dashboard](https://github.com/devtron-labs/dashboard)
-4. 💪 Opened PR [#427](https://github.com/devtron-labs/dashboard/pull/427) in [devtron-labs/dashboard](https://github.com/devtron-labs/dashboard)
-5. 💪 Opened PR [#426](https://github.com/devtron-labs/dashboard/pull/426) in [devtron-labs/dashboard](https://github.com/devtron-labs/dashboard)
 <!--END_SECTION:activity-->
 
 
