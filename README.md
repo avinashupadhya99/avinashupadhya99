@@ -24,36 +24,31 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
-- [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore) - All the latest/previous Docker Bangalore Meetup presentations slides, videos and workshops  (today)
-- [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface (3 days ago)
+- [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore) - All the latest/previous Docker Bangalore Meetup presentations slides, videos and workshops  (1 day ago)
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface (4 days ago)
 - [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) - 🦍 Source code for docs.konghq.com website (2 weeks ago)
-- [devtron-labs/dashboard](https://github.com/devtron-labs/dashboard) -  (2 weeks ago)
+- [devtron-labs/dashboard](https://github.com/devtron-labs/dashboard) -  (3 weeks ago)
 - [avinashupadhya99/action-playground](https://github.com/avinashupadhya99/action-playground) - Playground for testing GitHub actions (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.8](https://github.com/argoproj/argo-cd/releases/tag/v2.4.8), 1 day ago) - Declarative continuous deployment for Kubernetes.
-- [parca-dev/parca](https://github.com/parca-dev/parca) ([v0.12.1](https://github.com/parca-dev/parca/releases/tag/v0.12.1), 1 day ago) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
-- [elastic/kibana](https://github.com/elastic/kibana) ([v8.3.3](https://github.com/elastic/kibana/releases/tag/v8.3.3), 2 days ago) - Your window into the Elastic Stack
-- [armosec/kubescape](https://github.com/armosec/kubescape) ([v2.0.164](https://github.com/armosec/kubescape/releases/tag/v2.0.164), 5 days ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.8](https://github.com/argoproj/argo-cd/releases/tag/v2.4.8), 2 days ago) - Declarative continuous deployment for Kubernetes.
+- [parca-dev/parca](https://github.com/parca-dev/parca) ([v0.12.1](https://github.com/parca-dev/parca/releases/tag/v0.12.1), 2 days ago) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
+- [elastic/kibana](https://github.com/elastic/kibana) ([v8.3.3](https://github.com/elastic/kibana/releases/tag/v8.3.3), 3 days ago) - Your window into the Elastic Stack
+- [armosec/kubescape](https://github.com/armosec/kubescape) ([v2.0.164](https://github.com/armosec/kubescape/releases/tag/v2.0.164), 6 days ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.0](https://github.com/robusta-dev/robusta/releases/tag/0.10.0), 1 week ago) - Open source Kubernetes troubleshooting and automation platform
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add slides for Kubescape talk-30 July 2022](https://github.com/collabnix/dockerbangalore/pull/36) on [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore) (today)
-- [Update link for playground in Readme](https://github.com/armosec/kubescape/pull/579) on [armosec/kubescape](https://github.com/armosec/kubescape) (1 day ago)
-- [Fix link to git access credential in GitOps config](https://github.com/devtron-labs/dashboard/pull/427) on [devtron-labs/dashboard](https://github.com/devtron-labs/dashboard) (2 weeks ago)
-- [Fix link to workflow docs in editor](https://github.com/devtron-labs/dashboard/pull/426) on [devtron-labs/dashboard](https://github.com/devtron-labs/dashboard) (2 weeks ago)
+- [Add slides for Kubescape talk-30 July 2022](https://github.com/collabnix/dockerbangalore/pull/36) on [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore) (1 day ago)
+- [Update link for playground in Readme](https://github.com/armosec/kubescape/pull/579) on [armosec/kubescape](https://github.com/armosec/kubescape) (2 days ago)
+- [Fix link to git access credential in GitOps config](https://github.com/devtron-labs/dashboard/pull/427) on [devtron-labs/dashboard](https://github.com/devtron-labs/dashboard) (3 weeks ago)
+- [Fix link to workflow docs in editor](https://github.com/devtron-labs/dashboard/pull/426) on [devtron-labs/dashboard](https://github.com/devtron-labs/dashboard) (3 weeks ago)
 - [Add Kong PG SSL for Azure postgres database](https://github.com/Kong/docs.konghq.com/pull/4105) on [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) (3 weeks ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/collabnix/dockerbangalore/pull/36) in [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore)
-2. 💪 Opened PR [#579](https://github.com/armosec/kubescape/pull/579) in [armosec/kubescape](https://github.com/armosec/kubescape)
-3. ❗️ Opened issue [#4524](https://github.com/EddieHubCommunity/support/issues/4524) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. ❗️ Opened issue [#433](https://github.com/devtron-labs/dashboard/issues/433) in [devtron-labs/dashboard](https://github.com/devtron-labs/dashboard)
-5. 💪 Opened PR [#427](https://github.com/devtron-labs/dashboard/pull/427) in [devtron-labs/dashboard](https://github.com/devtron-labs/dashboard)
 <!--END_SECTION:activity-->
 
 
