@@ -32,11 +32,11 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.39.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.39.0), today) - Azure Command-Line Interface
 - [getporter/porter](https://github.com/getporter/porter) ([v1.0.0-beta.2](https://github.com/getporter/porter/releases/tag/v1.0.0-beta.2), 1 day ago) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.1-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.10.1-alpha), 2 days ago) - Open source Kubernetes troubleshooting and automation platform
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.8](https://github.com/argoproj/argo-cd/releases/tag/v2.4.8), 4 days ago) - Declarative continuous deployment for Kubernetes.
 - [parca-dev/parca](https://github.com/parca-dev/parca) ([v0.12.1](https://github.com/parca-dev/parca/releases/tag/v0.12.1), 4 days ago) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
-- [elastic/kibana](https://github.com/elastic/kibana) ([v8.3.3](https://github.com/elastic/kibana/releases/tag/v8.3.3), 5 days ago) - Your window into the Elastic Stack
 
 #### 🔨 Latest Pull Requests I published
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#581](https://github.com/armosec/kubescape/pull/581) in [armosec/kubescape](https://github.com/armosec/kubescape)
-2. ❌ Closed PR [#579](https://github.com/armosec/kubescape/pull/579) in [armosec/kubescape](https://github.com/armosec/kubescape)
-3. 🗣 Commented on [#579](https://github.com/armosec/kubescape/issues/579) in [armosec/kubescape](https://github.com/armosec/kubescape)
-4. 💪 Opened PR [#36](https://github.com/collabnix/dockerbangalore/pull/36) in [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore)
-5. 💪 Opened PR [#579](https://github.com/armosec/kubescape/pull/579) in [armosec/kubescape](https://github.com/armosec/kubescape)
 <!--END_SECTION:activity-->
 
 
