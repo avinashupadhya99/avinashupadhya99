@@ -24,7 +24,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
-- [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore) - All the latest/previous Docker Bangalore Meetup presentations slides, videos and workshops  (4 days ago)
+- [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore) - All the latest/previous Docker Bangalore Meetup presentations slides, videos and workshops  (5 days ago)
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface (1 week ago)
 - [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) - 🦍 Source code for docs.konghq.com website (3 weeks ago)
 - [devtron-labs/dashboard](https://github.com/devtron-labs/dashboard) -  (3 weeks ago)
@@ -32,28 +32,23 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.26.1](https://github.com/kubernetes/minikube/releases/tag/v1.26.1), 1 day ago) - Run Kubernetes locally
-- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.39.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.39.0), 1 day ago) - Azure Command-Line Interface
-- [getporter/porter](https://github.com/getporter/porter) ([v1.0.0-beta.2](https://github.com/getporter/porter/releases/tag/v1.0.0-beta.2), 2 days ago) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.1-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.10.1-alpha), 3 days ago) - Open source Kubernetes troubleshooting and automation platform
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.8](https://github.com/argoproj/argo-cd/releases/tag/v2.4.8), 5 days ago) - Declarative continuous deployment for Kubernetes.
+- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.26.1](https://github.com/kubernetes/minikube/releases/tag/v1.26.1), 2 days ago) - Run Kubernetes locally
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.39.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.39.0), 2 days ago) - Azure Command-Line Interface
+- [getporter/porter](https://github.com/getporter/porter) ([v1.0.0-beta.2](https://github.com/getporter/porter/releases/tag/v1.0.0-beta.2), 3 days ago) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.1-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.10.1-alpha), 4 days ago) - Open source Kubernetes troubleshooting and automation platform
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.8](https://github.com/argoproj/argo-cd/releases/tag/v2.4.8), 6 days ago) - Declarative continuous deployment for Kubernetes.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update link for playground in Readme ](https://github.com/armosec/kubescape/pull/581) on [armosec/kubescape](https://github.com/armosec/kubescape) (3 days ago)
-- [Add slides for Kubescape talk-30 July 2022](https://github.com/collabnix/dockerbangalore/pull/36) on [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore) (4 days ago)
-- [Update link for playground in Readme](https://github.com/armosec/kubescape/pull/579) on [armosec/kubescape](https://github.com/armosec/kubescape) (5 days ago)
+- [Update link for playground in Readme ](https://github.com/armosec/kubescape/pull/581) on [armosec/kubescape](https://github.com/armosec/kubescape) (4 days ago)
+- [Add slides for Kubescape talk-30 July 2022](https://github.com/collabnix/dockerbangalore/pull/36) on [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore) (5 days ago)
+- [Update link for playground in Readme](https://github.com/armosec/kubescape/pull/579) on [armosec/kubescape](https://github.com/armosec/kubescape) (6 days ago)
 - [Fix link to git access credential in GitOps config](https://github.com/devtron-labs/dashboard/pull/427) on [devtron-labs/dashboard](https://github.com/devtron-labs/dashboard) (3 weeks ago)
 - [Fix link to workflow docs in editor](https://github.com/devtron-labs/dashboard/pull/426) on [devtron-labs/dashboard](https://github.com/devtron-labs/dashboard) (3 weeks ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#581](https://github.com/armosec/kubescape/pull/581) in [armosec/kubescape](https://github.com/armosec/kubescape)
-2. ❌ Closed PR [#579](https://github.com/armosec/kubescape/pull/579) in [armosec/kubescape](https://github.com/armosec/kubescape)
-3. 🗣 Commented on [#579](https://github.com/armosec/kubescape/issues/579) in [armosec/kubescape](https://github.com/armosec/kubescape)
-4. 💪 Opened PR [#36](https://github.com/collabnix/dockerbangalore/pull/36) in [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore)
-5. 💪 Opened PR [#579](https://github.com/armosec/kubescape/pull/579) in [armosec/kubescape](https://github.com/armosec/kubescape)
 <!--END_SECTION:activity-->
 
 
