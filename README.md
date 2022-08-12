@@ -40,20 +40,15 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add spacing between previous and next article links](https://github.com/openfaas/openfaas.github.io/pull/292) on [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io) (today)
 - [Update link for playground in Readme ](https://github.com/armosec/kubescape/pull/581) on [armosec/kubescape](https://github.com/armosec/kubescape) (1 week ago)
 - [Add slides for Kubescape talk-30 July 2022](https://github.com/collabnix/dockerbangalore/pull/36) on [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore) (1 week ago)
 - [Update link for playground in Readme](https://github.com/armosec/kubescape/pull/579) on [armosec/kubescape](https://github.com/armosec/kubescape) (2 weeks ago)
 - [Fix link to git access credential in GitOps config](https://github.com/devtron-labs/dashboard/pull/427) on [devtron-labs/dashboard](https://github.com/devtron-labs/dashboard) (1 month ago)
-- [Fix link to workflow docs in editor](https://github.com/devtron-labs/dashboard/pull/426) on [devtron-labs/dashboard](https://github.com/devtron-labs/dashboard) (1 month ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#581](https://github.com/armosec/kubescape/pull/581) in [armosec/kubescape](https://github.com/armosec/kubescape)
-2. ❌ Closed PR [#579](https://github.com/armosec/kubescape/pull/579) in [armosec/kubescape](https://github.com/armosec/kubescape)
-3. 🗣 Commented on [#579](https://github.com/armosec/kubescape/issues/579) in [armosec/kubescape](https://github.com/armosec/kubescape)
-4. 💪 Opened PR [#36](https://github.com/collabnix/dockerbangalore/pull/36) in [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore)
-5. 💪 Opened PR [#579](https://github.com/armosec/kubescape/pull/579) in [armosec/kubescape](https://github.com/armosec/kubescape)
 <!--END_SECTION:activity-->
 
 
