@@ -32,28 +32,23 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.9](https://github.com/argoproj/argo-cd/releases/tag/v2.4.9), today) - Declarative continuous deployment for Kubernetes.
-- [civo/cli](https://github.com/civo/cli) ([v0.1.32](https://github.com/civo/cli/releases/tag/v0.1.32), 1 day ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
-- [armosec/kubescape](https://github.com/armosec/kubescape) ([v2.0.166](https://github.com/armosec/kubescape/releases/tag/v2.0.166), 3 days ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
-- [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) ([v0.7.5](https://github.com/mongodb/mongodb-kubernetes-operator/releases/tag/v0.7.5), 6 days ago) - MongoDB Community Kubernetes Operator
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.9](https://github.com/argoproj/argo-cd/releases/tag/v2.4.9), 1 day ago) - Declarative continuous deployment for Kubernetes.
+- [civo/cli](https://github.com/civo/cli) ([v0.1.32](https://github.com/civo/cli/releases/tag/v0.1.32), 2 days ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
+- [armosec/kubescape](https://github.com/armosec/kubescape) ([v2.0.166](https://github.com/armosec/kubescape/releases/tag/v2.0.166), 4 days ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
+- [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) ([v0.7.5](https://github.com/mongodb/mongodb-kubernetes-operator/releases/tag/v0.7.5), 1 week ago) - MongoDB Community Kubernetes Operator
 - [getporter/porter](https://github.com/getporter/porter) ([v1.0.0-beta.3](https://github.com/getporter/porter/releases/tag/v1.0.0-beta.3), 1 week ago) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
 
 #### 🔨 Latest Pull Requests I published
 
 - [Update link for playground in Readme ](https://github.com/armosec/kubescape/pull/581) on [armosec/kubescape](https://github.com/armosec/kubescape) (1 week ago)
 - [Add slides for Kubescape talk-30 July 2022](https://github.com/collabnix/dockerbangalore/pull/36) on [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore) (1 week ago)
-- [Update link for playground in Readme](https://github.com/armosec/kubescape/pull/579) on [armosec/kubescape](https://github.com/armosec/kubescape) (1 week ago)
+- [Update link for playground in Readme](https://github.com/armosec/kubescape/pull/579) on [armosec/kubescape](https://github.com/armosec/kubescape) (2 weeks ago)
 - [Fix link to git access credential in GitOps config](https://github.com/devtron-labs/dashboard/pull/427) on [devtron-labs/dashboard](https://github.com/devtron-labs/dashboard) (1 month ago)
 - [Fix link to workflow docs in editor](https://github.com/devtron-labs/dashboard/pull/426) on [devtron-labs/dashboard](https://github.com/devtron-labs/dashboard) (1 month ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#581](https://github.com/armosec/kubescape/pull/581) in [armosec/kubescape](https://github.com/armosec/kubescape)
-2. ❌ Closed PR [#579](https://github.com/armosec/kubescape/pull/579) in [armosec/kubescape](https://github.com/armosec/kubescape)
-3. 🗣 Commented on [#579](https://github.com/armosec/kubescape/issues/579) in [armosec/kubescape](https://github.com/armosec/kubescape)
-4. 💪 Opened PR [#36](https://github.com/collabnix/dockerbangalore/pull/36) in [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore)
-5. 💪 Opened PR [#579](https://github.com/armosec/kubescape/pull/579) in [armosec/kubescape](https://github.com/armosec/kubescape)
 <!--END_SECTION:activity-->
 
 
