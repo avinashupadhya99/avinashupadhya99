@@ -49,6 +49,11 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#292](https://github.com/openfaas/openfaas.github.io/pull/292) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
+2. 🗣 Commented on [#5465](https://github.com/weaveworks/eksctl/issues/5465) in [weaveworks/eksctl](https://github.com/weaveworks/eksctl)
+3. 💪 Opened PR [#581](https://github.com/armosec/kubescape/pull/581) in [armosec/kubescape](https://github.com/armosec/kubescape)
+4. ❌ Closed PR [#579](https://github.com/armosec/kubescape/pull/579) in [armosec/kubescape](https://github.com/armosec/kubescape)
+5. 🗣 Commented on [#579](https://github.com/armosec/kubescape/issues/579) in [armosec/kubescape](https://github.com/armosec/kubescape)
 <!--END_SECTION:activity-->
 
 
