@@ -24,7 +24,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
-- [dagger/dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines (6 days ago)
+- [dagger/dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines (1 week ago)
 - [armosec/kubescape](https://github.com/armosec/kubescape) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.  (3 weeks ago)
 - [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore) - All the latest/previous Docker Bangalore Meetup presentations slides, videos and workshops  (3 weeks ago)
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface (3 weeks ago)
@@ -32,15 +32,15 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.10](https://github.com/argoproj/argo-cd/releases/tag/v2.4.10), 4 days ago) - Declarative continuous deployment for Kubernetes.
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.30](https://github.com/dagger/dagger/releases/tag/v0.2.30), 5 days ago) - A portable devkit for CI/CD pipelines
-- [armosec/kubescape](https://github.com/armosec/kubescape) ([v2.0.167](https://github.com/armosec/kubescape/releases/tag/v2.0.167), 5 days ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.1](https://github.com/robusta-dev/robusta/releases/tag/0.10.1), 6 days ago) - Open source Kubernetes monitoring, troubleshooting, and automation platform
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.10](https://github.com/argoproj/argo-cd/releases/tag/v2.4.10), 5 days ago) - Declarative continuous deployment for Kubernetes.
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.30](https://github.com/dagger/dagger/releases/tag/v0.2.30), 6 days ago) - A portable devkit for CI/CD pipelines
+- [armosec/kubescape](https://github.com/armosec/kubescape) ([v2.0.167](https://github.com/armosec/kubescape/releases/tag/v2.0.167), 6 days ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.1](https://github.com/robusta-dev/robusta/releases/tag/0.10.1), 1 week ago) - Open source Kubernetes monitoring, troubleshooting, and automation platform
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([v2.6.1](https://github.com/kubernetes/dashboard/releases/tag/v2.6.1), 1 week ago) - General-purpose web UI for Kubernetes clusters
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix link to todoapp example in universe](https://github.com/dagger/dagger/pull/2940) on [dagger/dagger](https://github.com/dagger/dagger) (6 days ago)
+- [Fix link to todoapp example in universe](https://github.com/dagger/dagger/pull/2940) on [dagger/dagger](https://github.com/dagger/dagger) (1 week ago)
 - [Add spacing between previous and next article links](https://github.com/openfaas/openfaas.github.io/pull/292) on [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io) (1 week ago)
 - [Update link for playground in Readme ](https://github.com/armosec/kubescape/pull/581) on [armosec/kubescape](https://github.com/armosec/kubescape) (3 weeks ago)
 - [Add slides for Kubescape talk-30 July 2022](https://github.com/collabnix/dockerbangalore/pull/36) on [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore) (3 weeks ago)
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#292](https://github.com/openfaas/openfaas.github.io/issues/292) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
-2. 🗣 Commented on [#292](https://github.com/openfaas/openfaas.github.io/issues/292) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
-3. 💪 Opened PR [#2940](https://github.com/dagger/dagger/pull/2940) in [dagger/dagger](https://github.com/dagger/dagger)
-4. 💪 Opened PR [#292](https://github.com/openfaas/openfaas.github.io/pull/292) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
-5. 🗣 Commented on [#5465](https://github.com/weaveworks/eksctl/issues/5465) in [weaveworks/eksctl](https://github.com/weaveworks/eksctl)
 <!--END_SECTION:activity-->
 
 
