@@ -32,8 +32,8 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.31](https://github.com/dagger/dagger/releases/tag/v0.2.31), today) - A portable devkit for CI/CD pipelines
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.11](https://github.com/argoproj/argo-cd/releases/tag/v2.4.11), 1 day ago) - Declarative continuous deployment for Kubernetes.
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.30](https://github.com/dagger/dagger/releases/tag/v0.2.30), 1 week ago) - A portable devkit for CI/CD pipelines
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.0.167](https://github.com/kubescape/kubescape/releases/tag/v2.0.167), 1 week ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.1](https://github.com/robusta-dev/robusta/releases/tag/0.10.1), 1 week ago) - Open source Kubernetes monitoring, troubleshooting, and automation platform
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([v2.6.1](https://github.com/kubernetes/dashboard/releases/tag/v2.6.1), 1 week ago) - General-purpose web UI for Kubernetes clusters
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#292](https://github.com/openfaas/openfaas.github.io/issues/292) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
-2. 🗣 Commented on [#292](https://github.com/openfaas/openfaas.github.io/issues/292) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
-3. 💪 Opened PR [#2940](https://github.com/dagger/dagger/pull/2940) in [dagger/dagger](https://github.com/dagger/dagger)
-4. 💪 Opened PR [#292](https://github.com/openfaas/openfaas.github.io/pull/292) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
-5. 🗣 Commented on [#5465](https://github.com/weaveworks/eksctl/issues/5465) in [weaveworks/eksctl](https://github.com/weaveworks/eksctl)
 <!--END_SECTION:activity-->
 
 
