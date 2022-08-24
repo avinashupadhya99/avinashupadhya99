@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/kubescape/github-action/issues/1) in [kubescape/github-action](https://github.com/kubescape/github-action)
-2. 🗣 Commented on [#292](https://github.com/openfaas/openfaas.github.io/issues/292) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
-3. 🗣 Commented on [#292](https://github.com/openfaas/openfaas.github.io/issues/292) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
-4. 💪 Opened PR [#2940](https://github.com/dagger/dagger/pull/2940) in [dagger/dagger](https://github.com/dagger/dagger)
-5. 💪 Opened PR [#292](https://github.com/openfaas/openfaas.github.io/pull/292) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
 <!--END_SECTION:activity-->
 
 
