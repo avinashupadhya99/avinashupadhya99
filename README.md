@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
-2. ❗️ Closed issue [#1](https://github.com/kubescape/github-action/issues/1) in [kubescape/github-action](https://github.com/kubescape/github-action)
-3. 🗣 Commented on [#1](https://github.com/kubescape/github-action/issues/1) in [kubescape/github-action](https://github.com/kubescape/github-action)
-4. 🎉 Merged PR [#3](https://github.com/kubescape/github-action/pull/3) in [kubescape/github-action](https://github.com/kubescape/github-action)
-5. ❗️ Opened issue [#2](https://github.com/kubescape/github-action/issues/2) in [kubescape/github-action](https://github.com/kubescape/github-action)
 <!--END_SECTION:activity-->
 
 
