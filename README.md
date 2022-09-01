@@ -24,18 +24,18 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
-- [avinashupadhya99/action-playground](https://github.com/avinashupadhya99/action-playground) - Playground for testing GitHub actions (today)
-- [kubescape/github-action](https://github.com/kubescape/github-action) - GitHub action to run Kubescape scans (today)
+- [avinashupadhya99/action-playground](https://github.com/avinashupadhya99/action-playground) - Playground for testing GitHub actions (1 day ago)
+- [kubescape/github-action](https://github.com/kubescape/github-action) - GitHub action to run Kubescape scans (1 day ago)
 - [avinashupadhya99/kubescape-action](https://github.com/avinashupadhya99/kubescape-action) - GitHub action to run Kubescape scans (1 week ago)
 - [dagger/dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines (2 weeks ago)
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [getporter/porter](https://github.com/getporter/porter) ([v1.0.0-beta.4](https://github.com/getporter/porter/releases/tag/v1.0.0-beta.4), today) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.2-alpha.3](https://github.com/robusta-dev/robusta/releases/tag/0.10.2-alpha.3), today) - Open source Kubernetes monitoring, troubleshooting, and automation platform
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.32](https://github.com/dagger/dagger/releases/tag/v0.2.32), 1 day ago) - A portable devkit for CI/CD pipelines
-- [elastic/kibana](https://github.com/elastic/kibana) ([v8.4.1](https://github.com/elastic/kibana/releases/tag/v8.4.1), 1 day ago) - Your window into the Elastic Stack
+- [getporter/porter](https://github.com/getporter/porter) ([v1.0.0-beta.4](https://github.com/getporter/porter/releases/tag/v1.0.0-beta.4), 1 day ago) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.2-alpha.3](https://github.com/robusta-dev/robusta/releases/tag/0.10.2-alpha.3), 1 day ago) - Open source Kubernetes monitoring, troubleshooting, and automation platform
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.32](https://github.com/dagger/dagger/releases/tag/v0.2.32), 2 days ago) - A portable devkit for CI/CD pipelines
+- [elastic/kibana](https://github.com/elastic/kibana) ([v8.4.1](https://github.com/elastic/kibana/releases/tag/v8.4.1), 2 days ago) - Your window into the Elastic Stack
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.25](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.25), 1 week ago) - Kubernetes website and documentation repo: 
 
 #### 🔨 Latest Pull Requests I published
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
-2. ❗️ Closed issue [#1](https://github.com/kubescape/github-action/issues/1) in [kubescape/github-action](https://github.com/kubescape/github-action)
-3. 🗣 Commented on [#1](https://github.com/kubescape/github-action/issues/1) in [kubescape/github-action](https://github.com/kubescape/github-action)
-4. 🎉 Merged PR [#3](https://github.com/kubescape/github-action/pull/3) in [kubescape/github-action](https://github.com/kubescape/github-action)
-5. ❗️ Opened issue [#2](https://github.com/kubescape/github-action/issues/2) in [kubescape/github-action](https://github.com/kubescape/github-action)
 <!--END_SECTION:activity-->
 
 
