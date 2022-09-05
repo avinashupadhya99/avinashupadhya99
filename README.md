@@ -24,23 +24,23 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
-- [avinashupadhya99/action-playground](https://github.com/avinashupadhya99/action-playground) - Playground for testing GitHub actions (4 days ago)
-- [kubescape/github-action](https://github.com/kubescape/github-action) - GitHub action to run Kubescape scans (4 days ago)
+- [avinashupadhya99/action-playground](https://github.com/avinashupadhya99/action-playground) - Playground for testing GitHub actions (5 days ago)
+- [kubescape/github-action](https://github.com/kubescape/github-action) - GitHub action to run Kubescape scans (5 days ago)
 - [avinashupadhya99/kubescape-action](https://github.com/avinashupadhya99/kubescape-action) - GitHub action to run Kubescape scans (1 week ago)
-- [dagger/dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines (2 weeks ago)
+- [dagger/dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines (3 weeks ago)
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) ([v0.7.6](https://github.com/mongodb/mongodb-kubernetes-operator/releases/tag/v0.7.6), 2 days ago) - MongoDB Community Kubernetes Operator
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.3](https://github.com/robusta-dev/robusta/releases/tag/0.10.3), 2 days ago) - Open source Kubernetes monitoring, troubleshooting, and automation platform
-- [getporter/porter](https://github.com/getporter/porter) ([v1.0.0-beta.4](https://github.com/getporter/porter/releases/tag/v1.0.0-beta.4), 4 days ago) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.32](https://github.com/dagger/dagger/releases/tag/v0.2.32), 5 days ago) - A portable devkit for CI/CD pipelines
-- [elastic/kibana](https://github.com/elastic/kibana) ([v8.4.1](https://github.com/elastic/kibana/releases/tag/v8.4.1), 5 days ago) - Your window into the Elastic Stack
+- [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) ([v0.7.6](https://github.com/mongodb/mongodb-kubernetes-operator/releases/tag/v0.7.6), 3 days ago) - MongoDB Community Kubernetes Operator
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.3](https://github.com/robusta-dev/robusta/releases/tag/0.10.3), 3 days ago) - Open source Kubernetes monitoring, troubleshooting, and automation platform
+- [getporter/porter](https://github.com/getporter/porter) ([v1.0.0-beta.4](https://github.com/getporter/porter/releases/tag/v1.0.0-beta.4), 5 days ago) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.32](https://github.com/dagger/dagger/releases/tag/v0.2.32), 6 days ago) - A portable devkit for CI/CD pipelines
+- [elastic/kibana](https://github.com/elastic/kibana) ([v8.4.1](https://github.com/elastic/kibana/releases/tag/v8.4.1), 6 days ago) - Your window into the Elastic Stack
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix link to todoapp example in universe](https://github.com/dagger/dagger/pull/2940) on [dagger/dagger](https://github.com/dagger/dagger) (2 weeks ago)
+- [Fix link to todoapp example in universe](https://github.com/dagger/dagger/pull/2940) on [dagger/dagger](https://github.com/dagger/dagger) (3 weeks ago)
 - [Add spacing between previous and next article links](https://github.com/openfaas/openfaas.github.io/pull/292) on [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io) (3 weeks ago)
 - [Update link for playground in Readme ](https://github.com/kubescape/kubescape/pull/581) on [kubescape/kubescape](https://github.com/kubescape/kubescape) (1 month ago)
 - [Add slides for Kubescape talk-30 July 2022](https://github.com/collabnix/dockerbangalore/pull/36) on [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore) (1 month ago)
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/kubescape/github-action/issues/2) in [kubescape/github-action](https://github.com/kubescape/github-action)
-2. 🗣 Commented on [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
-3. ❗️ Opened issue [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
-4. ❗️ Closed issue [#1](https://github.com/kubescape/github-action/issues/1) in [kubescape/github-action](https://github.com/kubescape/github-action)
-5. 🗣 Commented on [#1](https://github.com/kubescape/github-action/issues/1) in [kubescape/github-action](https://github.com/kubescape/github-action)
 <!--END_SECTION:activity-->
 
 
