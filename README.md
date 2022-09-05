@@ -32,11 +32,11 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.0.169](https://github.com/kubescape/kubescape/releases/tag/v2.0.169), today) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
 - [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) ([v0.7.6](https://github.com/mongodb/mongodb-kubernetes-operator/releases/tag/v0.7.6), 3 days ago) - MongoDB Community Kubernetes Operator
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.3](https://github.com/robusta-dev/robusta/releases/tag/0.10.3), 3 days ago) - Open source Kubernetes monitoring, troubleshooting, and automation platform
 - [getporter/porter](https://github.com/getporter/porter) ([v1.0.0-beta.4](https://github.com/getporter/porter/releases/tag/v1.0.0-beta.4), 5 days ago) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.32](https://github.com/dagger/dagger/releases/tag/v0.2.32), 6 days ago) - A portable devkit for CI/CD pipelines
-- [elastic/kibana](https://github.com/elastic/kibana) ([v8.4.1](https://github.com/elastic/kibana/releases/tag/v8.4.1), 6 days ago) - Your window into the Elastic Stack
 
 #### 🔨 Latest Pull Requests I published
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/kubescape/github-action/issues/6) in [kubescape/github-action](https://github.com/kubescape/github-action)
-2. 🗣 Commented on [#2](https://github.com/kubescape/github-action/issues/2) in [kubescape/github-action](https://github.com/kubescape/github-action)
-3. 🗣 Commented on [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
-4. ❗️ Opened issue [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
-5. ❗️ Closed issue [#1](https://github.com/kubescape/github-action/issues/1) in [kubescape/github-action](https://github.com/kubescape/github-action)
 <!--END_SECTION:activity-->
 
 
