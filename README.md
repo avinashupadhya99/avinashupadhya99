@@ -32,11 +32,11 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.33](https://github.com/dagger/dagger/releases/tag/v0.2.33), today) - A portable devkit for CI/CD pipelines
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.4-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.10.4-alpha), today) - Open source Kubernetes monitoring, troubleshooting, and automation platform
 - [civo/cli](https://github.com/civo/cli) ([v1.0.33](https://github.com/civo/cli/releases/tag/v1.0.33), today) - Our Command Line Interface (CLI) for interacting with your Civo resources
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.40.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.40.0), today) - Azure Command-Line Interface
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.0.170](https://github.com/kubescape/kubescape/releases/tag/v2.0.170), 1 day ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
-- [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) ([v0.7.6](https://github.com/mongodb/mongodb-kubernetes-operator/releases/tag/v0.7.6), 4 days ago) - MongoDB Community Kubernetes Operator
 
 #### 🔨 Latest Pull Requests I published
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/kubescape/github-action/issues/6) in [kubescape/github-action](https://github.com/kubescape/github-action)
-2. 🗣 Commented on [#6](https://github.com/kubescape/github-action/issues/6) in [kubescape/github-action](https://github.com/kubescape/github-action)
-3. ❗️ Closed issue [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
-4. 🗣 Commented on [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
-5. 🎉 Merged PR [#5](https://github.com/kubescape/github-action/pull/5) in [kubescape/github-action](https://github.com/kubescape/github-action)
 <!--END_SECTION:activity-->
 
 
