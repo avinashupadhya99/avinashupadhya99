@@ -24,7 +24,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
-- [avinashupadhya99/pulumi-challenge](https://github.com/avinashupadhya99/pulumi-challenge) - Source code for Pulumi Challenge - Startup in a Box (1 day ago)
+- [avinashupadhya99/pulumi-challenge](https://github.com/avinashupadhya99/pulumi-challenge) - Source code for Pulumi Challenge - Startup in a Box (2 days ago)
 - [avinashupadhya99/action-playground](https://github.com/avinashupadhya99/action-playground) - Playground for testing GitHub actions (1 week ago)
 - [kubescape/github-action](https://github.com/kubescape/github-action) - GitHub action to run Kubescape scans (1 week ago)
 - [avinashupadhya99/kubescape-action](https://github.com/avinashupadhya99/kubescape-action) - GitHub action to run Kubescape scans (2 weeks ago)
@@ -32,11 +32,11 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [getporter/porter](https://github.com/getporter/porter) ([v1.0.0-rc.1](https://github.com/getporter/porter/releases/tag/v1.0.0-rc.1), today) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.33](https://github.com/dagger/dagger/releases/tag/v0.2.33), 1 day ago) - A portable devkit for CI/CD pipelines
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.4-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.10.4-alpha), 1 day ago) - Open source Kubernetes monitoring, troubleshooting, and automation platform
-- [civo/cli](https://github.com/civo/cli) ([v1.0.33](https://github.com/civo/cli/releases/tag/v1.0.33), 1 day ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
-- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.40.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.40.0), 1 day ago) - Azure Command-Line Interface
+- [getporter/porter](https://github.com/getporter/porter) ([v1.0.0-rc.1](https://github.com/getporter/porter/releases/tag/v1.0.0-rc.1), 1 day ago) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.33](https://github.com/dagger/dagger/releases/tag/v0.2.33), 2 days ago) - A portable devkit for CI/CD pipelines
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.4-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.10.4-alpha), 2 days ago) - Open source Kubernetes monitoring, troubleshooting, and automation platform
+- [civo/cli](https://github.com/civo/cli) ([v1.0.33](https://github.com/civo/cli/releases/tag/v1.0.33), 2 days ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.40.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.40.0), 2 days ago) - Azure Command-Line Interface
 
 #### 🔨 Latest Pull Requests I published
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/kubescape/github-action/issues/6) in [kubescape/github-action](https://github.com/kubescape/github-action)
-2. 🗣 Commented on [#6](https://github.com/kubescape/github-action/issues/6) in [kubescape/github-action](https://github.com/kubescape/github-action)
-3. ❗️ Closed issue [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
-4. 🗣 Commented on [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
-5. 🎉 Merged PR [#5](https://github.com/kubescape/github-action/pull/5) in [kubescape/github-action](https://github.com/kubescape/github-action)
 <!--END_SECTION:activity-->
 
 
