@@ -32,7 +32,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [civo/cli](https://github.com/civo/cli) ([v1.0.34](https://github.com/civo/cli/releases/tag/v1.0.34), today) - Our Command Line Interface (CLI) for interacting with your Civo resources
+- [civo/cli](https://github.com/civo/cli) ([v1.0.35](https://github.com/civo/cli/releases/tag/v1.0.35), today) - Our Command Line Interface (CLI) for interacting with your Civo resources
 - [getporter/porter](https://github.com/getporter/porter) ([v1.0.0-rc.1](https://github.com/getporter/porter/releases/tag/v1.0.0-rc.1), 1 day ago) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.33](https://github.com/dagger/dagger/releases/tag/v0.2.33), 2 days ago) - A portable devkit for CI/CD pipelines
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.4-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.10.4-alpha), 2 days ago) - Open source Kubernetes monitoring, troubleshooting, and automation platform
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/kubescape/github-action/issues/6) in [kubescape/github-action](https://github.com/kubescape/github-action)
-2. 🗣 Commented on [#6](https://github.com/kubescape/github-action/issues/6) in [kubescape/github-action](https://github.com/kubescape/github-action)
-3. ❗️ Closed issue [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
-4. 🗣 Commented on [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
-5. 🎉 Merged PR [#5](https://github.com/kubescape/github-action/pull/5) in [kubescape/github-action](https://github.com/kubescape/github-action)
 <!--END_SECTION:activity-->
 
 
