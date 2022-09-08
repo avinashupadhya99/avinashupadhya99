@@ -32,11 +32,11 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
+- [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) ([1.6.0-rc1](https://github.com/Azure/application-gateway-kubernetes-ingress/releases/tag/1.6.0-rc1), today) - This is an ingress controller that can be run on Azure Kubernetes Service (AKS) to allow an Azure Application Gateway to act as the ingress for an AKS cluster.
 - [civo/cli](https://github.com/civo/cli) ([v1.0.35](https://github.com/civo/cli/releases/tag/v1.0.35), today) - Our Command Line Interface (CLI) for interacting with your Civo resources
 - [getporter/porter](https://github.com/getporter/porter) ([v1.0.0-rc.1](https://github.com/getporter/porter/releases/tag/v1.0.0-rc.1), 1 day ago) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.33](https://github.com/dagger/dagger/releases/tag/v0.2.33), 2 days ago) - A portable devkit for CI/CD pipelines
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.4-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.10.4-alpha), 2 days ago) - Open source Kubernetes monitoring, troubleshooting, and automation platform
-- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.40.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.40.0), 2 days ago) - Azure Command-Line Interface
 
 #### 🔨 Latest Pull Requests I published
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/kubescape/github-action/issues/6) in [kubescape/github-action](https://github.com/kubescape/github-action)
-2. 🗣 Commented on [#6](https://github.com/kubescape/github-action/issues/6) in [kubescape/github-action](https://github.com/kubescape/github-action)
-3. ❗️ Closed issue [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
-4. 🗣 Commented on [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
-5. 🎉 Merged PR [#5](https://github.com/kubescape/github-action/pull/5) in [kubescape/github-action](https://github.com/kubescape/github-action)
 <!--END_SECTION:activity-->
 
 
