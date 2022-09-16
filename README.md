@@ -32,11 +32,11 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.12](https://github.com/argoproj/argo-cd/releases/tag/v2.4.12), today) - Declarative continuous deployment for Kubernetes.
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.27.0](https://github.com/kubernetes/minikube/releases/tag/v1.27.0), 1 day ago) - Run Kubernetes locally
 - [civo/cli](https://github.com/civo/cli) ([v1.0.40](https://github.com/civo/cli/releases/tag/v1.0.40), 1 day ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.34](https://github.com/dagger/dagger/releases/tag/v0.2.34), 3 days ago) - A portable devkit for CI/CD pipelines
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.5](https://github.com/robusta-dev/robusta/releases/tag/0.10.5), 4 days ago) - Open source Kubernetes monitoring, troubleshooting, and automation platform
-- [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) ([1.6.0-rc1](https://github.com/Azure/application-gateway-kubernetes-ingress/releases/tag/1.6.0-rc1), 1 week ago) - This is an ingress controller that can be run on Azure Kubernetes Service (AKS) to allow an Azure Application Gateway to act as the ingress for an AKS cluster.
 
 #### 🔨 Latest Pull Requests I published
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/kubescape/github-action/issues/6) in [kubescape/github-action](https://github.com/kubescape/github-action)
-2. 🗣 Commented on [#6](https://github.com/kubescape/github-action/issues/6) in [kubescape/github-action](https://github.com/kubescape/github-action)
-3. ❗️ Closed issue [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
-4. 🗣 Commented on [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
-5. 🎉 Merged PR [#5](https://github.com/kubescape/github-action/pull/5) in [kubescape/github-action](https://github.com/kubescape/github-action)
 <!--END_SECTION:activity-->
 
 
