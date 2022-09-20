@@ -24,7 +24,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
-- [avinashupadhya99/pulumi-challenge](https://github.com/avinashupadhya99/pulumi-challenge) - Source code for Pulumi Challenge - Startup in a Box (1 week ago)
+- [avinashupadhya99/pulumi-challenge](https://github.com/avinashupadhya99/pulumi-challenge) - Source code for Pulumi Challenge - Startup in a Box (2 weeks ago)
 - [avinashupadhya99/action-playground](https://github.com/avinashupadhya99/action-playground) - Playground for testing GitHub actions (2 weeks ago)
 - [kubescape/github-action](https://github.com/kubescape/github-action) - GitHub action to run Kubescape scans (2 weeks ago)
 - [avinashupadhya99/kubescape-action](https://github.com/avinashupadhya99/kubescape-action) - GitHub action to run Kubescape scans (3 weeks ago)
@@ -32,11 +32,11 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.0.171](https://github.com/kubescape/kubescape/releases/tag/v2.0.171), today) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([v2.7.0](https://github.com/kubernetes/dashboard/releases/tag/v2.7.0), 3 days ago) - General-purpose web UI for Kubernetes clusters
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.12](https://github.com/argoproj/argo-cd/releases/tag/v2.4.12), 3 days ago) - Declarative continuous deployment for Kubernetes.
-- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.27.0](https://github.com/kubernetes/minikube/releases/tag/v1.27.0), 4 days ago) - Run Kubernetes locally
-- [civo/cli](https://github.com/civo/cli) ([v1.0.40](https://github.com/civo/cli/releases/tag/v1.0.40), 4 days ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
+- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.0.171](https://github.com/kubescape/kubescape/releases/tag/v2.0.171), 1 day ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
+- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([v2.7.0](https://github.com/kubernetes/dashboard/releases/tag/v2.7.0), 4 days ago) - General-purpose web UI for Kubernetes clusters
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.12](https://github.com/argoproj/argo-cd/releases/tag/v2.4.12), 4 days ago) - Declarative continuous deployment for Kubernetes.
+- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.27.0](https://github.com/kubernetes/minikube/releases/tag/v1.27.0), 5 days ago) - Run Kubernetes locally
+- [civo/cli](https://github.com/civo/cli) ([v1.0.40](https://github.com/civo/cli/releases/tag/v1.0.40), 5 days ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
 
 #### 🔨 Latest Pull Requests I published
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/kubescape/github-action/issues/6) in [kubescape/github-action](https://github.com/kubescape/github-action)
-2. 🗣 Commented on [#6](https://github.com/kubescape/github-action/issues/6) in [kubescape/github-action](https://github.com/kubescape/github-action)
-3. ❗️ Closed issue [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
-4. 🗣 Commented on [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
-5. 🎉 Merged PR [#5](https://github.com/kubescape/github-action/pull/5) in [kubescape/github-action](https://github.com/kubescape/github-action)
 <!--END_SECTION:activity-->
 
 
