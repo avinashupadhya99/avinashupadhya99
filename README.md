@@ -26,8 +26,8 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 - [avinashupadhya99/productcatalogservice](https://github.com/avinashupadhya99/productcatalogservice) -  (today)
 - [avinashupadhya99/pulumi-challenge](https://github.com/avinashupadhya99/pulumi-challenge) - Source code for Pulumi Challenge - Startup in a Box (1 month ago)
-- [kubescape/github-action](https://github.com/kubescape/github-action) - GitHub action to run Kubescape scans (1 month ago)
 - [avinashupadhya99/action-playground](https://github.com/avinashupadhya99/action-playground) - Playground for testing GitHub actions (1 month ago)
+- [kubescape/github-action](https://github.com/kubescape/github-action) - GitHub action to run Kubescape scans (1 month ago)
 - [avinashupadhya99/kubescape-action](https://github.com/avinashupadhya99/kubescape-action) - GitHub action to run Kubescape scans (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/kubescape/github-action/issues/6) in [kubescape/github-action](https://github.com/kubescape/github-action)
-2. 🗣 Commented on [#6](https://github.com/kubescape/github-action/issues/6) in [kubescape/github-action](https://github.com/kubescape/github-action)
-3. ❗️ Closed issue [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
-4. 🗣 Commented on [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
-5. 🎉 Merged PR [#5](https://github.com/kubescape/github-action/pull/5) in [kubescape/github-action](https://github.com/kubescape/github-action)
 <!--END_SECTION:activity-->
 
 
