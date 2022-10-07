@@ -24,7 +24,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
-- [avinashupadhya99/productcatalogservice](https://github.com/avinashupadhya99/productcatalogservice) -  (today)
+- [avinashupadhya99/productcatalogservice](https://github.com/avinashupadhya99/productcatalogservice) -  (1 day ago)
 - [avinashupadhya99/pulumi-challenge](https://github.com/avinashupadhya99/pulumi-challenge) - Source code for Pulumi Challenge - Startup in a Box (1 month ago)
 - [avinashupadhya99/action-playground](https://github.com/avinashupadhya99/action-playground) - Playground for testing GitHub actions (1 month ago)
 - [kubescape/github-action](https://github.com/kubescape/github-action) - GitHub action to run Kubescape scans (1 month ago)
@@ -32,10 +32,10 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.14](https://github.com/argoproj/argo-cd/releases/tag/v2.2.14), 1 day ago) - Declarative continuous deployment for Kubernetes.
-- [elastic/kibana](https://github.com/elastic/kibana) ([v8.4.3](https://github.com/elastic/kibana/releases/tag/v8.4.3), 1 day ago) - Your window into the Elastic Stack
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.7-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.10.7-alpha), 2 days ago) - Open source Kubernetes monitoring, troubleshooting, and automation platform
-- [kubescape/github-action](https://github.com/kubescape/github-action) ([v0.0.0-beta](https://github.com/kubescape/github-action/releases/tag/v0.0.0-beta), 3 days ago) - GitHub action to run Kubescape scans
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.14](https://github.com/argoproj/argo-cd/releases/tag/v2.2.14), 2 days ago) - Declarative continuous deployment for Kubernetes.
+- [elastic/kibana](https://github.com/elastic/kibana) ([v8.4.3](https://github.com/elastic/kibana/releases/tag/v8.4.3), 2 days ago) - Your window into the Elastic Stack
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.7-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.10.7-alpha), 3 days ago) - Open source Kubernetes monitoring, troubleshooting, and automation platform
+- [kubescape/github-action](https://github.com/kubescape/github-action) ([v0.0.0-beta](https://github.com/kubescape/github-action/releases/tag/v0.0.0-beta), 4 days ago) - GitHub action to run Kubescape scans
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.0.172](https://github.com/kubescape/kubescape/releases/tag/v2.0.172), 1 week ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
 
 #### 🔨 Latest Pull Requests I published
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/kubescape/github-action/issues/6) in [kubescape/github-action](https://github.com/kubescape/github-action)
-2. 🗣 Commented on [#6](https://github.com/kubescape/github-action/issues/6) in [kubescape/github-action](https://github.com/kubescape/github-action)
-3. ❗️ Closed issue [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
-4. 🗣 Commented on [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
-5. 🎉 Merged PR [#5](https://github.com/kubescape/github-action/pull/5) in [kubescape/github-action](https://github.com/kubescape/github-action)
 <!--END_SECTION:activity-->
 
 
