@@ -32,11 +32,11 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
+- [spf13/cobra](https://github.com/spf13/cobra) ([v1.6.0](https://github.com/spf13/cobra/releases/tag/v1.6.0), today) - A Commander for modern Go CLI interactions
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.27.1](https://github.com/kubernetes/minikube/releases/tag/v1.27.1), 3 days ago) - Run Kubernetes locally
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.14](https://github.com/argoproj/argo-cd/releases/tag/v2.2.14), 6 days ago) - Declarative continuous deployment for Kubernetes.
 - [elastic/kibana](https://github.com/elastic/kibana) ([v8.4.3](https://github.com/elastic/kibana/releases/tag/v8.4.3), 6 days ago) - Your window into the Elastic Stack
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.7-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.10.7-alpha), 1 week ago) - Open source Kubernetes monitoring, troubleshooting, and automation platform
-- [kubescape/github-action](https://github.com/kubescape/github-action) ([v0.0.0-beta](https://github.com/kubescape/github-action/releases/tag/v0.0.0-beta), 1 week ago) - GitHub action to run Kubescape scans
 
 #### 🔨 Latest Pull Requests I published
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/kubescape/github-action/issues/6) in [kubescape/github-action](https://github.com/kubescape/github-action)
-2. 🗣 Commented on [#6](https://github.com/kubescape/github-action/issues/6) in [kubescape/github-action](https://github.com/kubescape/github-action)
-3. ❗️ Closed issue [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
-4. 🗣 Commented on [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
-5. 🎉 Merged PR [#5](https://github.com/kubescape/github-action/pull/5) in [kubescape/github-action](https://github.com/kubescape/github-action)
 <!--END_SECTION:activity-->
 
 
