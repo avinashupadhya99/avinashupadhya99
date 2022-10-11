@@ -32,10 +32,10 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.5.0-rc2](https://github.com/argoproj/argo-cd/releases/tag/v2.5.0-rc2), today) - Declarative continuous deployment for Kubernetes.
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.36](https://github.com/dagger/dagger/releases/tag/v0.2.36), today) - A portable devkit for CI/CD pipelines
 - [spf13/cobra](https://github.com/spf13/cobra) ([v1.6.0](https://github.com/spf13/cobra/releases/tag/v1.6.0), today) - A Commander for modern Go CLI interactions
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.27.1](https://github.com/kubernetes/minikube/releases/tag/v1.27.1), 3 days ago) - Run Kubernetes locally
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.14](https://github.com/argoproj/argo-cd/releases/tag/v2.2.14), 6 days ago) - Declarative continuous deployment for Kubernetes.
 - [elastic/kibana](https://github.com/elastic/kibana) ([v8.4.3](https://github.com/elastic/kibana/releases/tag/v8.4.3), 6 days ago) - Your window into the Elastic Stack
 
 #### 🔨 Latest Pull Requests I published
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/kubescape/github-action/issues/6) in [kubescape/github-action](https://github.com/kubescape/github-action)
-2. 🗣 Commented on [#6](https://github.com/kubescape/github-action/issues/6) in [kubescape/github-action](https://github.com/kubescape/github-action)
-3. ❗️ Closed issue [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
-4. 🗣 Commented on [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
-5. 🎉 Merged PR [#5](https://github.com/kubescape/github-action/pull/5) in [kubescape/github-action](https://github.com/kubescape/github-action)
 <!--END_SECTION:activity-->
 
 
