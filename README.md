@@ -24,7 +24,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
-- [avinashupadhya99/productcatalogservice](https://github.com/avinashupadhya99/productcatalogservice) -  (6 days ago)
+- [avinashupadhya99/productcatalogservice](https://github.com/avinashupadhya99/productcatalogservice) -  (1 week ago)
 - [avinashupadhya99/pulumi-challenge](https://github.com/avinashupadhya99/pulumi-challenge) - Source code for Pulumi Challenge - Startup in a Box (1 month ago)
 - [avinashupadhya99/action-playground](https://github.com/avinashupadhya99/action-playground) - Playground for testing GitHub actions (1 month ago)
 - [kubescape/github-action](https://github.com/kubescape/github-action) - GitHub action to run Kubescape scans (1 month ago)
@@ -32,15 +32,15 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.41.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.41.0), 1 day ago) - Azure Command-Line Interface
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.5.0-rc2](https://github.com/argoproj/argo-cd/releases/tag/v2.5.0-rc2), 2 days ago) - Declarative continuous deployment for Kubernetes.
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.36](https://github.com/dagger/dagger/releases/tag/v0.2.36), 2 days ago) - A portable devkit for CI/CD pipelines
-- [spf13/cobra](https://github.com/spf13/cobra) ([v1.6.0](https://github.com/spf13/cobra/releases/tag/v1.6.0), 2 days ago) - A Commander for modern Go CLI interactions
-- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.27.1](https://github.com/kubernetes/minikube/releases/tag/v1.27.1), 5 days ago) - Run Kubernetes locally
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.41.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.41.0), 2 days ago) - Azure Command-Line Interface
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.5.0-rc2](https://github.com/argoproj/argo-cd/releases/tag/v2.5.0-rc2), 3 days ago) - Declarative continuous deployment for Kubernetes.
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.36](https://github.com/dagger/dagger/releases/tag/v0.2.36), 3 days ago) - A portable devkit for CI/CD pipelines
+- [spf13/cobra](https://github.com/spf13/cobra) ([v1.6.0](https://github.com/spf13/cobra/releases/tag/v1.6.0), 3 days ago) - A Commander for modern Go CLI interactions
+- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.27.1](https://github.com/kubernetes/minikube/releases/tag/v1.27.1), 6 days ago) - Run Kubernetes locally
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix link to todoapp example in universe](https://github.com/dagger/dagger/pull/2940) on [dagger/dagger](https://github.com/dagger/dagger) (1 month ago)
+- [Fix link to todoapp example in universe](https://github.com/dagger/dagger/pull/2940) on [dagger/dagger](https://github.com/dagger/dagger) (2 months ago)
 - [Add spacing between previous and next article links](https://github.com/openfaas/openfaas.github.io/pull/292) on [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io) (2 months ago)
 - [Update link for playground in Readme ](https://github.com/kubescape/kubescape/pull/581) on [kubescape/kubescape](https://github.com/kubescape/kubescape) (2 months ago)
 - [Add slides for Kubescape talk-30 July 2022](https://github.com/collabnix/dockerbangalore/pull/36) on [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore) (2 months ago)
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/kubescape/github-action/issues/6) in [kubescape/github-action](https://github.com/kubescape/github-action)
-2. 🗣 Commented on [#6](https://github.com/kubescape/github-action/issues/6) in [kubescape/github-action](https://github.com/kubescape/github-action)
-3. ❗️ Closed issue [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
-4. 🗣 Commented on [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
-5. 🎉 Merged PR [#5](https://github.com/kubescape/github-action/pull/5) in [kubescape/github-action](https://github.com/kubescape/github-action)
 <!--END_SECTION:activity-->
 
 
