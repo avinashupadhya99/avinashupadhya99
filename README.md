@@ -32,10 +32,10 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.3.0-alpha.1](https://github.com/dagger/dagger/releases/tag/v0.3.0-alpha.1), 2 days ago) - A portable devkit for CI/CD pipelines
-- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.41.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.41.0), 4 days ago) - Azure Command-Line Interface
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.5.0-rc2](https://github.com/argoproj/argo-cd/releases/tag/v2.5.0-rc2), 5 days ago) - Declarative continuous deployment for Kubernetes.
-- [spf13/cobra](https://github.com/spf13/cobra) ([v1.6.0](https://github.com/spf13/cobra/releases/tag/v1.6.0), 5 days ago) - A Commander for modern Go CLI interactions
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.3.0-alpha.1](https://github.com/dagger/dagger/releases/tag/v0.3.0-alpha.1), 3 days ago) - A portable devkit for CI/CD pipelines
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.41.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.41.0), 5 days ago) - Azure Command-Line Interface
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.5.0-rc2](https://github.com/argoproj/argo-cd/releases/tag/v2.5.0-rc2), 6 days ago) - Declarative continuous deployment for Kubernetes.
+- [spf13/cobra](https://github.com/spf13/cobra) ([v1.6.0](https://github.com/spf13/cobra/releases/tag/v1.6.0), 6 days ago) - A Commander for modern Go CLI interactions
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.27.1](https://github.com/kubernetes/minikube/releases/tag/v1.27.1), 1 week ago) - Run Kubernetes locally
 
 #### 🔨 Latest Pull Requests I published
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/kubescape/github-action/issues/6) in [kubescape/github-action](https://github.com/kubescape/github-action)
-2. 🗣 Commented on [#6](https://github.com/kubescape/github-action/issues/6) in [kubescape/github-action](https://github.com/kubescape/github-action)
-3. ❗️ Closed issue [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
-4. 🗣 Commented on [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
-5. 🎉 Merged PR [#5](https://github.com/kubescape/github-action/pull/5) in [kubescape/github-action](https://github.com/kubescape/github-action)
 <!--END_SECTION:activity-->
 
 
