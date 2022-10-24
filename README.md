@@ -32,8 +32,8 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [parca-dev/parca](https://github.com/parca-dev/parca) ([v0.13.0](https://github.com/parca-dev/parca/releases/tag/v0.13.0), 3 days ago) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.15](https://github.com/argoproj/argo-cd/releases/tag/v2.2.15), 5 days ago) - Declarative continuous deployment for Kubernetes.
+- [parca-dev/parca](https://github.com/parca-dev/parca) ([v0.13.0](https://github.com/parca-dev/parca/releases/tag/v0.13.0), 4 days ago) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.15](https://github.com/argoproj/argo-cd/releases/tag/v2.2.15), 6 days ago) - Declarative continuous deployment for Kubernetes.
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.41.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.41.0), 1 week ago) - Azure Command-Line Interface
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.36](https://github.com/dagger/dagger/releases/tag/v0.2.36), 1 week ago) - A cross-platform CI/CD engine that is programmable and container-native
 - [spf13/cobra](https://github.com/spf13/cobra) ([v1.6.0](https://github.com/spf13/cobra/releases/tag/v1.6.0), 1 week ago) - A Commander for modern Go CLI interactions
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/kubescape/github-action/issues/6) in [kubescape/github-action](https://github.com/kubescape/github-action)
-2. 🗣 Commented on [#6](https://github.com/kubescape/github-action/issues/6) in [kubescape/github-action](https://github.com/kubescape/github-action)
-3. ❗️ Closed issue [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
-4. 🗣 Commented on [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
-5. 🎉 Merged PR [#5](https://github.com/kubescape/github-action/pull/5) in [kubescape/github-action](https://github.com/kubescape/github-action)
 <!--END_SECTION:activity-->
 
 
