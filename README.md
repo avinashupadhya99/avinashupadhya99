@@ -26,17 +26,17 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 - [avinashupadhya99/productcatalogservice](https://github.com/avinashupadhya99/productcatalogservice) -  (3 weeks ago)
 - [avinashupadhya99/pulumi-challenge](https://github.com/avinashupadhya99/pulumi-challenge) - Source code for Pulumi Challenge - Startup in a Box (1 month ago)
-- [avinashupadhya99/action-playground](https://github.com/avinashupadhya99/action-playground) - Playground for testing GitHub actions (1 month ago)
-- [kubescape/github-action](https://github.com/kubescape/github-action) - GitHub action to run Kubescape scans (1 month ago)
+- [avinashupadhya99/action-playground](https://github.com/avinashupadhya99/action-playground) - Playground for testing GitHub actions (2 months ago)
+- [kubescape/github-action](https://github.com/kubescape/github-action) - GitHub action to run Kubescape scans (2 months ago)
 - [avinashupadhya99/kubescape-action](https://github.com/avinashupadhya99/kubescape-action) - GitHub action to run Kubescape scans (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.0.174](https://github.com/kubescape/kubescape/releases/tag/v2.0.174), 3 days ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.7-alpha.3](https://github.com/robusta-dev/robusta/releases/tag/0.10.7-alpha.3), 3 days ago) - Open source Kubernetes monitoring, troubleshooting, and automation platform
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.5.0](https://github.com/argoproj/argo-cd/releases/tag/v2.5.0), 4 days ago) - Declarative continuous deployment for Kubernetes.
-- [elastic/kibana](https://github.com/elastic/kibana) ([v7.17.7](https://github.com/elastic/kibana/releases/tag/v7.17.7), 4 days ago) - Your window into the Elastic Stack
-- [spf13/cobra](https://github.com/spf13/cobra) ([v1.6.1](https://github.com/spf13/cobra/releases/tag/v1.6.1), 5 days ago) - A Commander for modern Go CLI interactions
+- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.0.174](https://github.com/kubescape/kubescape/releases/tag/v2.0.174), 4 days ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.7-alpha.3](https://github.com/robusta-dev/robusta/releases/tag/0.10.7-alpha.3), 4 days ago) - Open source Kubernetes monitoring, troubleshooting, and automation platform
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.5.0](https://github.com/argoproj/argo-cd/releases/tag/v2.5.0), 5 days ago) - Declarative continuous deployment for Kubernetes.
+- [elastic/kibana](https://github.com/elastic/kibana) ([v7.17.7](https://github.com/elastic/kibana/releases/tag/v7.17.7), 5 days ago) - Your window into the Elastic Stack
+- [spf13/cobra](https://github.com/spf13/cobra) ([v1.6.1](https://github.com/spf13/cobra/releases/tag/v1.6.1), 6 days ago) - A Commander for modern Go CLI interactions
 
 #### 🔨 Latest Pull Requests I published
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/kubescape/github-action/issues/6) in [kubescape/github-action](https://github.com/kubescape/github-action)
-2. 🗣 Commented on [#6](https://github.com/kubescape/github-action/issues/6) in [kubescape/github-action](https://github.com/kubescape/github-action)
-3. ❗️ Closed issue [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
-4. 🗣 Commented on [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
-5. 🎉 Merged PR [#5](https://github.com/kubescape/github-action/pull/5) in [kubescape/github-action](https://github.com/kubescape/github-action)
 <!--END_SECTION:activity-->
 
 
