@@ -32,15 +32,15 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/python/v0.1.1](https://github.com/dagger/dagger/releases/tag/sdk%2Fpython%2Fv0.1.1), 2 days ago) - A programmable CI/CD engine that runs your pipelines in containers
-- [parca-dev/parca](https://github.com/parca-dev/parca) ([v0.14.0](https://github.com/parca-dev/parca/releases/tag/v0.14.0), 2 days ago) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.5.2](https://github.com/argoproj/argo-cd/releases/tag/v2.5.2), 5 days ago) - Declarative continuous deployment for Kubernetes.
-- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.0.175](https://github.com/kubescape/kubescape/releases/tag/v2.0.175), 6 days ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
+- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/python/v0.1.1](https://github.com/dagger/dagger/releases/tag/sdk%2Fpython%2Fv0.1.1), 3 days ago) - A programmable CI/CD engine that runs your pipelines in containers
+- [parca-dev/parca](https://github.com/parca-dev/parca) ([v0.14.0](https://github.com/parca-dev/parca/releases/tag/v0.14.0), 3 days ago) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.5.2](https://github.com/argoproj/argo-cd/releases/tag/v2.5.2), 6 days ago) - Declarative continuous deployment for Kubernetes.
+- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.0.175](https://github.com/kubescape/kubescape/releases/tag/v2.0.175), 1 week ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.7-alpha.4](https://github.com/robusta-dev/robusta/releases/tag/0.10.7-alpha.4), 1 week ago) - Open source Kubernetes monitoring, troubleshooting, and automation platform
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix link to todoapp example in universe](https://github.com/dagger/dagger/pull/2940) on [dagger/dagger](https://github.com/dagger/dagger) (2 months ago)
+- [Fix link to todoapp example in universe](https://github.com/dagger/dagger/pull/2940) on [dagger/dagger](https://github.com/dagger/dagger) (3 months ago)
 - [Add spacing between previous and next article links](https://github.com/openfaas/openfaas.github.io/pull/292) on [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io) (3 months ago)
 - [Update link for playground in Readme ](https://github.com/kubescape/kubescape/pull/581) on [kubescape/kubescape](https://github.com/kubescape/kubescape) (3 months ago)
 - [Add slides for Kubescape talk-30 July 2022](https://github.com/collabnix/dockerbangalore/pull/36) on [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore) (3 months ago)
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/kubescape/github-action/issues/6) in [kubescape/github-action](https://github.com/kubescape/github-action)
-2. 🗣 Commented on [#6](https://github.com/kubescape/github-action/issues/6) in [kubescape/github-action](https://github.com/kubescape/github-action)
-3. ❗️ Closed issue [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
-4. 🗣 Commented on [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
-5. 🎉 Merged PR [#5](https://github.com/kubescape/github-action/pull/5) in [kubescape/github-action](https://github.com/kubescape/github-action)
 <!--END_SECTION:activity-->
 
 
