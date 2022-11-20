@@ -40,20 +40,15 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix link for installing services in promstack guide](https://github.com/Kong/docs.konghq.com/pull/4800) on [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) (today)
 - [Fix link to todoapp example in universe](https://github.com/dagger/dagger/pull/2940) on [dagger/dagger](https://github.com/dagger/dagger) (3 months ago)
 - [Add spacing between previous and next article links](https://github.com/openfaas/openfaas.github.io/pull/292) on [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io) (3 months ago)
 - [Update link for playground in Readme ](https://github.com/kubescape/kubescape/pull/581) on [kubescape/kubescape](https://github.com/kubescape/kubescape) (3 months ago)
 - [Add slides for Kubescape talk-30 July 2022](https://github.com/collabnix/dockerbangalore/pull/36) on [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore) (3 months ago)
-- [Update link for playground in Readme](https://github.com/kubescape/kubescape/pull/579) on [kubescape/kubescape](https://github.com/kubescape/kubescape) (3 months ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/kubescape/github-action/issues/6) in [kubescape/github-action](https://github.com/kubescape/github-action)
-2. 🗣 Commented on [#6](https://github.com/kubescape/github-action/issues/6) in [kubescape/github-action](https://github.com/kubescape/github-action)
-3. ❗️ Closed issue [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
-4. 🗣 Commented on [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
-5. 🎉 Merged PR [#5](https://github.com/kubescape/github-action/pull/5) in [kubescape/github-action](https://github.com/kubescape/github-action)
 <!--END_SECTION:activity-->
 
 
