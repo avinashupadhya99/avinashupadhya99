@@ -32,9 +32,9 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
+- [elastic/kibana](https://github.com/elastic/kibana) ([v8.5.2](https://github.com/elastic/kibana/releases/tag/v8.5.2), today) - Your window into the Elastic Stack
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.8](https://github.com/robusta-dev/robusta/releases/tag/0.10.8), 2 days ago) - Open source Kubernetes monitoring, troubleshooting, and automation platform
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.0.176](https://github.com/kubescape/kubescape/releases/tag/v2.0.176), 6 days ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
-- [elastic/kibana](https://github.com/elastic/kibana) ([v8.5.1](https://github.com/elastic/kibana/releases/tag/v8.5.1), 1 week ago) - Your window into the Elastic Stack
 - [dagger/dagger](https://github.com/dagger/dagger) ([sdk/python/v0.1.1](https://github.com/dagger/dagger/releases/tag/sdk/python/v0.1.1), 1 week ago) - A programmable CI/CD engine that runs your pipelines in containers
 - [parca-dev/parca](https://github.com/parca-dev/parca) ([v0.14.0](https://github.com/parca-dev/parca/releases/tag/v0.14.0), 1 week ago) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4800](https://github.com/Kong/docs.konghq.com/pull/4800) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
-2. ❗️ Closed issue [#6](https://github.com/kubescape/github-action/issues/6) in [kubescape/github-action](https://github.com/kubescape/github-action)
-3. 🗣 Commented on [#6](https://github.com/kubescape/github-action/issues/6) in [kubescape/github-action](https://github.com/kubescape/github-action)
-4. ❗️ Closed issue [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
-5. 🗣 Commented on [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
 <!--END_SECTION:activity-->
 
 
