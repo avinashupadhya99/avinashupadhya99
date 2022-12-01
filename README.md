@@ -32,7 +32,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.2.0](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.2.0), today) - A programmable CI/CD engine that runs your pipelines in containers
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.3.7](https://github.com/dagger/dagger/releases/tag/v0.3.7), today) - A programmable CI/CD engine that runs your pipelines in containers
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.5.3](https://github.com/argoproj/argo-cd/releases/tag/v2.5.3), 3 days ago) - Declarative continuous deployment for Kubernetes.
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.9-alpha-0](https://github.com/robusta-dev/robusta/releases/tag/0.10.9-alpha-0), 4 days ago) - Open source Kubernetes monitoring, troubleshooting, and automation platform
 - [elastic/kibana](https://github.com/elastic/kibana) ([v8.5.2](https://github.com/elastic/kibana/releases/tag/v8.5.2), 1 week ago) - Your window into the Elastic Stack
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3843](https://github.com/litmuschaos/litmus/issues/3843) in [litmuschaos/litmus](https://github.com/litmuschaos/litmus)
-2. 💪 Opened PR [#4800](https://github.com/Kong/docs.konghq.com/pull/4800) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
-3. ❗️ Closed issue [#6](https://github.com/kubescape/github-action/issues/6) in [kubescape/github-action](https://github.com/kubescape/github-action)
-4. 🗣 Commented on [#6](https://github.com/kubescape/github-action/issues/6) in [kubescape/github-action](https://github.com/kubescape/github-action)
-5. ❗️ Closed issue [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
 <!--END_SECTION:activity-->
 
 
