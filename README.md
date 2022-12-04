@@ -24,23 +24,23 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
-- [avinashupadhya99/pulumi-deployments-challenge-aws](https://github.com/avinashupadhya99/pulumi-deployments-challenge-aws) -  (6 days ago)
+- [avinashupadhya99/pulumi-deployments-challenge-aws](https://github.com/avinashupadhya99/pulumi-deployments-challenge-aws) -  (1 week ago)
 - [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) - 🦍 Source code for docs.konghq.com website (1 week ago)
-- [avinashupadhya99/kong-pulumi](https://github.com/avinashupadhya99/kong-pulumi) - Pulumi program in Go to create EC2 and necessary infra in AWS to deploy Kong (4 weeks ago)
+- [avinashupadhya99/kong-pulumi](https://github.com/avinashupadhya99/kong-pulumi) - Pulumi program in Go to create EC2 and necessary infra in AWS to deploy Kong (1 month ago)
 - [avinashupadhya99/productcatalogservice](https://github.com/avinashupadhya99/productcatalogservice) -  (1 month ago)
 - [avinashupadhya99/pulumi-challenge](https://github.com/avinashupadhya99/pulumi-challenge) - Source code for Pulumi Challenge - Startup in a Box (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.2.1](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.2.1), 2 days ago) - A programmable CI/CD engine that runs your pipelines in containers
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.5.3](https://github.com/argoproj/argo-cd/releases/tag/v2.5.3), 5 days ago) - Declarative continuous deployment for Kubernetes.
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.9-alpha-0](https://github.com/robusta-dev/robusta/releases/tag/0.10.9-alpha-0), 6 days ago) - Open source Kubernetes monitoring, troubleshooting, and automation platform
+- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.2.1](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.2.1), 3 days ago) - A programmable CI/CD engine that runs your pipelines in containers
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.5.3](https://github.com/argoproj/argo-cd/releases/tag/v2.5.3), 6 days ago) - Declarative continuous deployment for Kubernetes.
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.9-alpha-0](https://github.com/robusta-dev/robusta/releases/tag/0.10.9-alpha-0), 1 week ago) - Open source Kubernetes monitoring, troubleshooting, and automation platform
 - [elastic/kibana](https://github.com/elastic/kibana) ([v8.5.2](https://github.com/elastic/kibana/releases/tag/v8.5.2), 1 week ago) - Your window into the Elastic Stack
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.0.176](https://github.com/kubescape/kubescape/releases/tag/v2.0.176), 2 weeks ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix link for installing services in promstack guide](https://github.com/Kong/docs.konghq.com/pull/4800) on [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) (1 week ago)
+- [fix link for installing services in promstack guide](https://github.com/Kong/docs.konghq.com/pull/4800) on [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) (2 weeks ago)
 - [Fix link to todoapp example in universe](https://github.com/dagger/dagger/pull/2940) on [dagger/dagger](https://github.com/dagger/dagger) (3 months ago)
 - [Add spacing between previous and next article links](https://github.com/openfaas/openfaas.github.io/pull/292) on [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io) (3 months ago)
 - [Update link for playground in Readme ](https://github.com/kubescape/kubescape/pull/581) on [kubescape/kubescape](https://github.com/kubescape/kubescape) (4 months ago)
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3843](https://github.com/litmuschaos/litmus/issues/3843) in [litmuschaos/litmus](https://github.com/litmuschaos/litmus)
-2. 💪 Opened PR [#4800](https://github.com/Kong/docs.konghq.com/pull/4800) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
-3. ❗️ Closed issue [#6](https://github.com/kubescape/github-action/issues/6) in [kubescape/github-action](https://github.com/kubescape/github-action)
-4. 🗣 Commented on [#6](https://github.com/kubescape/github-action/issues/6) in [kubescape/github-action](https://github.com/kubescape/github-action)
-5. ❗️ Closed issue [#4](https://github.com/kubescape/github-action/issues/4) in [kubescape/github-action](https://github.com/kubescape/github-action)
 <!--END_SECTION:activity-->
 
 
