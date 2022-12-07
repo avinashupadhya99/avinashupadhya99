@@ -32,9 +32,9 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
+- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.3.0](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.3.0), today) - A programmable CI/CD engine that runs your pipelines in containers
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.5.4](https://github.com/argoproj/argo-cd/releases/tag/v2.5.4), 1 day ago) - Declarative continuous deployment for Kubernetes.
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.43.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.43.0), 1 day ago) - Azure Command-Line Interface
-- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.2.1](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.2.1), 6 days ago) - A programmable CI/CD engine that runs your pipelines in containers
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.9-alpha-0](https://github.com/robusta-dev/robusta/releases/tag/0.10.9-alpha-0), 1 week ago) - Open source Kubernetes monitoring, troubleshooting, and automation platform
 - [elastic/kibana](https://github.com/elastic/kibana) ([v8.5.2](https://github.com/elastic/kibana/releases/tag/v8.5.2), 2 weeks ago) - Your window into the Elastic Stack
 
@@ -49,8 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3843](https://github.com/litmuschaos/litmus/issues/3843) in [litmuschaos/litmus](https://github.com/litmuschaos/litmus)
-2. 💪 Opened PR [#4800](https://github.com/Kong/docs.konghq.com/pull/4800) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
 <!--END_SECTION:activity-->
 
 
