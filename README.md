@@ -32,7 +32,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.12](https://github.com/argoproj/argo-cd/releases/tag/v2.3.12), 3 days ago) - Declarative continuous deployment for Kubernetes.
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.6.0-rc1](https://github.com/argoproj/argo-cd/releases/tag/v2.6.0-rc1), today) - Declarative continuous deployment for Kubernetes.
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.0.178](https://github.com/kubescape/kubescape/releases/tag/v2.0.178), 1 week ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
 - [elastic/kibana](https://github.com/elastic/kibana) ([v8.5.3](https://github.com/elastic/kibana/releases/tag/v8.5.3), 1 week ago) - Your window into the Elastic Stack
 - [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.3.0](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.3.0), 1 week ago) - A programmable CI/CD engine that runs your pipelines in containers
@@ -49,8 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3843](https://github.com/litmuschaos/litmus/issues/3843) in [litmuschaos/litmus](https://github.com/litmuschaos/litmus)
-2. 💪 Opened PR [#4800](https://github.com/Kong/docs.konghq.com/pull/4800) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
 <!--END_SECTION:activity-->
 
 
