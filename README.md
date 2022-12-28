@@ -32,8 +32,8 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.9-alpha-1](https://github.com/robusta-dev/robusta/releases/tag/0.10.9-alpha-1), today) - Open source Kubernetes monitoring, troubleshooting, and automation platform
-- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.0.179](https://github.com/kubescape/kubescape/releases/tag/v2.0.179), 5 days ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.9-alpha-1](https://github.com/robusta-dev/robusta/releases/tag/0.10.9-alpha-1), 1 day ago) - Open source Kubernetes monitoring, troubleshooting, and automation platform
+- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.0.179](https://github.com/kubescape/kubescape/releases/tag/v2.0.179), 6 days ago) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning. 
 - [parca-dev/parca](https://github.com/parca-dev/parca) ([v0.15.0](https://github.com/parca-dev/parca/releases/tag/v0.15.0), 1 week ago) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.6.0-rc1](https://github.com/argoproj/argo-cd/releases/tag/v2.6.0-rc1), 1 week ago) - Declarative continuous deployment for Kubernetes.
 - [elastic/kibana](https://github.com/elastic/kibana) ([v8.5.3](https://github.com/elastic/kibana/releases/tag/v8.5.3), 2 weeks ago) - Your window into the Elastic Stack
@@ -43,14 +43,12 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 - [fix link for installing services in promstack guide](https://github.com/Kong/docs.konghq.com/pull/4800) on [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) (1 month ago)
 - [Fix link to todoapp example in universe](https://github.com/dagger/dagger/pull/2940) on [dagger/dagger](https://github.com/dagger/dagger) (4 months ago)
 - [Add spacing between previous and next article links](https://github.com/openfaas/openfaas.github.io/pull/292) on [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io) (4 months ago)
-- [Update link for playground in Readme ](https://github.com/kubescape/kubescape/pull/581) on [kubescape/kubescape](https://github.com/kubescape/kubescape) (4 months ago)
+- [Update link for playground in Readme ](https://github.com/kubescape/kubescape/pull/581) on [kubescape/kubescape](https://github.com/kubescape/kubescape) (5 months ago)
 - [Add slides for Kubescape talk-30 July 2022](https://github.com/collabnix/dockerbangalore/pull/36) on [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore) (5 months ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3843](https://github.com/litmuschaos/litmus/issues/3843) in [litmuschaos/litmus](https://github.com/litmuschaos/litmus)
-2. 💪 Opened PR [#4800](https://github.com/Kong/docs.konghq.com/pull/4800) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
 <!--END_SECTION:activity-->
 
 
