@@ -32,11 +32,11 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.6.0-rc2](https://github.com/argoproj/argo-cd/releases/tag/v2.6.0-rc2), 1 day ago) - Declarative continuous deployment for Kubernetes.
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.9-alpha-5](https://github.com/robusta-dev/robusta/releases/tag/0.10.9-alpha-5), 2 days ago) - Open source Kubernetes monitoring, troubleshooting, and automation platform
-- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.0.181](https://github.com/kubescape/kubescape/releases/tag/v2.0.181), 3 days ago) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.6.0-rc2](https://github.com/argoproj/argo-cd/releases/tag/v2.6.0-rc2), 2 days ago) - Declarative continuous deployment for Kubernetes.
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.9-alpha-5](https://github.com/robusta-dev/robusta/releases/tag/0.10.9-alpha-5), 3 days ago) - Open source Kubernetes monitoring, troubleshooting, and automation platform
+- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.0.181](https://github.com/kubescape/kubescape/releases/tag/v2.0.181), 4 days ago) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
 - [parca-dev/parca](https://github.com/parca-dev/parca) ([v0.15.0](https://github.com/parca-dev/parca/releases/tag/v0.15.0), 2 weeks ago) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
-- [elastic/kibana](https://github.com/elastic/kibana) ([v8.5.3](https://github.com/elastic/kibana/releases/tag/v8.5.3), 4 weeks ago) - Your window into the Elastic Stack
+- [elastic/kibana](https://github.com/elastic/kibana) ([v8.5.3](https://github.com/elastic/kibana/releases/tag/v8.5.3), 1 month ago) - Your window into the Elastic Stack
 
 #### 🔨 Latest Pull Requests I published
 
@@ -49,8 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3843](https://github.com/litmuschaos/litmus/issues/3843) in [litmuschaos/litmus](https://github.com/litmuschaos/litmus)
-2. 💪 Opened PR [#4800](https://github.com/Kong/docs.konghq.com/pull/4800) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
 <!--END_SECTION:activity-->
 
 
