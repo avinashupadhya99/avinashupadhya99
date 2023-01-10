@@ -32,9 +32,9 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.10](https://github.com/robusta-dev/robusta/releases/tag/0.10.10), today) - Open source Kubernetes monitoring, troubleshooting, and automation platform
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.44.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.44.0), today) - Azure Command-Line Interface
 - [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.3.1](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.3.1), today) - A programmable CI/CD engine that runs your pipelines in containers
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.9](https://github.com/robusta-dev/robusta/releases/tag/0.10.9), 2 days ago) - Open source Kubernetes monitoring, troubleshooting, and automation platform
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.0.181](https://github.com/kubescape/kubescape/releases/tag/v2.0.181), 1 week ago) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
 - [parca-dev/parca](https://github.com/parca-dev/parca) ([v0.15.0](https://github.com/parca-dev/parca/releases/tag/v0.15.0), 3 weeks ago) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 
@@ -49,8 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3843](https://github.com/litmuschaos/litmus/issues/3843) in [litmuschaos/litmus](https://github.com/litmuschaos/litmus)
-2. 💪 Opened PR [#4800](https://github.com/Kong/docs.konghq.com/pull/4800) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
 <!--END_SECTION:activity-->
 
 
