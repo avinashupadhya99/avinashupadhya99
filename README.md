@@ -32,16 +32,16 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.44.1](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.44.1), today) - Azure Command-Line Interface
-- [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) ([1.6.0](https://github.com/Azure/application-gateway-kubernetes-ingress/releases/tag/1.6.0), 1 day ago) - This is an ingress controller that can be run on Azure Kubernetes Service (AKS) to allow an Azure Application Gateway to act as the ingress for an AKS cluster.
-- [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) ([v0.7.7](https://github.com/mongodb/mongodb-kubernetes-operator/releases/tag/v0.7.7), 1 day ago) - MongoDB Community Kubernetes Operator
-- [elastic/kibana](https://github.com/elastic/kibana) ([v8.6.0](https://github.com/elastic/kibana/releases/tag/v8.6.0), 1 day ago) - Your window into the Elastic Stack
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.10](https://github.com/robusta-dev/robusta/releases/tag/0.10.10), 1 day ago) - Open source Kubernetes monitoring, troubleshooting, and automation platform
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.44.1](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.44.1), 1 day ago) - Azure Command-Line Interface
+- [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) ([1.6.0](https://github.com/Azure/application-gateway-kubernetes-ingress/releases/tag/1.6.0), 2 days ago) - This is an ingress controller that can be run on Azure Kubernetes Service (AKS) to allow an Azure Application Gateway to act as the ingress for an AKS cluster.
+- [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) ([v0.7.7](https://github.com/mongodb/mongodb-kubernetes-operator/releases/tag/v0.7.7), 2 days ago) - MongoDB Community Kubernetes Operator
+- [elastic/kibana](https://github.com/elastic/kibana) ([v8.6.0](https://github.com/elastic/kibana/releases/tag/v8.6.0), 2 days ago) - Your window into the Elastic Stack
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.10](https://github.com/robusta-dev/robusta/releases/tag/0.10.10), 2 days ago) - Open source Kubernetes monitoring, troubleshooting, and automation platform
 
 #### 🔨 Latest Pull Requests I published
 
 - [fix link for installing services in promstack guide](https://github.com/Kong/docs.konghq.com/pull/4800) on [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) (1 month ago)
-- [Fix link to todoapp example in universe](https://github.com/dagger/dagger/pull/2940) on [dagger/dagger](https://github.com/dagger/dagger) (4 months ago)
+- [Fix link to todoapp example in universe](https://github.com/dagger/dagger/pull/2940) on [dagger/dagger](https://github.com/dagger/dagger) (5 months ago)
 - [Add spacing between previous and next article links](https://github.com/openfaas/openfaas.github.io/pull/292) on [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io) (5 months ago)
 - [Update link for playground in Readme ](https://github.com/kubescape/kubescape/pull/581) on [kubescape/kubescape](https://github.com/kubescape/kubescape) (5 months ago)
 - [Add slides for Kubescape talk-30 July 2022](https://github.com/collabnix/dockerbangalore/pull/36) on [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore) (5 months ago)
@@ -49,8 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3843](https://github.com/litmuschaos/litmus/issues/3843) in [litmuschaos/litmus](https://github.com/litmuschaos/litmus)
-2. 💪 Opened PR [#4800](https://github.com/Kong/docs.konghq.com/pull/4800) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
 <!--END_SECTION:activity-->
 
 
