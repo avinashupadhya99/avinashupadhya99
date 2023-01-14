@@ -32,11 +32,11 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.0.183](https://github.com/kubescape/kubescape/releases/tag/v2.0.183), today) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
-- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.44.1](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.44.1), 2 days ago) - Azure Command-Line Interface
-- [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) ([1.6.0](https://github.com/Azure/application-gateway-kubernetes-ingress/releases/tag/1.6.0), 3 days ago) - This is an ingress controller that can be run on Azure Kubernetes Service (AKS) to allow an Azure Application Gateway to act as the ingress for an AKS cluster.
-- [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) ([v0.7.7](https://github.com/mongodb/mongodb-kubernetes-operator/releases/tag/v0.7.7), 3 days ago) - MongoDB Community Kubernetes Operator
-- [elastic/kibana](https://github.com/elastic/kibana) ([v8.6.0](https://github.com/elastic/kibana/releases/tag/v8.6.0), 3 days ago) - Your window into the Elastic Stack
+- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.0.183](https://github.com/kubescape/kubescape/releases/tag/v2.0.183), 1 day ago) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.44.1](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.44.1), 3 days ago) - Azure Command-Line Interface
+- [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) ([1.6.0](https://github.com/Azure/application-gateway-kubernetes-ingress/releases/tag/1.6.0), 4 days ago) - This is an ingress controller that can be run on Azure Kubernetes Service (AKS) to allow an Azure Application Gateway to act as the ingress for an AKS cluster.
+- [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) ([v0.7.7](https://github.com/mongodb/mongodb-kubernetes-operator/releases/tag/v0.7.7), 4 days ago) - MongoDB Community Kubernetes Operator
+- [elastic/kibana](https://github.com/elastic/kibana) ([v8.6.0](https://github.com/elastic/kibana/releases/tag/v8.6.0), 4 days ago) - Your window into the Elastic Stack
 
 #### 🔨 Latest Pull Requests I published
 
@@ -49,8 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3843](https://github.com/litmuschaos/litmus/issues/3843) in [litmuschaos/litmus](https://github.com/litmuschaos/litmus)
-2. 💪 Opened PR [#4800](https://github.com/Kong/docs.konghq.com/pull/4800) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
 <!--END_SECTION:activity-->
 
 
