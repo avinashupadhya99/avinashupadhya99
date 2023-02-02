@@ -26,16 +26,16 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 - [avinashupadhya99/pulumi-deployments-challenge-aws](https://github.com/avinashupadhya99/pulumi-deployments-challenge-aws) -  (2 months ago)
 - [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) - 🦍 Source code for docs.konghq.com website. (2 months ago)
-- [avinashupadhya99/kong-pulumi](https://github.com/avinashupadhya99/kong-pulumi) - Pulumi program in Go to create EC2 and necessary infra in AWS to deploy Kong (2 months ago)
+- [avinashupadhya99/kong-pulumi](https://github.com/avinashupadhya99/kong-pulumi) - Pulumi program in Go to create EC2 and necessary infra in AWS to deploy Kong (3 months ago)
 - [avinashupadhya99/productcatalogservice](https://github.com/avinashupadhya99/productcatalogservice) -  (3 months ago)
 - [avinashupadhya99/pulumi-challenge](https://github.com/avinashupadhya99/pulumi-challenge) - Source code for Pulumi Challenge - Startup in a Box (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) ([v0.7.8](https://github.com/mongodb/mongodb-kubernetes-operator/releases/tag/v0.7.8), 2 days ago) - MongoDB Community Kubernetes Operator
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.10-alpha.1](https://github.com/robusta-dev/robusta/releases/tag/0.10.10-alpha.1), 2 days ago) - Kubernetes observability and automation, with an awesome Prometheus integration
-- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.3.2](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.3.2), 6 days ago) - A programmable CI/CD engine that runs your pipelines in containers
-- [elastic/kibana](https://github.com/elastic/kibana) ([v8.6.1](https://github.com/elastic/kibana/releases/tag/v8.6.1), 6 days ago) - Your window into the Elastic Stack
+- [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) ([v0.7.8](https://github.com/mongodb/mongodb-kubernetes-operator/releases/tag/v0.7.8), 3 days ago) - MongoDB Community Kubernetes Operator
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.10-alpha.1](https://github.com/robusta-dev/robusta/releases/tag/0.10.10-alpha.1), 3 days ago) - Kubernetes observability and automation, with an awesome Prometheus integration
+- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.3.2](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.3.2), 1 week ago) - A programmable CI/CD engine that runs your pipelines in containers
+- [elastic/kibana](https://github.com/elastic/kibana) ([v8.6.1](https://github.com/elastic/kibana/releases/tag/v8.6.1), 1 week ago) - Your window into the Elastic Stack
 - [kubescape/github-action](https://github.com/kubescape/github-action) ([v0.0.1](https://github.com/kubescape/github-action/releases/tag/v0.0.1), 2 weeks ago) - GitHub action to run Kubescape scans
 
 #### 🔨 Latest Pull Requests I published
@@ -49,9 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#37](https://github.com/elastic/call-for-meetups/issues/37) in [elastic/call-for-meetups](https://github.com/elastic/call-for-meetups)
-2. ❗️ Opened issue [#3843](https://github.com/litmuschaos/litmus/issues/3843) in [litmuschaos/litmus](https://github.com/litmuschaos/litmus)
-3. 💪 Opened PR [#4800](https://github.com/Kong/docs.konghq.com/pull/4800) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
 <!--END_SECTION:activity-->
 
 
