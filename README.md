@@ -24,11 +24,11 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
+- [avinashupadhya99/action-playground](https://github.com/avinashupadhya99/action-playground) - Playground for testing GitHub actions (today)
 - [avinashupadhya99/pulumi-deployments-challenge-aws](https://github.com/avinashupadhya99/pulumi-deployments-challenge-aws) -  (2 months ago)
 - [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) - 🦍 Source code for docs.konghq.com website. (2 months ago)
 - [avinashupadhya99/kong-pulumi](https://github.com/avinashupadhya99/kong-pulumi) - Pulumi program in Go to create EC2 and necessary infra in AWS to deploy Kong (3 months ago)
 - [avinashupadhya99/productcatalogservice](https://github.com/avinashupadhya99/productcatalogservice) -  (4 months ago)
-- [avinashupadhya99/pulumi-challenge](https://github.com/avinashupadhya99/pulumi-challenge) - Source code for Pulumi Challenge - Startup in a Box (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -49,9 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#37](https://github.com/elastic/call-for-meetups/issues/37) in [elastic/call-for-meetups](https://github.com/elastic/call-for-meetups)
-2. ❗️ Opened issue [#3843](https://github.com/litmuschaos/litmus/issues/3843) in [litmuschaos/litmus](https://github.com/litmuschaos/litmus)
-3. 💪 Opened PR [#4800](https://github.com/Kong/docs.konghq.com/pull/4800) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
 <!--END_SECTION:activity-->
 
 
