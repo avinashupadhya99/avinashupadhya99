@@ -32,10 +32,10 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.11](https://github.com/robusta-dev/robusta/releases/tag/0.10.11), today) - Kubernetes observability and automation, with an awesome Prometheus integration
 - [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) ([1.5.3](https://github.com/Azure/application-gateway-kubernetes-ingress/releases/tag/1.5.3), 3 days ago) - This is an ingress controller that can be run on Azure Kubernetes Service (AKS) to allow an Azure Application Gateway to act as the ingress for an AKS cluster.
 - [elastic/kibana](https://github.com/elastic/kibana) ([v7.17.9](https://github.com/elastic/kibana/releases/tag/v7.17.9), 4 days ago) - Your window into the Elastic Stack
 - [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) ([v0.7.8](https://github.com/mongodb/mongodb-kubernetes-operator/releases/tag/v0.7.8), 1 week ago) - MongoDB Community Kubernetes Operator
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.10-alpha.1](https://github.com/robusta-dev/robusta/releases/tag/0.10.10-alpha.1), 1 week ago) - Kubernetes observability and automation, with an awesome Prometheus integration
 - [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.3.2](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.3.2), 1 week ago) - A programmable CI/CD engine that runs your pipelines in containers
 
 #### 🔨 Latest Pull Requests I published
@@ -49,9 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#37](https://github.com/elastic/call-for-meetups/issues/37) in [elastic/call-for-meetups](https://github.com/elastic/call-for-meetups)
-2. ❗️ Opened issue [#3843](https://github.com/litmuschaos/litmus/issues/3843) in [litmuschaos/litmus](https://github.com/litmuschaos/litmus)
-3. 💪 Opened PR [#4800](https://github.com/Kong/docs.konghq.com/pull/4800) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
 <!--END_SECTION:activity-->
 
 
