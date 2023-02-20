@@ -26,15 +26,15 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 - [avinashupadhya99/action-playground](https://github.com/avinashupadhya99/action-playground) - Playground for testing GitHub actions (2 weeks ago)
 - [avinashupadhya99/pulumi-deployments-challenge-aws](https://github.com/avinashupadhya99/pulumi-deployments-challenge-aws) -  (2 months ago)
-- [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) - 🦍 Source code for docs.konghq.com website. (2 months ago)
+- [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) - 🦍 Source code for docs.konghq.com website. (3 months ago)
 - [avinashupadhya99/kong-pulumi](https://github.com/avinashupadhya99/kong-pulumi) - Pulumi program in Go to create EC2 and necessary infra in AWS to deploy Kong (3 months ago)
 - [avinashupadhya99/productcatalogservice](https://github.com/avinashupadhya99/productcatalogservice) -  (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [elastic/kibana](https://github.com/elastic/kibana) ([v8.6.2](https://github.com/elastic/kibana/releases/tag/v8.6.2), 3 days ago) - Your window into the Elastic Stack
-- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.3.4](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.3.4), 5 days ago) - A programmable CI/CD engine that runs your pipelines in containers
-- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.2.0](https://github.com/kubescape/kubescape/releases/tag/v2.2.0), 5 days ago) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
+- [elastic/kibana](https://github.com/elastic/kibana) ([v8.6.2](https://github.com/elastic/kibana/releases/tag/v8.6.2), 4 days ago) - Your window into the Elastic Stack
+- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.3.4](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.3.4), 6 days ago) - A programmable CI/CD engine that runs your pipelines in containers
+- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.2.0](https://github.com/kubescape/kubescape/releases/tag/v2.2.0), 6 days ago) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
 - [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) ([1.7.0-rc1](https://github.com/Azure/application-gateway-kubernetes-ingress/releases/tag/1.7.0-rc1), 1 week ago) - This is an ingress controller that can be run on Azure Kubernetes Service (AKS) to allow an Azure Application Gateway to act as the ingress for an AKS cluster.
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.45.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.45.0), 1 week ago) - Azure Command-Line Interface
 
@@ -49,9 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#37](https://github.com/elastic/call-for-meetups/issues/37) in [elastic/call-for-meetups](https://github.com/elastic/call-for-meetups)
-2. ❗️ Opened issue [#3843](https://github.com/litmuschaos/litmus/issues/3843) in [litmuschaos/litmus](https://github.com/litmuschaos/litmus)
-3. 💪 Opened PR [#4800](https://github.com/Kong/docs.konghq.com/pull/4800) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
 <!--END_SECTION:activity-->
 
 
