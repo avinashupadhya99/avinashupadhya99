@@ -32,9 +32,9 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.3.5](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.3.5), 1 day ago) - A programmable CI/CD engine that runs your pipelines in containers
-- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.2.1](https://github.com/kubescape/kubescape/releases/tag/v2.2.1), 2 days ago) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.12](https://github.com/robusta-dev/robusta/releases/tag/0.10.12), 2 days ago) - Kubernetes observability and automation, with an awesome Prometheus integration
+- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.3.5](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.3.5), 2 days ago) - A programmable CI/CD engine that runs your pipelines in containers
+- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.2.1](https://github.com/kubescape/kubescape/releases/tag/v2.2.1), 3 days ago) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.12](https://github.com/robusta-dev/robusta/releases/tag/0.10.12), 3 days ago) - Kubernetes observability and automation, with an awesome Prometheus integration
 - [elastic/kibana](https://github.com/elastic/kibana) ([v8.6.2](https://github.com/elastic/kibana/releases/tag/v8.6.2), 1 week ago) - Your window into the Elastic Stack
 - [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) ([1.7.0-rc1](https://github.com/Azure/application-gateway-kubernetes-ingress/releases/tag/1.7.0-rc1), 2 weeks ago) - This is an ingress controller that can be run on Azure Kubernetes Service (AKS) to allow an Azure Application Gateway to act as the ingress for an AKS cluster.
 
@@ -43,13 +43,12 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 - [fix link for installing services in promstack guide](https://github.com/Kong/docs.konghq.com/pull/4800) on [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) (3 months ago)
 - [Fix link to todoapp example in universe](https://github.com/dagger/dagger/pull/2940) on [dagger/dagger](https://github.com/dagger/dagger) (6 months ago)
 - [Add spacing between previous and next article links](https://github.com/openfaas/openfaas.github.io/pull/292) on [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io) (6 months ago)
-- [Update link for playground in Readme ](https://github.com/kubescape/kubescape/pull/581) on [kubescape/kubescape](https://github.com/kubescape/kubescape) (6 months ago)
+- [Update link for playground in Readme ](https://github.com/kubescape/kubescape/pull/581) on [kubescape/kubescape](https://github.com/kubescape/kubescape) (7 months ago)
 - [Add slides for Kubescape talk-30 July 2022](https://github.com/collabnix/dockerbangalore/pull/36) on [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore) (7 months ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#37](https://github.com/elastic/call-for-meetups/issues/37) in [elastic/call-for-meetups](https://github.com/elastic/call-for-meetups)
 <!--END_SECTION:activity-->
 
 
