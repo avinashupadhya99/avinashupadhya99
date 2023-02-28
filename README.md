@@ -32,9 +32,9 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.2.2](https://github.com/kubescape/kubescape/releases/tag/v2.2.2), 1 day ago) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
-- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.3.5](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.3.5), 3 days ago) - A programmable CI/CD engine that runs your pipelines in containers
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.12](https://github.com/robusta-dev/robusta/releases/tag/0.10.12), 4 days ago) - Kubernetes observability and automation, with an awesome Prometheus integration
+- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.2.2](https://github.com/kubescape/kubescape/releases/tag/v2.2.2), 2 days ago) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
+- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.3.5](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.3.5), 4 days ago) - A programmable CI/CD engine that runs your pipelines in containers
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.10.12](https://github.com/robusta-dev/robusta/releases/tag/0.10.12), 5 days ago) - Kubernetes observability and automation, with an awesome Prometheus integration
 - [elastic/kibana](https://github.com/elastic/kibana) ([v8.6.2](https://github.com/elastic/kibana/releases/tag/v8.6.2), 1 week ago) - Your window into the Elastic Stack
 - [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) ([1.7.0-rc1](https://github.com/Azure/application-gateway-kubernetes-ingress/releases/tag/1.7.0-rc1), 2 weeks ago) - This is an ingress controller that can be run on Azure Kubernetes Service (AKS) to allow an Azure Application Gateway to act as the ingress for an AKS cluster.
 
@@ -49,7 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#37](https://github.com/elastic/call-for-meetups/issues/37) in [elastic/call-for-meetups](https://github.com/elastic/call-for-meetups)
 <!--END_SECTION:activity-->
 
 
