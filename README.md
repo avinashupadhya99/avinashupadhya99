@@ -32,11 +32,11 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.4.0](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.4.0), 2 days ago) - A programmable CI/CD engine that runs your pipelines in containers
-- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.2.4](https://github.com/kubescape/kubescape/releases/tag/v2.2.4), 3 days ago) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
-- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.46.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.46.0), 3 days ago) - Azure Command-Line Interface
+- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.4.0](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.4.0), 3 days ago) - A programmable CI/CD engine that runs your pipelines in containers
+- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.2.4](https://github.com/kubescape/kubescape/releases/tag/v2.2.4), 4 days ago) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.46.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.46.0), 4 days ago) - Azure Command-Line Interface
 - [elastic/kibana](https://github.com/elastic/kibana) ([v8.6.2](https://github.com/elastic/kibana/releases/tag/v8.6.2), 3 weeks ago) - Your window into the Elastic Stack
-- [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) ([1.7.0-rc1](https://github.com/Azure/application-gateway-kubernetes-ingress/releases/tag/1.7.0-rc1), 3 weeks ago) - This is an ingress controller that can be run on Azure Kubernetes Service (AKS) to allow an Azure Application Gateway to act as the ingress for an AKS cluster.
+- [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) ([1.7.0-rc1](https://github.com/Azure/application-gateway-kubernetes-ingress/releases/tag/1.7.0-rc1), 4 weeks ago) - This is an ingress controller that can be run on Azure Kubernetes Service (AKS) to allow an Azure Application Gateway to act as the ingress for an AKS cluster.
 
 #### 🔨 Latest Pull Requests I published
 
@@ -49,7 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#37](https://github.com/elastic/call-for-meetups/issues/37) in [elastic/call-for-meetups](https://github.com/elastic/call-for-meetups)
 <!--END_SECTION:activity-->
 
 
