@@ -24,17 +24,17 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
-- [avinashupadhya99/Quiz-App](https://github.com/avinashupadhya99/Quiz-App) - A ruby on rails web application which provides both admin and end user functionalities for a quiz application. Admins can manage quizzes and end user can take quizzes. (1 day ago)
-- [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security) - Discord bot for thenewboston currency security :| (1 day ago)
-- [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen) - A simple API that generates a random k8s keyword. A demo application for learning k8s concepts (1 day ago)
-- [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App) - A simple Ruby on Rails application for creating orders and managing the inventory of a store for my University mini-project. (1 day ago)
+- [avinashupadhya99/Quiz-App](https://github.com/avinashupadhya99/Quiz-App) - A ruby on rails web application which provides both admin and end user functionalities for a quiz application. Admins can manage quizzes and end user can take quizzes. (2 days ago)
+- [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security) - Discord bot for thenewboston currency security :| (2 days ago)
+- [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen) - A simple API that generates a random k8s keyword. A demo application for learning k8s concepts (2 days ago)
+- [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App) - A simple Ruby on Rails application for creating orders and managing the inventory of a store for my University mini-project. (2 days ago)
 - [avinashupadhya99/action-playground](https://github.com/avinashupadhya99/action-playground) - Playground for testing GitHub actions (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.2.5](https://github.com/kubescape/kubescape/releases/tag/v2.2.5), today) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
-- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.4.0](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.4.0), 5 days ago) - A programmable CI/CD engine that runs your pipelines in containers
-- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.46.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.46.0), 6 days ago) - Azure Command-Line Interface
+- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.2.5](https://github.com/kubescape/kubescape/releases/tag/v2.2.5), 1 day ago) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
+- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.4.0](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.4.0), 6 days ago) - A programmable CI/CD engine that runs your pipelines in containers
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.46.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.46.0), 1 week ago) - Azure Command-Line Interface
 - [elastic/kibana](https://github.com/elastic/kibana) ([v8.6.2](https://github.com/elastic/kibana/releases/tag/v8.6.2), 3 weeks ago) - Your window into the Elastic Stack
 - [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) ([1.7.0-rc1](https://github.com/Azure/application-gateway-kubernetes-ingress/releases/tag/1.7.0-rc1), 1 month ago) - This is an ingress controller that can be run on Azure Kubernetes Service (AKS) to allow an Azure Application Gateway to act as the ingress for an AKS cluster.
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/avinashupadhya99/TNB-Discord-Security/pull/9) in [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security)
-2. 🎉 Merged PR [#8](https://github.com/avinashupadhya99/Quiz-App/pull/8) in [avinashupadhya99/Quiz-App](https://github.com/avinashupadhya99/Quiz-App)
-3. 🎉 Merged PR [#26](https://github.com/avinashupadhya99/Store-App/pull/26) in [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App)
-4. 🎉 Merged PR [#6](https://github.com/avinashupadhya99/kubegen/pull/6) in [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen)
-5. ❗️ Opened issue [#37](https://github.com/elastic/call-for-meetups/issues/37) in [elastic/call-for-meetups](https://github.com/elastic/call-for-meetups)
 <!--END_SECTION:activity-->
 
 
