@@ -32,7 +32,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.4.1](https://github.com/dagger/dagger/releases/tag/v0.4.1), today) - A programmable CI/CD engine that runs your pipelines in containers
+- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.4.1](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.4.1), today) - A programmable CI/CD engine that runs your pipelines in containers
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.2.5](https://github.com/kubescape/kubescape/releases/tag/v2.2.5), 3 days ago) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.46.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.46.0), 1 week ago) - Azure Command-Line Interface
 - [elastic/kibana](https://github.com/elastic/kibana) ([v8.6.2](https://github.com/elastic/kibana/releases/tag/v8.6.2), 4 weeks ago) - Your window into the Elastic Stack
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5289](https://github.com/Kong/docs.konghq.com/pull/5289) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
-2. 🎉 Merged PR [#9](https://github.com/avinashupadhya99/TNB-Discord-Security/pull/9) in [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security)
-3. 🎉 Merged PR [#8](https://github.com/avinashupadhya99/Quiz-App/pull/8) in [avinashupadhya99/Quiz-App](https://github.com/avinashupadhya99/Quiz-App)
-4. 🎉 Merged PR [#26](https://github.com/avinashupadhya99/Store-App/pull/26) in [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App)
-5. 🎉 Merged PR [#6](https://github.com/avinashupadhya99/kubegen/pull/6) in [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen)
 <!--END_SECTION:activity-->
 
 
