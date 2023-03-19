@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#781](https://github.com/strimzi/strimzi-kafka-bridge/pull/781) in [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge)
-2. ❗️ Opened issue [#779](https://github.com/strimzi/strimzi-kafka-bridge/issues/779) in [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge)
-3. 💪 Opened PR [#5289](https://github.com/Kong/docs.konghq.com/pull/5289) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
-4. 🎉 Merged PR [#9](https://github.com/avinashupadhya99/TNB-Discord-Security/pull/9) in [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security)
-5. 🎉 Merged PR [#8](https://github.com/avinashupadhya99/Quiz-App/pull/8) in [avinashupadhya99/Quiz-App](https://github.com/avinashupadhya99/Quiz-App)
 <!--END_SECTION:activity-->
 
 
