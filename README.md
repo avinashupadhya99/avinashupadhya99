@@ -24,7 +24,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
-- [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) - 🦍 Source code for docs.konghq.com website. (4 days ago)
+- [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) - 🦍 Source code for docs.konghq.com website. (5 days ago)
 - [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen) - A simple API that generates a random k8s keyword. A demo application for learning k8s concepts (1 week ago)
 - [avinashupadhya99/Quiz-App](https://github.com/avinashupadhya99/Quiz-App) - A ruby on rails web application which provides both admin and end user functionalities for a quiz application. Admins can manage quizzes and end user can take quizzes. (1 week ago)
 - [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App) - A simple Ruby on Rails application for creating orders and managing the inventory of a store for my University mini-project. (1 week ago)
@@ -32,28 +32,23 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.4.1](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.4.1), 3 days ago) - A programmable CI/CD engine that runs your pipelines in containers
-- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.2.5](https://github.com/kubescape/kubescape/releases/tag/v2.2.5), 6 days ago) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
+- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.4.1](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.4.1), 4 days ago) - A programmable CI/CD engine that runs your pipelines in containers
+- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.2.5](https://github.com/kubescape/kubescape/releases/tag/v2.2.5), 1 week ago) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.46.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.46.0), 1 week ago) - Azure Command-Line Interface
 - [elastic/kibana](https://github.com/elastic/kibana) ([v8.6.2](https://github.com/elastic/kibana/releases/tag/v8.6.2), 1 month ago) - Your window into the Elastic Stack
 - [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) ([1.7.0-rc1](https://github.com/Azure/application-gateway-kubernetes-ingress/releases/tag/1.7.0-rc1), 1 month ago) - This is an ingress controller that can be run on Azure Kubernetes Service (AKS) to allow an Azure Application Gateway to act as the ingress for an AKS cluster.
 
 #### 🔨 Latest Pull Requests I published
 
-- [docs: fix example for POST request to /topics](https://github.com/strimzi/strimzi-kafka-bridge/pull/781) on [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) (today)
-- [fix routes endpoint in jwt plugin](https://github.com/Kong/docs.konghq.com/pull/5289) on [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) (4 days ago)
-- [fix link for installing services in promstack guide](https://github.com/Kong/docs.konghq.com/pull/4800) on [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) (3 months ago)
+- [docs: fix example for POST request to /topics](https://github.com/strimzi/strimzi-kafka-bridge/pull/781) on [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) (1 day ago)
+- [fix routes endpoint in jwt plugin](https://github.com/Kong/docs.konghq.com/pull/5289) on [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) (5 days ago)
+- [fix link for installing services in promstack guide](https://github.com/Kong/docs.konghq.com/pull/4800) on [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) (4 months ago)
 - [Fix link to todoapp example in universe](https://github.com/dagger/dagger/pull/2940) on [dagger/dagger](https://github.com/dagger/dagger) (7 months ago)
 - [Add spacing between previous and next article links](https://github.com/openfaas/openfaas.github.io/pull/292) on [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io) (7 months ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#781](https://github.com/strimzi/strimzi-kafka-bridge/pull/781) in [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge)
-2. ❗️ Opened issue [#779](https://github.com/strimzi/strimzi-kafka-bridge/issues/779) in [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge)
-3. 💪 Opened PR [#5289](https://github.com/Kong/docs.konghq.com/pull/5289) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
-4. 🎉 Merged PR [#9](https://github.com/avinashupadhya99/TNB-Discord-Security/pull/9) in [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security)
-5. 🎉 Merged PR [#8](https://github.com/avinashupadhya99/Quiz-App/pull/8) in [avinashupadhya99/Quiz-App](https://github.com/avinashupadhya99/Quiz-App)
 <!--END_SECTION:activity-->
 
 
