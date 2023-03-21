@@ -49,6 +49,11 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#26228](https://github.com/envoyproxy/envoy/issues/26228) in [envoyproxy/envoy](https://github.com/envoyproxy/envoy)
+2. 🗣 Commented on [#26171](https://github.com/envoyproxy/envoy/issues/26171) in [envoyproxy/envoy](https://github.com/envoyproxy/envoy)
+3. ❗️ Opened issue [#26171](https://github.com/envoyproxy/envoy/issues/26171) in [envoyproxy/envoy](https://github.com/envoyproxy/envoy)
+4. 💪 Opened PR [#781](https://github.com/strimzi/strimzi-kafka-bridge/pull/781) in [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge)
+5. ❗️ Opened issue [#779](https://github.com/strimzi/strimzi-kafka-bridge/issues/779) in [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge)
 <!--END_SECTION:activity-->
 
 
