@@ -26,7 +26,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 - [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) - An HTTP bridge for Apache Kafka® (6 days ago)
 - [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) - 🦍 Source code for docs.konghq.com website. (1 week ago)
-- [avinashupadhya99/Quiz-App](https://github.com/avinashupadhya99/Quiz-App) - A ruby on rails web application which provides both admin and end user functionalities for a quiz application. Admins can manage quizzes and end user can take quizzes. (2 weeks ago)
+- [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security) - Discord bot for thenewboston currency security :| (2 weeks ago)
 - [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen) - A simple API that generates a random k8s keyword. A demo application for learning k8s concepts (2 weeks ago)
 - [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App) - A simple Ruby on Rails application for creating orders and managing the inventory of a store for my University mini-project. (2 weeks ago)
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26228](https://github.com/envoyproxy/envoy/issues/26228) in [envoyproxy/envoy](https://github.com/envoyproxy/envoy)
-2. ❗️ Closed issue [#26171](https://github.com/envoyproxy/envoy/issues/26171) in [envoyproxy/envoy](https://github.com/envoyproxy/envoy)
-3. 🗣 Commented on [#26171](https://github.com/envoyproxy/envoy/issues/26171) in [envoyproxy/envoy](https://github.com/envoyproxy/envoy)
-4. 🗣 Commented on [#26171](https://github.com/envoyproxy/envoy/issues/26171) in [envoyproxy/envoy](https://github.com/envoyproxy/envoy)
-5. 🗣 Commented on [#26171](https://github.com/envoyproxy/envoy/issues/26171) in [envoyproxy/envoy](https://github.com/envoyproxy/envoy)
 <!--END_SECTION:activity-->
 
 
