@@ -32,11 +32,11 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) ([1.7.0](https://github.com/Azure/application-gateway-kubernetes-ingress/releases/tag/1.7.0), today) - This is an ingress controller that can be run on Azure Kubernetes Service (AKS) to allow an Azure Application Gateway to act as the ingress for an AKS cluster.
-- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.4.2](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.4.2), 4 days ago) - A programmable CI/CD engine that runs your pipelines in containers
-- [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) ([0.25.0](https://github.com/strimzi/strimzi-kafka-bridge/releases/tag/0.25.0), 1 week ago) - An HTTP bridge for Apache Kafka®
+- [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) ([1.7.0](https://github.com/Azure/application-gateway-kubernetes-ingress/releases/tag/1.7.0), 1 day ago) - This is an ingress controller that can be run on Azure Kubernetes Service (AKS) to allow an Azure Application Gateway to act as the ingress for an AKS cluster.
+- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.4.2](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.4.2), 5 days ago) - A programmable CI/CD engine that runs your pipelines in containers
+- [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) ([0.25.0](https://github.com/strimzi/strimzi-kafka-bridge/releases/tag/0.25.0), 2 weeks ago) - An HTTP bridge for Apache Kafka®
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.2.5](https://github.com/kubescape/kubescape/releases/tag/v2.2.5), 2 weeks ago) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
-- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.46.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.46.0), 2 weeks ago) - Azure Command-Line Interface
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.46.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.46.0), 3 weeks ago) - Azure Command-Line Interface
 
 #### 🔨 Latest Pull Requests I published
 
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26228](https://github.com/envoyproxy/envoy/issues/26228) in [envoyproxy/envoy](https://github.com/envoyproxy/envoy)
-2. ❗️ Closed issue [#26171](https://github.com/envoyproxy/envoy/issues/26171) in [envoyproxy/envoy](https://github.com/envoyproxy/envoy)
-3. 🗣 Commented on [#26171](https://github.com/envoyproxy/envoy/issues/26171) in [envoyproxy/envoy](https://github.com/envoyproxy/envoy)
-4. 🗣 Commented on [#26171](https://github.com/envoyproxy/envoy/issues/26171) in [envoyproxy/envoy](https://github.com/envoyproxy/envoy)
-5. 🗣 Commented on [#26171](https://github.com/envoyproxy/envoy/issues/26171) in [envoyproxy/envoy](https://github.com/envoyproxy/envoy)
 <!--END_SECTION:activity-->
 
 
