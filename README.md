@@ -40,20 +40,15 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔨 Latest Pull Requests I published
 
+- [[Snyk] Security upgrade rails from 5.1.7 to 6.1.7.3](https://github.com/avinashupadhya99/Quiz-App/pull/11) on [avinashupadhya99/Quiz-App](https://github.com/avinashupadhya99/Quiz-App) (today)
 - [[Snyk] Security upgrade rails from 5.1.7 to 6.1.7.3](https://github.com/avinashupadhya99/Store-App/pull/32) on [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App) (today)
 - [docs: fix example for POST request to /topics](https://github.com/strimzi/strimzi-kafka-bridge/pull/781) on [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) (1 week ago)
 - [fix routes endpoint in jwt plugin](https://github.com/Kong/docs.konghq.com/pull/5289) on [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) (1 week ago)
 - [fix link for installing services in promstack guide](https://github.com/Kong/docs.konghq.com/pull/4800) on [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) (4 months ago)
-- [Fix link to todoapp example in universe](https://github.com/dagger/dagger/pull/2940) on [dagger/dagger](https://github.com/dagger/dagger) (7 months ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26228](https://github.com/envoyproxy/envoy/issues/26228) in [envoyproxy/envoy](https://github.com/envoyproxy/envoy)
-2. ❗️ Closed issue [#26171](https://github.com/envoyproxy/envoy/issues/26171) in [envoyproxy/envoy](https://github.com/envoyproxy/envoy)
-3. 🗣 Commented on [#26171](https://github.com/envoyproxy/envoy/issues/26171) in [envoyproxy/envoy](https://github.com/envoyproxy/envoy)
-4. 🗣 Commented on [#26171](https://github.com/envoyproxy/envoy/issues/26171) in [envoyproxy/envoy](https://github.com/envoyproxy/envoy)
-5. 🗣 Commented on [#26171](https://github.com/envoyproxy/envoy/issues/26171) in [envoyproxy/envoy](https://github.com/envoyproxy/envoy)
 <!--END_SECTION:activity-->
 
 
