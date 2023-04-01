@@ -32,16 +32,16 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [elastic/kibana](https://github.com/elastic/kibana) ([v8.7.0](https://github.com/elastic/kibana/releases/tag/v8.7.0), 1 day ago) - Your window into the Elastic Stack
-- [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) ([1.7.0](https://github.com/Azure/application-gateway-kubernetes-ingress/releases/tag/1.7.0), 4 days ago) - This is an ingress controller that can be run on Azure Kubernetes Service (AKS) to allow an Azure Application Gateway to act as the ingress for an AKS cluster.
+- [elastic/kibana](https://github.com/elastic/kibana) ([v8.7.0](https://github.com/elastic/kibana/releases/tag/v8.7.0), 2 days ago) - Your window into the Elastic Stack
+- [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) ([1.7.0](https://github.com/Azure/application-gateway-kubernetes-ingress/releases/tag/1.7.0), 5 days ago) - This is an ingress controller that can be run on Azure Kubernetes Service (AKS) to allow an Azure Application Gateway to act as the ingress for an AKS cluster.
 - [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.4.2](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.4.2), 1 week ago) - A programmable CI/CD engine that runs your pipelines in containers
 - [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) ([0.25.0](https://github.com/strimzi/strimzi-kafka-bridge/releases/tag/0.25.0), 2 weeks ago) - An HTTP bridge for Apache Kafka®
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.2.5](https://github.com/kubescape/kubescape/releases/tag/v2.2.5), 2 weeks ago) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
 
 #### 🔨 Latest Pull Requests I published
 
-- [[Snyk] Security upgrade rails from 5.1.7 to 6.1.7.3](https://github.com/avinashupadhya99/Quiz-App/pull/11) on [avinashupadhya99/Quiz-App](https://github.com/avinashupadhya99/Quiz-App) (3 days ago)
-- [[Snyk] Security upgrade rails from 5.1.7 to 6.1.7.3](https://github.com/avinashupadhya99/Store-App/pull/32) on [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App) (3 days ago)
+- [[Snyk] Security upgrade rails from 5.1.7 to 6.1.7.3](https://github.com/avinashupadhya99/Quiz-App/pull/11) on [avinashupadhya99/Quiz-App](https://github.com/avinashupadhya99/Quiz-App) (4 days ago)
+- [[Snyk] Security upgrade rails from 5.1.7 to 6.1.7.3](https://github.com/avinashupadhya99/Store-App/pull/32) on [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App) (4 days ago)
 - [docs: fix example for POST request to /topics](https://github.com/strimzi/strimzi-kafka-bridge/pull/781) on [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) (1 week ago)
 - [fix routes endpoint in jwt plugin](https://github.com/Kong/docs.konghq.com/pull/5289) on [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) (2 weeks ago)
 - [fix link for installing services in promstack guide](https://github.com/Kong/docs.konghq.com/pull/4800) on [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) (4 months ago)
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/avinashupadhya99/Quiz-App/pull/11) in [avinashupadhya99/Quiz-App](https://github.com/avinashupadhya99/Quiz-App)
-2. 💪 Opened PR [#32](https://github.com/avinashupadhya99/Store-App/pull/32) in [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App)
-3. 🗣 Commented on [#26228](https://github.com/envoyproxy/envoy/issues/26228) in [envoyproxy/envoy](https://github.com/envoyproxy/envoy)
-4. ❗️ Closed issue [#26171](https://github.com/envoyproxy/envoy/issues/26171) in [envoyproxy/envoy](https://github.com/envoyproxy/envoy)
-5. 🗣 Commented on [#26171](https://github.com/envoyproxy/envoy/issues/26171) in [envoyproxy/envoy](https://github.com/envoyproxy/envoy)
 <!--END_SECTION:activity-->
 
 
