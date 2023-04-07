@@ -32,7 +32,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.5.0](https://github.com/dagger/dagger/releases/tag/v0.5.0), 1 day ago) - A programmable CI/CD engine that runs your pipelines in containers
+- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.5.0](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.5.0), today) - A programmable CI/CD engine that runs your pipelines in containers
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.47.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.47.0), 3 days ago) - Azure Command-Line Interface
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.2.6](https://github.com/kubescape/kubescape/releases/tag/v2.2.6), 4 days ago) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
 - [elastic/kibana](https://github.com/elastic/kibana) ([v8.7.0](https://github.com/elastic/kibana/releases/tag/v8.7.0), 1 week ago) - Your window into the Elastic Stack
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](https://github.com/avinashupadhya99/Store-App/pull/33) in [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App)
-2. 💪 Opened PR [#11](https://github.com/avinashupadhya99/Quiz-App/pull/11) in [avinashupadhya99/Quiz-App](https://github.com/avinashupadhya99/Quiz-App)
-3. 💪 Opened PR [#32](https://github.com/avinashupadhya99/Store-App/pull/32) in [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App)
-4. 🗣 Commented on [#26228](https://github.com/envoyproxy/envoy/issues/26228) in [envoyproxy/envoy](https://github.com/envoyproxy/envoy)
-5. ❗️ Closed issue [#26171](https://github.com/envoyproxy/envoy/issues/26171) in [envoyproxy/envoy](https://github.com/envoyproxy/envoy)
 <!--END_SECTION:activity-->
 
 
