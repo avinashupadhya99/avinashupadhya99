@@ -26,34 +26,29 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 - [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) - An HTTP bridge for Apache Kafka® (3 weeks ago)
 - [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) - 🦍 Source code for docs.konghq.com website. (3 weeks ago)
-- [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App) - A simple Ruby on Rails application for creating orders and managing the inventory of a store for my University mini-project. (4 weeks ago)
-- [avinashupadhya99/Quiz-App](https://github.com/avinashupadhya99/Quiz-App) - A ruby on rails web application which provides both admin and end user functionalities for a quiz application. Admins can manage quizzes and end user can take quizzes. (4 weeks ago)
-- [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security) - Discord bot for thenewboston currency security :| (4 weeks ago)
+- [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App) - A simple Ruby on Rails application for creating orders and managing the inventory of a store for my University mini-project. (1 month ago)
+- [avinashupadhya99/Quiz-App](https://github.com/avinashupadhya99/Quiz-App) - A ruby on rails web application which provides both admin and end user functionalities for a quiz application. Admins can manage quizzes and end user can take quizzes. (1 month ago)
+- [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security) - Discord bot for thenewboston currency security :| (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/python/v0.5.1](https://github.com/dagger/dagger/releases/tag/sdk/python/v0.5.1), 2 days ago) - A programmable CI/CD engine that runs your pipelines in containers
-- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.47.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.47.0), 6 days ago) - Azure Command-Line Interface
+- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/python/v0.5.1](https://github.com/dagger/dagger/releases/tag/sdk/python/v0.5.1), 3 days ago) - A programmable CI/CD engine that runs your pipelines in containers
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.47.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.47.0), 1 week ago) - Azure Command-Line Interface
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.2.6](https://github.com/kubescape/kubescape/releases/tag/v2.2.6), 1 week ago) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
 - [elastic/kibana](https://github.com/elastic/kibana) ([v8.7.0](https://github.com/elastic/kibana/releases/tag/v8.7.0), 1 week ago) - Your window into the Elastic Stack
 - [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) ([1.7.0](https://github.com/Azure/application-gateway-kubernetes-ingress/releases/tag/1.7.0), 2 weeks ago) - This is an ingress controller that can be run on Azure Kubernetes Service (AKS) to allow an Azure Application Gateway to act as the ingress for an AKS cluster.
 
 #### 🔨 Latest Pull Requests I published
 
-- [[Snyk] Security upgrade typeorm from 0.2.37 to 0.3.14](https://github.com/avinashupadhya99/TNB-Discord-Security/pull/12) on [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security) (1 day ago)
-- [[Snyk] Fix for 52 vulnerabilities](https://github.com/avinashupadhya99/Store-App/pull/33) on [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App) (5 days ago)
-- [[Snyk] Security upgrade rails from 5.1.7 to 6.1.7.3](https://github.com/avinashupadhya99/Quiz-App/pull/11) on [avinashupadhya99/Quiz-App](https://github.com/avinashupadhya99/Quiz-App) (1 week ago)
-- [[Snyk] Security upgrade rails from 5.1.7 to 6.1.7.3](https://github.com/avinashupadhya99/Store-App/pull/32) on [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App) (1 week ago)
+- [[Snyk] Security upgrade typeorm from 0.2.37 to 0.3.14](https://github.com/avinashupadhya99/TNB-Discord-Security/pull/12) on [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security) (2 days ago)
+- [[Snyk] Fix for 52 vulnerabilities](https://github.com/avinashupadhya99/Store-App/pull/33) on [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App) (6 days ago)
+- [[Snyk] Security upgrade rails from 5.1.7 to 6.1.7.3](https://github.com/avinashupadhya99/Quiz-App/pull/11) on [avinashupadhya99/Quiz-App](https://github.com/avinashupadhya99/Quiz-App) (2 weeks ago)
+- [[Snyk] Security upgrade rails from 5.1.7 to 6.1.7.3](https://github.com/avinashupadhya99/Store-App/pull/32) on [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App) (2 weeks ago)
 - [docs: fix example for POST request to /topics](https://github.com/strimzi/strimzi-kafka-bridge/pull/781) on [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) (3 weeks ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/avinashupadhya99/TNB-Discord-Security/pull/12) in [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security)
-2. 💪 Opened PR [#33](https://github.com/avinashupadhya99/Store-App/pull/33) in [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App)
-3. 💪 Opened PR [#11](https://github.com/avinashupadhya99/Quiz-App/pull/11) in [avinashupadhya99/Quiz-App](https://github.com/avinashupadhya99/Quiz-App)
-4. 💪 Opened PR [#32](https://github.com/avinashupadhya99/Store-App/pull/32) in [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App)
-5. 🗣 Commented on [#26228](https://github.com/envoyproxy/envoy/issues/26228) in [envoyproxy/envoy](https://github.com/envoyproxy/envoy)
 <!--END_SECTION:activity-->
 
 
