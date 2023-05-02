@@ -32,7 +32,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [elastic/kibana](https://github.com/elastic/kibana) ([v8.7.1](https://github.com/elastic/kibana/releases/tag/v8.7.1), today) - Your window into the Elastic Stack
+- [elastic/kibana](https://github.com/elastic/kibana) ([v7.17.10](https://github.com/elastic/kibana/releases/tag/v7.17.10), today) - Your window into the Elastic Stack
 - [kubescape/github-action](https://github.com/kubescape/github-action) ([v2.3.0](https://github.com/kubescape/github-action/releases/tag/v2.3.0), today) - GitHub action to run Kubescape scans
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.3.0](https://github.com/kubescape/kubescape/releases/tag/v2.3.0), 1 day ago) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
 - [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.5.1](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.5.1), 4 days ago) - A programmable CI/CD engine that runs your pipelines in containers
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/avinashupadhya99/TNB-Discord-Security/pull/12) in [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security)
-2. 💪 Opened PR [#33](https://github.com/avinashupadhya99/Store-App/pull/33) in [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App)
-3. 💪 Opened PR [#11](https://github.com/avinashupadhya99/Quiz-App/pull/11) in [avinashupadhya99/Quiz-App](https://github.com/avinashupadhya99/Quiz-App)
-4. 💪 Opened PR [#32](https://github.com/avinashupadhya99/Store-App/pull/32) in [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App)
-5. 🗣 Commented on [#26228](https://github.com/envoyproxy/envoy/issues/26228) in [envoyproxy/envoy](https://github.com/envoyproxy/envoy)
 <!--END_SECTION:activity-->
 
 
