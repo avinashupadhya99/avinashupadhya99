@@ -32,15 +32,15 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.3.1](https://github.com/kubescape/kubescape/releases/tag/v2.3.1), 3 days ago) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
-- [elastic/kibana](https://github.com/elastic/kibana) ([v7.17.10](https://github.com/elastic/kibana/releases/tag/v7.17.10), 4 days ago) - Your window into the Elastic Stack
-- [kubescape/github-action](https://github.com/kubescape/github-action) ([v2.3.0](https://github.com/kubescape/github-action/releases/tag/v2.3.0), 4 days ago) - GitHub action to run Kubescape scans
+- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.3.1](https://github.com/kubescape/kubescape/releases/tag/v2.3.1), 4 days ago) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
+- [elastic/kibana](https://github.com/elastic/kibana) ([v7.17.10](https://github.com/elastic/kibana/releases/tag/v7.17.10), 5 days ago) - Your window into the Elastic Stack
+- [kubescape/github-action](https://github.com/kubescape/github-action) ([v2.3.0](https://github.com/kubescape/github-action/releases/tag/v2.3.0), 5 days ago) - GitHub action to run Kubescape scans
 - [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.5.1](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.5.1), 1 week ago) - A programmable CI/CD engine that runs your pipelines in containers
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.48.1](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.48.1), 1 week ago) - Azure Command-Line Interface
 
 #### 🔨 Latest Pull Requests I published
 
-- [[Snyk] Security upgrade typeorm from 0.2.37 to 0.3.14](https://github.com/avinashupadhya99/TNB-Discord-Security/pull/12) on [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security) (3 weeks ago)
+- [[Snyk] Security upgrade typeorm from 0.2.37 to 0.3.14](https://github.com/avinashupadhya99/TNB-Discord-Security/pull/12) on [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security) (4 weeks ago)
 - [[Snyk] Fix for 52 vulnerabilities](https://github.com/avinashupadhya99/Store-App/pull/33) on [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App) (1 month ago)
 - [[Snyk] Security upgrade rails from 5.1.7 to 6.1.7.3](https://github.com/avinashupadhya99/Quiz-App/pull/11) on [avinashupadhya99/Quiz-App](https://github.com/avinashupadhya99/Quiz-App) (1 month ago)
 - [[Snyk] Security upgrade rails from 5.1.7 to 6.1.7.3](https://github.com/avinashupadhya99/Store-App/pull/32) on [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App) (1 month ago)
@@ -49,11 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/avinashupadhya99/TNB-Discord-Security/pull/12) in [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security)
-2. 💪 Opened PR [#33](https://github.com/avinashupadhya99/Store-App/pull/33) in [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App)
-3. 💪 Opened PR [#11](https://github.com/avinashupadhya99/Quiz-App/pull/11) in [avinashupadhya99/Quiz-App](https://github.com/avinashupadhya99/Quiz-App)
-4. 💪 Opened PR [#32](https://github.com/avinashupadhya99/Store-App/pull/32) in [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App)
-5. 🗣 Commented on [#26228](https://github.com/envoyproxy/envoy/issues/26228) in [envoyproxy/envoy](https://github.com/envoyproxy/envoy)
 <!--END_SECTION:activity-->
 
 
