@@ -49,6 +49,11 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#12](https://github.com/avinashupadhya99/TNB-Discord-Security/pull/12) in [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security)
+2. 💪 Opened PR [#33](https://github.com/avinashupadhya99/Store-App/pull/33) in [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App)
+3. 💪 Opened PR [#11](https://github.com/avinashupadhya99/Quiz-App/pull/11) in [avinashupadhya99/Quiz-App](https://github.com/avinashupadhya99/Quiz-App)
+4. 💪 Opened PR [#32](https://github.com/avinashupadhya99/Store-App/pull/32) in [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App)
+5. 🗣 Commented on [#26228](https://github.com/envoyproxy/envoy/issues/26228) in [envoyproxy/envoy](https://github.com/envoyproxy/envoy)
 <!--END_SECTION:activity-->
 
 
