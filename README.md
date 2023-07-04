@@ -32,10 +32,10 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.50.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.50.0), today) - Azure Command-Line Interface
 - [kubescape/github-action](https://github.com/kubescape/github-action) ([v2.3.6](https://github.com/kubescape/github-action/releases/tag/v2.3.6), 1 week ago) - GitHub action to run Kubescape scans
 - [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.6.2](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.6.2), 2 weeks ago) - A programmable CI/CD engine that runs your pipelines in containers
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.3.6](https://github.com/kubescape/kubescape/releases/tag/v2.3.6), 2 weeks ago) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
-- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.49.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.49.0), 1 month ago) - Azure Command-Line Interface
 - [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) ([0.25.0](https://github.com/strimzi/strimzi-kafka-bridge/releases/tag/0.25.0), 3 months ago) - An HTTP bridge for Apache Kafka®
 
 #### 🔨 Latest Pull Requests I published
@@ -49,8 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/avinashupadhya99/TNB-Discord-Security/pull/12) in [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security)
-2. 💪 Opened PR [#33](https://github.com/avinashupadhya99/Store-App/pull/33) in [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App)
 <!--END_SECTION:activity-->
 
 
