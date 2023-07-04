@@ -49,6 +49,8 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#12](https://github.com/avinashupadhya99/TNB-Discord-Security/pull/12) in [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security)
+2. 💪 Opened PR [#33](https://github.com/avinashupadhya99/Store-App/pull/33) in [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App)
 <!--END_SECTION:activity-->
 
 
