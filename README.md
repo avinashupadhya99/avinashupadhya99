@@ -41,7 +41,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### 🔨 Latest Pull Requests I published
 
 - [[Snyk] Security upgrade typeorm from 0.2.37 to 0.3.14](https://github.com/avinashupadhya99/TNB-Discord-Security/pull/12) on [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security) (2 months ago)
-- [[Snyk] Fix for 52 vulnerabilities](https://github.com/avinashupadhya99/Store-App/pull/33) on [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App) (2 months ago)
+- [[Snyk] Fix for 52 vulnerabilities](https://github.com/avinashupadhya99/Store-App/pull/33) on [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App) (3 months ago)
 - [[Snyk] Security upgrade rails from 5.1.7 to 6.1.7.3](https://github.com/avinashupadhya99/Quiz-App/pull/11) on [avinashupadhya99/Quiz-App](https://github.com/avinashupadhya99/Quiz-App) (3 months ago)
 - [[Snyk] Security upgrade rails from 5.1.7 to 6.1.7.3](https://github.com/avinashupadhya99/Store-App/pull/32) on [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App) (3 months ago)
 - [docs: fix example for POST request to /topics](https://github.com/strimzi/strimzi-kafka-bridge/pull/781) on [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) (3 months ago)
@@ -49,8 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/avinashupadhya99/TNB-Discord-Security/pull/12) in [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security)
-2. 💪 Opened PR [#33](https://github.com/avinashupadhya99/Store-App/pull/33) in [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App)
 <!--END_SECTION:activity-->
 
 
