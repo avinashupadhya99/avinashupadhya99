@@ -26,15 +26,15 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 - [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) - An HTTP bridge for Apache Kafka® (3 months ago)
 - [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) - 🦍 Source code for docs.konghq.com website. (3 months ago)
-- [avinashupadhya99/Quiz-App](https://github.com/avinashupadhya99/Quiz-App) - A ruby on rails web application which provides both admin and end user functionalities for a quiz application. Admins can manage quizzes and end user can take quizzes. (3 months ago)
-- [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen) - A simple API that generates a random k8s keyword. A demo application for learning k8s concepts (3 months ago)
-- [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App) - A simple Ruby on Rails application for creating orders and managing the inventory of a store for my University mini-project. (3 months ago)
+- [avinashupadhya99/Quiz-App](https://github.com/avinashupadhya99/Quiz-App) - A ruby on rails web application which provides both admin and end user functionalities for a quiz application. Admins can manage quizzes and end user can take quizzes. (4 months ago)
+- [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen) - A simple API that generates a random k8s keyword. A demo application for learning k8s concepts (4 months ago)
+- [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App) - A simple Ruby on Rails application for creating orders and managing the inventory of a store for my University mini-project. (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.3.7](https://github.com/kubescape/kubescape/releases/tag/v2.3.7), 3 days ago) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
-- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.6.3](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.6.3), 5 days ago) - A programmable CI/CD engine that runs your pipelines in containers
-- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.50.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.50.0), 5 days ago) - Azure Command-Line Interface
+- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.3.7](https://github.com/kubescape/kubescape/releases/tag/v2.3.7), 4 days ago) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
+- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.6.3](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.6.3), 6 days ago) - A programmable CI/CD engine that runs your pipelines in containers
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.50.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.50.0), 6 days ago) - Azure Command-Line Interface
 - [kubescape/github-action](https://github.com/kubescape/github-action) ([v2.3.6](https://github.com/kubescape/github-action/releases/tag/v2.3.6), 2 weeks ago) - GitHub action to run Kubescape scans
 - [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) ([0.25.0](https://github.com/strimzi/strimzi-kafka-bridge/releases/tag/0.25.0), 3 months ago) - An HTTP bridge for Apache Kafka®
 
@@ -49,7 +49,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/avinashupadhya99/TNB-Discord-Security/pull/12) in [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security)
 <!--END_SECTION:activity-->
 
 
