@@ -32,7 +32,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) ([0.26.0-rc1](https://github.com/strimzi/strimzi-kafka-bridge/releases/tag/0.26.0-rc1), 1 day ago) - An HTTP bridge for Apache Kafka®
+- [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) ([0.26.0-rc1](https://github.com/strimzi/strimzi-kafka-bridge/releases/tag/0.26.0-rc1), 2 days ago) - An HTTP bridge for Apache Kafka®
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.3.7](https://github.com/kubescape/kubescape/releases/tag/v2.3.7), 1 week ago) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
 - [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.6.3](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.6.3), 1 week ago) - A programmable CI/CD engine that runs your pipelines in containers
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.50.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.50.0), 1 week ago) - Azure Command-Line Interface
