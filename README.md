@@ -26,9 +26,9 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 - [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) - An HTTP bridge for Apache Kafka® (3 months ago)
 - [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) - 🦍 Source code for docs.konghq.com website. (4 months ago)
+- [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security) - Discord bot for thenewboston currency security :| (4 months ago)
 - [avinashupadhya99/Quiz-App](https://github.com/avinashupadhya99/Quiz-App) - A ruby on rails web application which provides both admin and end user functionalities for a quiz application. Admins can manage quizzes and end user can take quizzes. (4 months ago)
 - [avinashupadhya99/kubegen](https://github.com/avinashupadhya99/kubegen) - A simple API that generates a random k8s keyword. A demo application for learning k8s concepts (4 months ago)
-- [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App) - A simple Ruby on Rails application for creating orders and managing the inventory of a store for my University mini-project. (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
