@@ -24,7 +24,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
-- [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) - An HTTP bridge for Apache Kafka® (3 months ago)
+- [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) - An HTTP bridge for Apache Kafka® (4 months ago)
 - [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) - 🦍 Source code for docs.konghq.com website. (4 months ago)
 - [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security) - Discord bot for thenewboston currency security :| (4 months ago)
 - [avinashupadhya99/Quiz-App](https://github.com/avinashupadhya99/Quiz-App) - A ruby on rails web application which provides both admin and end user functionalities for a quiz application. Admins can manage quizzes and end user can take quizzes. (4 months ago)
@@ -32,10 +32,10 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) ([0.26.0](https://github.com/strimzi/strimzi-kafka-bridge/releases/tag/0.26.0), 3 days ago) - An HTTP bridge for Apache Kafka®
+- [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) ([0.26.0](https://github.com/strimzi/strimzi-kafka-bridge/releases/tag/0.26.0), 4 days ago) - An HTTP bridge for Apache Kafka®
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.3.7](https://github.com/kubescape/kubescape/releases/tag/v2.3.7), 1 week ago) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
-- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.6.3](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.6.3), 1 week ago) - A programmable CI/CD engine that runs your pipelines in containers
-- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.50.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.50.0), 1 week ago) - Azure Command-Line Interface
+- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.6.3](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.6.3), 2 weeks ago) - A programmable CI/CD engine that runs your pipelines in containers
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.50.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.50.0), 2 weeks ago) - Azure Command-Line Interface
 - [kubescape/github-action](https://github.com/kubescape/github-action) ([v2.3.6](https://github.com/kubescape/github-action/releases/tag/v2.3.6), 3 weeks ago) - GitHub action to run Kubescape scans
 
 #### 🔨 Latest Pull Requests I published
