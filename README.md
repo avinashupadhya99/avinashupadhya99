@@ -32,9 +32,9 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.6.4](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.6.4), today) - A programmable CI/CD engine that runs your pipelines in containers
-- [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) ([0.26.0](https://github.com/strimzi/strimzi-kafka-bridge/releases/tag/0.26.0), 5 days ago) - An HTTP bridge for Apache Kafka®
-- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.3.7](https://github.com/kubescape/kubescape/releases/tag/v2.3.7), 1 week ago) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
+- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.6.4](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.6.4), 1 day ago) - A programmable CI/CD engine that runs your pipelines in containers
+- [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) ([0.26.0](https://github.com/strimzi/strimzi-kafka-bridge/releases/tag/0.26.0), 6 days ago) - An HTTP bridge for Apache Kafka®
+- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.3.7](https://github.com/kubescape/kubescape/releases/tag/v2.3.7), 2 weeks ago) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.50.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.50.0), 2 weeks ago) - Azure Command-Line Interface
 - [kubescape/github-action](https://github.com/kubescape/github-action) ([v2.3.6](https://github.com/kubescape/github-action/releases/tag/v2.3.6), 3 weeks ago) - GitHub action to run Kubescape scans
 
