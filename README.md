@@ -32,9 +32,9 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.3.8](https://github.com/kubescape/kubescape/releases/tag/v2.3.8), today) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
-- [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) ([0.26.1-rc1](https://github.com/strimzi/strimzi-kafka-bridge/releases/tag/0.26.1-rc1), today) - An HTTP bridge for Apache Kafka®
-- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.6.4](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.6.4), 6 days ago) - A programmable CI/CD engine that runs your pipelines in containers
+- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.3.8](https://github.com/kubescape/kubescape/releases/tag/v2.3.8), 1 day ago) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
+- [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) ([0.26.1-rc1](https://github.com/strimzi/strimzi-kafka-bridge/releases/tag/0.26.1-rc1), 1 day ago) - An HTTP bridge for Apache Kafka®
+- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.6.4](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.6.4), 1 week ago) - A programmable CI/CD engine that runs your pipelines in containers
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.50.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.50.0), 3 weeks ago) - Azure Command-Line Interface
 - [kubescape/github-action](https://github.com/kubescape/github-action) ([v2.3.6](https://github.com/kubescape/github-action/releases/tag/v2.3.6), 1 month ago) - GitHub action to run Kubescape scans
 
@@ -42,8 +42,8 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 - [[Snyk] Security upgrade typeorm from 0.2.37 to 0.3.14](https://github.com/avinashupadhya99/TNB-Discord-Security/pull/12) on [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security) (3 months ago)
 - [[Snyk] Fix for 52 vulnerabilities](https://github.com/avinashupadhya99/Store-App/pull/33) on [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App) (3 months ago)
-- [[Snyk] Security upgrade rails from 5.1.7 to 6.1.7.3](https://github.com/avinashupadhya99/Quiz-App/pull/11) on [avinashupadhya99/Quiz-App](https://github.com/avinashupadhya99/Quiz-App) (3 months ago)
-- [[Snyk] Security upgrade rails from 5.1.7 to 6.1.7.3](https://github.com/avinashupadhya99/Store-App/pull/32) on [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App) (3 months ago)
+- [[Snyk] Security upgrade rails from 5.1.7 to 6.1.7.3](https://github.com/avinashupadhya99/Quiz-App/pull/11) on [avinashupadhya99/Quiz-App](https://github.com/avinashupadhya99/Quiz-App) (4 months ago)
+- [[Snyk] Security upgrade rails from 5.1.7 to 6.1.7.3](https://github.com/avinashupadhya99/Store-App/pull/32) on [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App) (4 months ago)
 - [docs: fix example for POST request to /topics](https://github.com/strimzi/strimzi-kafka-bridge/pull/781) on [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) (4 months ago)
 
 #### ⚡ Recent Activity
