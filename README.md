@@ -34,7 +34,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 - [kubescape/github-action](https://github.com/kubescape/github-action) ([v2.3.8](https://github.com/kubescape/github-action/releases/tag/v2.3.8), 1 day ago) - GitHub action to run Kubescape scans
 - [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) ([0.26.1](https://github.com/strimzi/strimzi-kafka-bridge/releases/tag/0.26.1), 4 days ago) - An HTTP bridge for Apache Kafka®
-- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v2.3.8](https://github.com/kubescape/kubescape/releases/tag/v2.3.8), 6 days ago) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
 - [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.6.4](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.6.4), 1 week ago) - A programmable CI/CD engine that runs your pipelines in containers
 
 #### 🔨 Latest Pull Requests I published
