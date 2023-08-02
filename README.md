@@ -32,9 +32,9 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubescape/github-action](https://github.com/kubescape/github-action) ([v2.3.8](https://github.com/kubescape/github-action/releases/tag/v2.3.8), 2 days ago) - GitHub action to run Kubescape scans
-- [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) ([0.26.1](https://github.com/strimzi/strimzi-kafka-bridge/releases/tag/0.26.1), 5 days ago) - An HTTP bridge for Apache Kafka®
-- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.6.4](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.6.4), 1 week ago) - A programmable CI/CD engine that runs your pipelines in containers
+- [kubescape/github-action](https://github.com/kubescape/github-action) ([v2.3.8](https://github.com/kubescape/github-action/releases/tag/v2.3.8), 3 days ago) - GitHub action to run Kubescape scans
+- [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) ([0.26.1](https://github.com/strimzi/strimzi-kafka-bridge/releases/tag/0.26.1), 6 days ago) - An HTTP bridge for Apache Kafka®
+- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.6.4](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.6.4), 2 weeks ago) - A programmable CI/CD engine that runs your pipelines in containers
 
 #### 🔨 Latest Pull Requests I published
 
