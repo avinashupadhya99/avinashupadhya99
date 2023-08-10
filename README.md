@@ -32,7 +32,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.8.2](https://github.com/dagger/dagger/releases/tag/v0.8.2), today) - A programmable CI/CD engine that runs your pipelines in containers
+- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/elixir/v0.8.2](https://github.com/dagger/dagger/releases/tag/sdk/elixir/v0.8.2), today) - A programmable CI/CD engine that runs your pipelines in containers
 - [kubescape/github-action](https://github.com/kubescape/github-action) ([v2.3.8](https://github.com/kubescape/github-action/releases/tag/v2.3.8), 1 week ago) - GitHub action to run Kubescape scans
 - [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) ([0.26.1](https://github.com/strimzi/strimzi-kafka-bridge/releases/tag/0.26.1), 2 weeks ago) - An HTTP bridge for Apache Kafka®
 
