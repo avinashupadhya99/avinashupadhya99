@@ -32,7 +32,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubescape/github-action](https://github.com/kubescape/github-action) ([v2.3.8](https://github.com/kubescape/github-action/releases/tag/v2.3.8), 2 weeks ago) - GitHub action to run Kubescape scans
+- [kubescape/github-action](https://github.com/kubescape/github-action) ([v2.3.8](https://github.com/kubescape/github-action/releases/tag/v2.3.8), 3 weeks ago) - GitHub action to run Kubescape scans
 - [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) ([0.26.1](https://github.com/strimzi/strimzi-kafka-bridge/releases/tag/0.26.1), 3 weeks ago) - An HTTP bridge for Apache Kafka®
 
 #### 🔨 Latest Pull Requests I published
