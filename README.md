@@ -24,7 +24,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
-- [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore) - All the latest/previous Docker Bangalore Meetup presentations slides, videos and workshops  (4 days ago)
+- [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore) - All the latest/previous Docker Bangalore Meetup presentations slides, videos and workshops  (5 days ago)
 - [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) - An HTTP bridge for Apache Kafka® (5 months ago)
 - [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) - 🦍 Source code for docs.konghq.com website. (5 months ago)
 - [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security) - Discord bot for thenewboston currency security :| (5 months ago)
@@ -37,16 +37,15 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add slides for Building Envoy filters with WASM](https://github.com/collabnix/dockerbangalore/pull/42) on [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore) (4 days ago)
+- [Add slides for Building Envoy filters with WASM](https://github.com/collabnix/dockerbangalore/pull/42) on [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore) (5 days ago)
 - [[Snyk] Security upgrade typeorm from 0.2.37 to 0.3.14](https://github.com/avinashupadhya99/TNB-Discord-Security/pull/12) on [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security) (4 months ago)
 - [[Snyk] Fix for 52 vulnerabilities](https://github.com/avinashupadhya99/Store-App/pull/33) on [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App) (4 months ago)
-- [[Snyk] Security upgrade rails from 5.1.7 to 6.1.7.3](https://github.com/avinashupadhya99/Quiz-App/pull/11) on [avinashupadhya99/Quiz-App](https://github.com/avinashupadhya99/Quiz-App) (4 months ago)
-- [[Snyk] Security upgrade rails from 5.1.7 to 6.1.7.3](https://github.com/avinashupadhya99/Store-App/pull/32) on [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App) (4 months ago)
+- [[Snyk] Security upgrade rails from 5.1.7 to 6.1.7.3](https://github.com/avinashupadhya99/Quiz-App/pull/11) on [avinashupadhya99/Quiz-App](https://github.com/avinashupadhya99/Quiz-App) (5 months ago)
+- [[Snyk] Security upgrade rails from 5.1.7 to 6.1.7.3](https://github.com/avinashupadhya99/Store-App/pull/32) on [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App) (5 months ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#42](https://github.com/collabnix/dockerbangalore/pull/42) in [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore)
 <!--END_SECTION:activity-->
 
 
