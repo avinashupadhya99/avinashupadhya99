@@ -25,7 +25,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### 👷 Check out what I'm currently working on
 
 - [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore) - All the latest/previous Docker Bangalore Meetup presentations slides, videos and workshops  (3 weeks ago)
-- [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) - An HTTP bridge for Apache Kafka® (5 months ago)
+- [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) - An HTTP bridge for Apache Kafka® (6 months ago)
 - [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) - 🦍 Source code for docs.konghq.com website. (6 months ago)
 - [avinashupadhya99/Quiz-App](https://github.com/avinashupadhya99/Quiz-App) - A ruby on rails web application which provides both admin and end user functionalities for a quiz application. Admins can manage quizzes and end user can take quizzes. (6 months ago)
 - [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App) - A simple Ruby on Rails application for creating orders and managing the inventory of a store for my University mini-project. (6 months ago)
@@ -45,7 +45,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#42](https://github.com/collabnix/dockerbangalore/pull/42) in [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore)
 <!--END_SECTION:activity-->
 
 
