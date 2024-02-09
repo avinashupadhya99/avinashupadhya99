@@ -32,7 +32,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) ([0.27.0](https://github.com/strimzi/strimzi-kafka-bridge/releases/tag/0.27.0), 3 months ago) - An HTTP bridge for Apache Kafka®
+- [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) ([0.27.0](https://github.com/strimzi/strimzi-kafka-bridge/releases/tag/0.27.0), 4 months ago) - An HTTP bridge for Apache Kafka®
 
 #### 🔨 Latest Pull Requests I published
 
