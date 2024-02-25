@@ -24,7 +24,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
-- [avinashupadhya99/kubegen-manifests](https://github.com/avinashupadhya99/kubegen-manifests) - Manifest files for https://github.com/avinashupadhya99/kubegen (3 months ago)
+- [avinashupadhya99/kubegen-manifests](https://github.com/avinashupadhya99/kubegen-manifests) - Manifest files for https://github.com/avinashupadhya99/kubegen (4 months ago)
 - [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore) - All the latest/previous Docker Bangalore Meetup presentations slides, videos and workshops  (6 months ago)
 - [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) - An HTTP bridge for Apache Kafka® (11 months ago)
 - [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) - 🦍 Source code for docs.konghq.com website. (11 months ago)
@@ -45,7 +45,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.3](https://github.com/avinashupadhya99/kong-event-pub/releases/tag/1.0.3) in [avinashupadhya99/kong-event-pub](https://github.com/avinashupadhya99/kong-event-pub)
 <!--END_SECTION:activity-->
 
 
