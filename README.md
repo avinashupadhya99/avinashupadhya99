@@ -25,13 +25,14 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### 👷 Check out what I'm currently working on
 
 - [avinashupadhya99/kubegen-manifests](https://github.com/avinashupadhya99/kubegen-manifests) - Manifest files for https://github.com/avinashupadhya99/kubegen (4 months ago)
+- [kubescape/github-action](https://github.com/kubescape/github-action) - GitHub action to run Kubescape scans (4 months ago)
 - [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore) - All the latest/previous Docker Bangalore Meetup presentations slides, videos and workshops  (6 months ago)
 - [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) - An HTTP bridge for Apache Kafka® (11 months ago)
 - [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) - 🦍 Source code for docs.konghq.com website. (11 months ago)
-- [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security) - Discord bot for thenewboston currency security :| (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubescape/github-action](https://github.com/kubescape/github-action) ([v3.0.1-fix](https://github.com/kubescape/github-action/releases/tag/v3.0.1-fix), today) - GitHub action to run Kubescape scans
 - [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) ([0.27.0](https://github.com/strimzi/strimzi-kafka-bridge/releases/tag/0.27.0), 4 months ago) - An HTTP bridge for Apache Kafka®
 
 #### 🔨 Latest Pull Requests I published
@@ -45,7 +46,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.3](https://github.com/avinashupadhya99/kong-event-pub/releases/tag/1.0.3) in [avinashupadhya99/kong-event-pub](https://github.com/avinashupadhya99/kong-event-pub)
 <!--END_SECTION:activity-->
 
 
