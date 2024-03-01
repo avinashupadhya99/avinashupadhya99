@@ -32,7 +32,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubescape/github-action](https://github.com/kubescape/github-action) ([v3.0.1-fix](https://github.com/kubescape/github-action/releases/tag/v3.0.1-fix), 1 day ago) - GitHub action to run Kubescape scans
+- [kubescape/github-action](https://github.com/kubescape/github-action) ([v3.0.1-fix](https://github.com/kubescape/github-action/releases/tag/v3.0.1-fix), 2 days ago) - GitHub action to run Kubescape scans
 - [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) ([0.27.0](https://github.com/strimzi/strimzi-kafka-bridge/releases/tag/0.27.0), 4 months ago) - An HTTP bridge for Apache Kafka®
 
 #### 🔨 Latest Pull Requests I published
@@ -46,7 +46,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.3](https://github.com/avinashupadhya99/kong-event-pub/releases/tag/1.0.3) in [avinashupadhya99/kong-event-pub](https://github.com/avinashupadhya99/kong-event-pub)
 <!--END_SECTION:activity-->
 
 
