@@ -32,8 +32,8 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
+- [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) ([0.28.0-rc1](https://github.com/strimzi/strimzi-kafka-bridge/releases/tag/0.28.0-rc1), today) - An HTTP bridge for Apache Kafka®
 - [kubescape/github-action](https://github.com/kubescape/github-action) ([v3.0.4](https://github.com/kubescape/github-action/releases/tag/v3.0.4), 5 days ago) - GitHub action to run Kubescape scans
-- [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) ([0.27.0](https://github.com/strimzi/strimzi-kafka-bridge/releases/tag/0.27.0), 4 months ago) - An HTTP bridge for Apache Kafka®
 
 #### 🔨 Latest Pull Requests I published
 
@@ -46,8 +46,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3035](https://github.com/ververica/flink-cdc-connectors/issues/3035#issuecomment-1973757631) in [ververica/flink-cdc-connectors](https://github.com/ververica/flink-cdc-connectors)
-2. 🚀 Published release [1.0.3](https://github.com/avinashupadhya99/kong-event-pub/releases/tag/1.0.3) in [avinashupadhya99/kong-event-pub](https://github.com/avinashupadhya99/kong-event-pub)
 <!--END_SECTION:activity-->
 
 
