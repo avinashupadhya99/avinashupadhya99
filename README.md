@@ -26,19 +26,19 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 - [avinashupadhya99/kubegen-manifests](https://github.com/avinashupadhya99/kubegen-manifests) - Manifest files for https://github.com/avinashupadhya99/kubegen (4 months ago)
 - [kubescape/github-action](https://github.com/kubescape/github-action) - GitHub action to run Kubescape scans (4 months ago)
-- [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore) - All the latest/previous Docker Bangalore Meetup presentations slides, videos and workshops  (6 months ago)
+- [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore) - All the latest/previous Docker Bangalore Meetup presentations slides, videos and workshops  (7 months ago)
 - [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) - An HTTP bridge for Apache Kafka® (1 year ago)
 - [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) - 🦍 Source code for docs.konghq.com website. (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubescape/github-action](https://github.com/kubescape/github-action) ([v3.0.5](https://github.com/kubescape/github-action/releases/tag/v3.0.5), 3 days ago) - GitHub action to run Kubescape scans
+- [kubescape/github-action](https://github.com/kubescape/github-action) ([v3.0.5](https://github.com/kubescape/github-action/releases/tag/v3.0.5), 4 days ago) - GitHub action to run Kubescape scans
 - [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) ([0.28.0](https://github.com/strimzi/strimzi-kafka-bridge/releases/tag/0.28.0), 1 week ago) - An HTTP bridge for Apache Kafka®
 
 #### 🔨 Latest Pull Requests I published
 
 - [update README image scanning docs](https://github.com/kubescape/github-action/pull/51) on [kubescape/github-action](https://github.com/kubescape/github-action) (4 months ago)
-- [Add slides for Building Envoy filters with WASM](https://github.com/collabnix/dockerbangalore/pull/42) on [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore) (6 months ago)
+- [Add slides for Building Envoy filters with WASM](https://github.com/collabnix/dockerbangalore/pull/42) on [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore) (7 months ago)
 - [[Snyk] Security upgrade typeorm from 0.2.37 to 0.3.14](https://github.com/avinashupadhya99/TNB-Discord-Security/pull/12) on [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security) (11 months ago)
 - [[Snyk] Fix for 52 vulnerabilities](https://github.com/avinashupadhya99/Store-App/pull/33) on [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App) (11 months ago)
 - [[Snyk] Security upgrade rails from 5.1.7 to 6.1.7.3](https://github.com/avinashupadhya99/Quiz-App/pull/11) on [avinashupadhya99/Quiz-App](https://github.com/avinashupadhya99/Quiz-App) (11 months ago)
@@ -46,8 +46,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3035](https://github.com/ververica/flink-cdc-connectors/issues/3035#issuecomment-1973757631) in [ververica/flink-cdc-connectors](https://github.com/ververica/flink-cdc-connectors)
-2. 🚀 Published release [1.0.3](https://github.com/avinashupadhya99/kong-event-pub/releases/tag/1.0.3) in [avinashupadhya99/kong-event-pub](https://github.com/avinashupadhya99/kong-event-pub)
 <!--END_SECTION:activity-->
 
 
