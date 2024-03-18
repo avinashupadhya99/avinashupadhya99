@@ -28,7 +28,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 - [kubescape/github-action](https://github.com/kubescape/github-action) - GitHub action to run Kubescape scans (4 months ago)
 - [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore) - All the latest/previous Docker Bangalore Meetup presentations slides, videos and workshops  (7 months ago)
 - [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) - An HTTP bridge for Apache Kafka® (1 year ago)
-- [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com) - 🦍 Source code for docs.konghq.com website. (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -46,8 +45,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3035](https://github.com/ververica/flink-cdc-connectors/issues/3035#issuecomment-1973757631) in [ververica/flink-cdc-connectors](https://github.com/ververica/flink-cdc-connectors)
-2. 🚀 Published release [1.0.3](https://github.com/avinashupadhya99/kong-event-pub/releases/tag/1.0.3) in [avinashupadhya99/kong-event-pub](https://github.com/avinashupadhya99/kong-event-pub)
 <!--END_SECTION:activity-->
 
 
