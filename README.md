@@ -43,8 +43,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3035](https://github.com/ververica/flink-cdc-connectors/issues/3035#issuecomment-1973757631) in [ververica/flink-cdc-connectors](https://github.com/ververica/flink-cdc-connectors)
-2. 🚀 Published release [1.0.3](https://github.com/avinashupadhya99/kong-event-pub/releases/tag/1.0.3) in [avinashupadhya99/kong-event-pub](https://github.com/avinashupadhya99/kong-event-pub)
 <!--END_SECTION:activity-->
 
 
