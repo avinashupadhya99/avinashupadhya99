@@ -37,14 +37,12 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 - [update README image scanning docs](https://github.com/kubescape/github-action/pull/51) on [kubescape/github-action](https://github.com/kubescape/github-action) (5 months ago)
 - [Add slides for Building Envoy filters with WASM](https://github.com/collabnix/dockerbangalore/pull/42) on [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore) (7 months ago)
 - [[Snyk] Security upgrade typeorm from 0.2.37 to 0.3.14](https://github.com/avinashupadhya99/TNB-Discord-Security/pull/12) on [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security) (11 months ago)
-- [[Snyk] Fix for 52 vulnerabilities](https://github.com/avinashupadhya99/Store-App/pull/33) on [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App) (11 months ago)
+- [[Snyk] Fix for 52 vulnerabilities](https://github.com/avinashupadhya99/Store-App/pull/33) on [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App) (1 year ago)
 - [[Snyk] Security upgrade rails from 5.1.7 to 6.1.7.3](https://github.com/avinashupadhya99/Quiz-App/pull/11) on [avinashupadhya99/Quiz-App](https://github.com/avinashupadhya99/Quiz-App) (1 year ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3035](https://github.com/ververica/flink-cdc-connectors/issues/3035#issuecomment-1973757631) in [ververica/flink-cdc-connectors](https://github.com/ververica/flink-cdc-connectors)
-2. 🚀 Published release [1.0.3](https://github.com/avinashupadhya99/kong-event-pub/releases/tag/1.0.3) in [avinashupadhya99/kong-event-pub](https://github.com/avinashupadhya99/kong-event-pub)
 <!--END_SECTION:activity-->
 
 
