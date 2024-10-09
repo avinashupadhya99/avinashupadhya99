@@ -29,7 +29,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubescape/github-action](https://github.com/kubescape/github-action) ([v3.0.5](https://github.com/kubescape/github-action/releases/tag/v3.0.5), 6 months ago) - GitHub action to run Kubescape scans
+- [kubescape/github-action](https://github.com/kubescape/github-action) ([v3.0.5](https://github.com/kubescape/github-action/releases/tag/v3.0.5), 7 months ago) - GitHub action to run Kubescape scans
 
 #### 🔨 Latest Pull Requests I published
 
