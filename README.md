@@ -24,8 +24,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
-- [avinashupadhya99/kubegen-manifests](https://github.com/avinashupadhya99/kubegen-manifests) - Manifest files for https://github.com/avinashupadhya99/kubegen (1 year ago)
-- [kubescape/github-action](https://github.com/kubescape/github-action) - GitHub action to run Kubescape scans (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
