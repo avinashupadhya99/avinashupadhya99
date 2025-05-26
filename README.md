@@ -39,6 +39,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1135](https://github.com/redpanda-data/docs/pull/1135) in [redpanda-data/docs](https://github.com/redpanda-data/docs)
 <!--END_SECTION:activity-->
 
 
