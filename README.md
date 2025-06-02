@@ -24,7 +24,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 
 #### 👷 Check out what I'm currently working on
 
-- [redpanda-data/docs](https://github.com/redpanda-data/docs) - Open source content for the Redpanda documentation (6 days ago)
+- [redpanda-data/docs](https://github.com/redpanda-data/docs) - Open source content for the Redpanda documentation (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -40,7 +40,6 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1135](https://github.com/redpanda-data/docs/pull/1135) in [redpanda-data/docs](https://github.com/redpanda-data/docs)
 <!--END_SECTION:activity-->
 
 
