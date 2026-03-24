@@ -34,7 +34,7 @@ Hello there, I'm Avinash Upadhyaya!👋 I'm a _DevOps Engineer_, currently worki
 - [Fix indentation for secretRef in authentication docs](https://github.com/redpanda-data/docs/pull/1135) on [redpanda-data/docs](https://github.com/redpanda-data/docs) (10 months ago)
 - [update README image scanning docs](https://github.com/kubescape/github-action/pull/51) on [kubescape/github-action](https://github.com/kubescape/github-action) (2 years ago)
 - [Add slides for Building Envoy filters with WASM](https://github.com/collabnix/dockerbangalore/pull/42) on [collabnix/dockerbangalore](https://github.com/collabnix/dockerbangalore) (2 years ago)
-- [[Snyk] Security upgrade typeorm from 0.2.37 to 0.3.14](https://github.com/avinashupadhya99/TNB-Discord-Security/pull/12) on [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security) (2 years ago)
+- [[Snyk] Security upgrade typeorm from 0.2.37 to 0.3.14](https://github.com/avinashupadhya99/TNB-Discord-Security/pull/12) on [avinashupadhya99/TNB-Discord-Security](https://github.com/avinashupadhya99/TNB-Discord-Security) (3 years ago)
 - [[Snyk] Fix for 52 vulnerabilities](https://github.com/avinashupadhya99/Store-App/pull/33) on [avinashupadhya99/Store-App](https://github.com/avinashupadhya99/Store-App) (3 years ago)
 
 #### ⚡ Recent Activity
